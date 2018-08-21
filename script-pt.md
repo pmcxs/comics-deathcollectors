@@ -7,7 +7,7 @@ Vista dentro de um bloco de apartamentos. Um homem está a sair de um dos aparta
 HOMEM (a falar ao telemóvel enquanto fecha a porta de casa)
 > Sim, Dona Clara, não se preocupe que eu levo os medicamentos
 
-Ele ri-se enquanto caminha na direcção do elevador. Ao lado do elevador está um homem (D) de pé
+Ele ri-se enquanto caminha na direcção do elevador. Ao lado do elevador está D de pé
 
 Vê-se que a porta do elevador está aberta e o poço também. Não obstante ele carrega no botão para chamar o elevador
 
@@ -116,7 +116,7 @@ SEGURANÇA
 
 D (sem sequer olhar para ele)
 > Olá Zé
- 
+
 Vai para uma porta bastante discreta e utiliza um leitor biométrico de impressão digital para ter acesso
 
 #### [PAGE]

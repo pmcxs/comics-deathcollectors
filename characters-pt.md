@@ -8,7 +8,7 @@ Personagem principal da história.
 
 Isto também se manifesta na forma como interage com os humanos normais, não tendo qualquer paciência para eles.
 
-Usa um bigode à mosqueteiro e anda geralmente bem arranjado e com fato e gravata pretos.
+Usa um bigode à mosqueteiro e anda geralmente bem arranjado com fato e gravata pretos.
 
 
 ### C
