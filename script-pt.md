@@ -209,10 +209,7 @@ D
 > Devias sugerir ao G um ranking de mortes por estilo. De certeza que terias muito sucesso
 
 C (a olhar para cima e a coçar o queixo)
-> Sim, o G ia adoraaaar essa ideia. Aproveito e peço um aumento
-
-C (com riso malandro)
-> Mas infelizmente acho que o G não gosta muito de mim
+> Aproveito e peço um aumento mas infelizmente acho que o G não gosta muito de mim
 
 D (de olhos muito abertos, como que a gozar)
 > Isso é tão verdade que eu dizer que é um eufemismo é quase um eufemismo
@@ -233,7 +230,7 @@ C (a rir)
 > Com batota, claro. Mas exige classe na mesma
 
 D
-> Com essa tromba imagino que precises de toda a ajuda que conseguires. É preciso azar para saires imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera.
+> Com essa tromba imagino que precises de toda a ajuda que conseguires. É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera.
 
 C (sem olhar para D enquanto pega na caneca)
 > Podia ser pior. Podia ter estagnado no tempo e ter um bigode de Mosqueteiro do Século XVII
@@ -242,7 +239,7 @@ D
 > Pois fica sabendo que este bigode já foi muito elogiado
 
 C
-> Sim, e a lobotomia quando foi inventada também foi considerada uma boa ideia
+> Sim, a lobotomia quando foi inventada também foi considerada uma boa ideia
 
 D levanta-se enquanto sorri e faz um manguito a C que ainda bebe mais uma cerveja e lhe faz um manguito com a outra mão
 
@@ -284,7 +281,7 @@ Começa a folhear a pasta:
 D (pensamento)
 > Carlos Alberto, Maria Rosa e Luís Lopes
 
-Entretanto vê G:
+Entretanto vê G
 
 D (pensamento)
 > Merda. Só me faltava agora ter de aturar o G
@@ -347,9 +344,9 @@ D (pensamento)
 D (pensamento)
 > Embora o G diga que há um padrão e que nada acontece ao acaso tudo isto me parece uma espécie de lotaria cósmica. Primeiro prémio: receber a visita inusitada de um indivíduo imortal, com poderes que se equiparam aos de um super-herói (ou super-vilão), que irá garantir que o vencedor recebe um bilhete só de ida para o além
  
-Entretanto o autocarro já tinha chegado:
+Entretanto o autocarro já tinha chegado.
  
-MOTORISTA
+MOTORISTA (com a porta do autocarro aberta)
 > Amigo, este é o único autocarro que aqui para. É para entrar?
  
 ### [SCENE] Viagem de autocarro
@@ -380,7 +377,7 @@ D
 > Sabem quem disse isto? Sócrates no século 3 antes de Cristo
  
 D
-> Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-cristo
+> Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo
 
 Elas olham um ar surpreendido.
  
@@ -426,9 +423,9 @@ POLÍCIA (ainda a apontar a arma, com um ar assustado)
 
 #### [PAGE]
 
-Desesperado Pereira dispara um tiro nele, pelo que o homem cai no chão
+Desesperado o polícia dispara um tiro nele, pelo que o homem cai no chão
 
-Nessa altura Pereira vê o homem morto no chão sem qualquer arma ao lado, inclusive com uma roupa diferente
+Nessa altura o Polícia vê o homem morto no chão sem qualquer arma ao lado, inclusive com uma roupa diferente
 
 POLÍCIA (assustado, colocando-se de joelhos)
 > Ele tinha uma arma... Eu vi... Ele tinha uma arma...
@@ -515,7 +512,7 @@ Luís aproxima-se de um cruzamento para peões
 #### [PAGE]
 
 D
-> Bem, não vou ganhar pontos de originalidade com esta…
+> Bem, não vou ganhar pontos de estilo com esta, mas 2 em 3 já não foi mau.
 
 Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, mas a parar de repente, como se estivesse estagnado, ainda inclinado para a frente
 
@@ -549,7 +546,7 @@ Vê-se, num plano diferente do outro, ela a puxar Luís para trás
 
 Já com Luís sentado no chão, como na cena anterior
 
-Alice (pensamento)
+ALICE (pensamento)
 > Só me faltava esta... Este otário quer morrer ou quê?
 
 ### [SCENE] Luís caminha para o emprego
@@ -583,10 +580,8 @@ Luís nem consegue responder. Nesta altura um dos tipos tira uma ponta-e-mola e 
 
 Finalmente Luís chega a um edifício grande de uma empresa de investigação farmacêutica (Genomium) e entra lá para dentro.
 
-D pensa:
-
-D
-> Hmm, enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa
+D (pensamento)
+> Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa
 
 
 ### [SCENE] Casa de Luís
@@ -625,7 +620,7 @@ Rescaldo da situação, já com a polícia e bombeiros na zona. Luís está a se
 D espreita ao longe com Alice ao lado dele. D pega no telefone:
 
 D
-> C, preciso de falar contigo urgentemente. Não consigo terminar o meu último trabalho de hoje e estou-me a passar. Não, não estou a brincar. Consegues ir ter ao café agora?
+> C, preciso de falar contigo urgentemente. Não, não estou a brincar. Consegues ir ter ao café agora?
 
 #### [PAGE]
 
@@ -672,9 +667,7 @@ C
 D
 > Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies e mato-os
 
-C ri-se:
-
-C
+C (a rir-se)
 > Que falta de consideração pelos teus clientes
 
 #### [PAGE]
@@ -682,7 +675,7 @@ C
 D diz com ironia:
 
 D
-> Desculpe sr. G, não sabia que o tinha convidado para vir beber um copo
+> Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo
 
 C
 > AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo
@@ -799,9 +792,7 @@ D
 
 Alice aparece sentada ao lado de D
 
-D olha para ela e diz:
-
-D
+D (enquanto olha para ela)
 > Olá
 
 #### [PAGE]
@@ -843,7 +834,7 @@ D
 > Dito por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?
 
 ALICE
-> Sou uma Protectora. Eu protejo pessoas
+> Sou uma Protectora. Eu... protejo pessoas
 
 D
 > Sim, pelo nome nunca iria perceber. Há muitos de vocês?
@@ -900,7 +891,7 @@ D
 ALICE
 > E consegues isso?
 
-D esboça um sorriso ligeiro e diz:
+D esboça um sorriso ligeiro e diz.
 
 D
 > Sozinho não consigo, mas com a ajuda de alguém invisível talvez...
@@ -913,12 +904,12 @@ Alice sorri de volta
 
 Vista de fora do edifício das finanças. O texto de narrador mostrará a conversa de D a explicar o plano a Alice, ao mesmo tempo que é executado
 
-NARRADOR
+NARRADOR (D)
 > OK, então o plano vai ser este
 
 Vista da recepção com D a entrar e a falar com Zé 
 
-NARRADOR
+NARRADOR (D)
 > às 7:30 eu entro no escritório, como em tantos outros dias, e cumprimento o segurança
 
 D
@@ -935,7 +926,7 @@ NARRADOR (D)
 NARRADOR (ALICE)
 > Não podes simplesmente fazê-lo não me ver?
 
-Narrador (D)
+NARRADOR (D)
 > Não. O Zé é imune a isso
 
 Grande plano de Zé 
@@ -1006,25 +997,25 @@ NARRADOR (D)
 
 D a colocar uma pasta por baixa da porta
 
-Narrador (D)
+NARRADOR (D)
 > A pasta do processo vai ficar comigo, porque se tu a levasses ia ser relativamente esquisito para os meus colegas verem uma pasta voadora. Assim, quando o F sair, eu vou subtilmente passar o processo por debaixo da porta
 
 Alice a colocar a pasta no arquivo
 
-Narrador (D)
+NARRADO (D)
 > Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa. Assumindo que na escola dos protectores vos ensinam o alfabeto não deverás ter grandes problemas
 
-Narrador (Alice)
+NARRADOR (Alice)
 > Engraçadinho
 
 D a falar com F. F está com ar chateado.
 
-Narrador (D)
-> A seguir vou dizer ao F que me esqueci de lhe dar os meus processos de ontem. Ele vai resmungar mas deverá ir à sala do arquivo novamente
+NARRADOR (D)
+> A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas deverá ir à sala do arquivo novamente
 
 F a abrir a porta e Alice a sair e a dar um toque no ombro de D
 
-Narrador (D)
+NARRADOR (D)
 > Quando passares por mim toca-me no ombro para eu saber que saíste
 
 #### [PAGE]
@@ -1058,7 +1049,7 @@ ALICE
 > Sei que o processo dele não nos foi atribuído pela forma convencional. Percebi isso porque o recebi directamente do meu chefe
 
 D
-> E?
+> Interessante. Continua
 
 ALICE
 > E mais nada, só sei isso
@@ -1067,7 +1058,7 @@ D (com um chateado)
 > Então e a conversa de eu te ajudar e tu me dares mais informação?
 
 ALICE
-> Se calhar exagerei quando disse que sabia mais pormenores. Mas admite que tudo isto é muito estranho. O facto dele também ter sido marcado por vocês para ser colectado
+> Se calhar exagerei quando disse que sabia mais pormenores. Mas admite que é muito estranho o facto dele também ter sido marcado por vocês para ser colectado
 
 #### [PAGE]
 
@@ -1086,7 +1077,7 @@ ALICE
 > E podemos lá ir? O que têm lá?
 
 D
-> Geralmente nada de especial. Serve tipicamente para arquivar casos antigos
+> Geralmente nada de especial. Serve tipicamente para arquivar os casos processados
 
 ALICE
 > E vamos lá?
@@ -1253,13 +1244,17 @@ ALICE
 > Não foi assim tão mau. Só tiveste de ser um pouco mais cuidadoso com os teus clientes
 
 D
+> Sou o único a estranhar seres uma Protectora e teres lidado tão bem com eu ter morto pessoas?
+
+Alice encolhe os ombros
+
+D
 > Vocês são todos assim tão insuportáveis?
 
 ALICE (a rir)
 > Não. Saiu-te a fava
 
-D
-> Raiosparta
+D revira os olhos
 
 #### [PAGE]
 
@@ -1267,7 +1262,7 @@ D (enquanto olha para o relógio)
 > Olha, está na hora de irmos para o arquivo central. Ainda são umas 2 horas de comboio
 
 ALICE
-> De comboio? Porque raio vamos de comboio?
+> De comboio? Porque é que vamos de comboio?
 
 D (a caminhar, já sem olhar para ela)
 > Porque de autocarro demorava mais
@@ -1278,7 +1273,7 @@ D (a caminhar, já sem olhar para ela)
 #### [PAGE]
 
 ALICE
-> Tens a certeza que não temos problemas a entrar?
+> Tens a certeza que não vamos ter problemas a entrar?
 
 D
 > A última vez que lá fui a segurança era feita por humanos. Nunca vi um guardião lá
@@ -1307,7 +1302,7 @@ Entram na sala de arquivo. É uma sala gigantesca com várias filas de arquivos,
 Ouve-se uma voz por trás deles
 
 ANCIÃO
-> Sejam bem-vindos
+> Sejam bem-vindos. Estava à vossa espera
 
 #### [PAGE]
 
@@ -1363,12 +1358,12 @@ NARRADOR
 Plano de D e Alice a sairem do comboio
 
 NARRADOR
-> Podem-se estar a questionar o motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda
+> Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda
 
 D e Alice a chegarem ao Hospital
 
 NARRADOR
-> Estamos todos aqui hoje devido a um único factor: o vosso cliente
+> Estamos todos aqui hoje devido a um único factor: o vosso estimado cliente
 
 NARRADOR
 > O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável
@@ -1385,9 +1380,9 @@ NARRADOR
 Vista de D a trocar um medicamento por outro
 
 NARRADOR
-> Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio
+> Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio
 
-> Outros porém, acham que não temos o direito de impedir esta descoberta. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos
+> Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos
 
 Vista de D com uma lágrima no olho
 
@@ -1426,7 +1421,7 @@ NARRADOR
 Vista ainda mais próxima. Alice fecha os olhos
 
 NARRADOR
-> Se chegar a isso, espero que saiba que esse sacrifício não será de todo em vão, dado que está em jogo a sobrevivência da espécie humana
+> Se chegar a isso, espero que saiba que esse sacrifício é incrivelmente nobre, dado que está em jogo a sobrevivência da espécie humana
 
 Vista de Alice a transformar-se em pó nas mãos de D
 
@@ -1448,7 +1443,7 @@ OPERADOR
 > 112. Qual é a emergência?
 
 D
-> Boa noite...
+> Boa noite.
 
 Pouco depois vê-se a abrir o saco que trazia e a tirar de lá comida de gato.
 
