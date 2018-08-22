@@ -1235,37 +1235,34 @@ D (com um ar aborrecido enquanto coloca o chapéu)
 D caminha meio aborrecido com Alice atrás dele com ar satisfeito
 
 ALICE
-> Não percebo porque estás tão aborrecido. Conseguiste terminar o teu trabalho para o dia
+> Temos de fazer isto mais vezes. Foi divertido.
 
 D
-> Pior dia de trabalho de sempre. Vou pedir para algum dos meus colegas me matar
+> Se consideras divertido estar a ouvir um zumzum constante de: "não faças isso, faz aquilo. Assim não, assim sim". 
+
+> Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir
 
 ALICE
-> Não foi assim tão mau. Só tiveste de ser um pouco mais cuidadoso com os teus clientes
+> Vá. Não foi assim tão mau
 
 D
-> Sou o único a estranhar seres uma Protectora e teres lidado tão bem com eu ter morto pessoas?
+> Sou o único a estranhar o facto de seres uma Protectora e lidares tão bem com a morte?
 
-Alice encolhe os ombros
-
-D
-> Vocês são todos assim tão insuportáveis?
-
-ALICE (a rir)
-> Não. Saiu-te a fava
+ALICE (enquanto encolhe os ombros)
+> Sabe bem variar de vez em quando
 
 D revira os olhos
 
 #### [PAGE]
 
 D (enquanto olha para o relógio)
-> Olha, está na hora de irmos para o arquivo central. Ainda são umas 2 horas de comboio
+> Seja como for está na hora de irmos para o arquivo central. Ainda são umas 2 horas de comboio
 
 ALICE
 > De comboio? Porque é que vamos de comboio?
 
 D (a caminhar, já sem olhar para ela)
-> Porque de autocarro demorava mais
+> Porque de autocarro demorava muito mais
 
 
 ### [SCENE] Comboio
@@ -1276,13 +1273,13 @@ ALICE
 > Tens a certeza que não vamos ter problemas a entrar?
 
 D
-> A última vez que lá fui a segurança era feita por humanos. Nunca vi um guardião lá
+> A última vez que lá fui a segurança era feita por humanos e não por guardiões
 
 ALICE
 > Isso não é esquisito? Mas que raio de edifício é este afinal?
 
 D
-> Eu trabalho na divisão da minha cidade. Este é o arquivo central do país. Todos os casos estão lá consolidados. A haver mais informação é aqui que estará
+> Eu trabalho na divisão da minha cidade. Este é o arquivo central do país. Todos os casos estão lá consolidados. A haver mais informação este é o sítio certo
 
 
 ### [SCENE] Arquivo
