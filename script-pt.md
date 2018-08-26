@@ -2,7 +2,7 @@
 
 #### [PAGE]
 
-Vista dentro de um bloco de apartamentos. Um homem está a sair de um dos apartamentos, vestido de enfermeiro.
+Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro.
 
 HOMEM (a falar ao telemóvel enquanto fecha a porta de casa)
 > Sim, Dona Clara, não se preocupe que eu levo os medicamentos
@@ -88,7 +88,7 @@ NARRADOR (percebe-se que é D a continuar o seu discurso)
 Imagem de um médico com uma seringa na mão
 
 NARRADOR
-> Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivo. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante, dado que a medicina permitiu que os membros inaptos prosperassem, enquanto noutros tempos a seleção natural trataria de garantir que não teriam oportunidade de se reproduzirem
+> Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivo. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante, dado que a medicina permitiu que membros inaptos prosperassem, enquanto noutros tempos a seleção natural trataria de garantir que não teriam oportunidade de se reproduzirem
 
 Image volta a um grande plano de D
  
@@ -161,7 +161,7 @@ C (continuando)
 > Fazer o gajo comer 23 pudins levou arte e engenho. Tive pena porque achei que ele fosse capaz de chegar aos 30
 
 D
-> O entusiasmo com que fazes isto cansa-me
+> O entusiasmo com que ainda fazes isto cansa-me
 
 C ri-se
 
@@ -209,7 +209,9 @@ D
 > Devias sugerir ao G um ranking de mortes por estilo. De certeza que terias muito sucesso
 
 C (a olhar para cima e a coçar o queixo)
-> Aproveito e peço um aumento mas infelizmente acho que o G não gosta muito de mim
+> Aproveito e peço um aumento mas...
+
+> Infelizmente acho que o G não gosta muito de mim
 
 D (de olhos muito abertos, como que a gozar)
 > Isso é tão verdade que eu dizer que é um eufemismo é quase um eufemismo
@@ -218,7 +220,7 @@ C (a rir)
 > Mais 200 anos e dou-lhe a volta
 
 D
-> Pois, pois. Vá, tenho de ir. Abraço.
+> Acho que nem com mais 1000. Vá, tenho de ir embora.
 
 C (a apontar com o polegar para trás)
 > Eu também vou, mas é acompanhado por aquela loiraça que está ali sentada
@@ -230,7 +232,7 @@ C (a rir)
 > Com batota, claro. Mas exige classe na mesma
 
 D
-> Com essa tromba imagino que precises de toda a ajuda que conseguires. É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera.
+> Com essa cara imagino que precises de toda a ajuda que conseguires. É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera.
 
 C (sem olhar para D enquanto pega na caneca)
 > Podia ser pior. Podia ter estagnado no tempo e ter um bigode de Mosqueteiro do Século XVII
@@ -302,14 +304,14 @@ G
 > Sim, mas o autocarro que atropelou o seu primeiro cliente despistou-se e matou mais 3 pessoas num café
 
 D (já a olhar para G)
-> Qual a diferença? Isto é uma gota no Oceano para todas as pessoas que morrem diariamente, mesmo sem a nossa intervenção
+> Eu vejo isso como um bónus. Qual a diferença? Isto é uma gota no Oceano para todas as pessoas que morrem diariamente, com ou sem a nossa intervenção
 
 #### [PAGE]
  
 Enquanto G vai falando D imagina cenários de morte para este
  
 G
-> Compreendo que não seja fácil de compreender mas nós somos uma peça fundamental no equilíbrio da espécie humana. Embora pareça um contra-senso, o trabalho que temos feito durante os últimos milénios tem sido fulcral para a sua sobrevivência
+> Compreendo que não seja fácil para o senhor D compreender, mas nós somos uma peça fundamental no equilíbrio da espécie humana. Embora pareça um contra-senso, o trabalho que temos feito durante os últimos milénios tem sido fulcral para a sua sobrevivência
  
 G
 > É imperativo que nos dediquemos de corpo e alma a esta causa, elencando sempre os nossos esforços para algo mais. É preciso seguirem os desígnios que vos são propostos e confiarem que há um padrão bem definido para tudo
@@ -322,10 +324,10 @@ D está com um ar disperso (devido a estar a imaginar os tais cenários de morte
 G (baixando-se com ar chateado directamente para D)
 > Você está sequer a ouvir-me?
  
-D
-> Com certeza Senhor G. Padrões  e ... uh ... respeito
+D (a revirar os olhos)
+> Com certeza Senhor G.
  
-G vira costas
+G vira costas e D faz um manguito meio disfarçado
 
 ### [SCENE] Paragem do autocarro
 
@@ -504,15 +506,12 @@ Plano de D a sair da casa, vendo-se a mão dela no chão
 
 D vê a sua vítima, Luís Lopes, a caminhar na rua numa zona bastante movimentada
 
-NARRADOR
-> Sujeito: Luís Lopes
-
 Luís aproxima-se de um cruzamento para peões
 
 #### [PAGE]
 
 D
-> Bem, não vou ganhar pontos de estilo com esta, mas 2 em 3 já não foi mau.
+> Bem, não vou ganhar pontos de estilo com esta, mas 2 em 3 já não foi mau. Badamerda para o C.
 
 Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, mas a parar de repente, como se estivesse estagnado, ainda inclinado para a frente
 
