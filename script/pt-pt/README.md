@@ -1091,7 +1091,7 @@ ALICE
 > E vamos lá?
 
 D
-> Parece-me a única hipótese que nos sobra. Mas vamos à noite porque durante o dia tem bastante mais movimento
+> Parece-me a única hipótese que nos resta. Mas vamos à noite porque durante o dia tem bastante mais movimento
 
 ALICE
 > Ok. Então o que fazemos agora?
@@ -1108,14 +1108,18 @@ ALICE (com bochechas para baixo, a imitar o Don Corleone):
 > Mantém os teus amigos perto e os teus inimigos ainda mais perto
 
 D
-> Sabes que há, historicamente, grandes discussões relativamente àà origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, mas porém...
+> Sabes que há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, mas porém...
 
 D para quando vê Alice a olhar para ele ar perplexo
 
 ALICE
 > És uma pessoa muito esquisita...
 
-> Mas olha, estou curiosa. Podes-me falar dos teus poderes?
+D
+> Bah! Isto é como deitar pérolas a porcos.
+
+ALICE (com ar interessado)
+> Olha, estou curiosa. Podes-me falar dos teus poderes?
 
 D (a olhar para o lado)
 > Não me aborreças
@@ -1126,8 +1130,9 @@ ALICE
 > Vá lá
 
 D (enquanto revira os olhos)
+> Santa Paciência...
 
-> Pronto. Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar.
+> Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar.
 
 ALICE (com um ar entusiasmado)
 > Isso é espectacular. Podes-me mostrar?
@@ -1163,9 +1168,9 @@ CORREDOR
 > Desculpe, desculpe
 
 ALICE (enquanto se desmancha a rir)
-> Ahah, foi bestial. Não sei o que é que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais agradável do que aquele matulão
+> Ahah, foi bestial. Não sei o que é que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais interessante do que aquele matulão
 
-D ri-se.
+D sorri
 
 #### [PAGE]
 
@@ -1181,7 +1186,7 @@ ALICE (a rir)
 D
 > Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais
 
-> Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório
+> Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.
 
 ALICE
 > O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias, mesmo que eu não as compreenda.
@@ -1238,7 +1243,7 @@ ALICE
 > Como vou invisível podes imaginar que sou a voz da tua consciência
 
 D (com um ar aborrecido enquanto coloca o chapéu)
-> Raiostaparta
+> Santa Paciência...
 
 
 ### [SCENE] Anoitecer
@@ -1455,7 +1460,7 @@ OPERADOR
 > 112. Qual é a emergência?
 
 D
-> Boa noite.
+> Boa noite. Queria reportar um acidente
 
 Pouco depois vê-se a abrir o saco que trazia e a tirar de lá comida de gato.
 
