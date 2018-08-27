@@ -1,3 +1,6 @@
+
+---
+
 ### [SCENE] Prólogo
 
 #### [PAGE]
@@ -161,14 +164,20 @@ C (continuando)
 > Fazer o gajo comer 23 pudins levou arte e engenho. Tive pena porque achei que ele fosse capaz de chegar aos 30
 
 D
-> O entusiasmo com que ainda fazes isto cansa-me
+> O entusiasmo com que ainda fazes isto cansa-me. Quantos tens hoje?
+
+C
+> 3. A meio da tarde já vou estar despachado e a malhar copos. Apareces por lá depois?
+
+D
+> Sou capaz de lá dar um salto.
 
 C ri-se
 
-C (que entretanto já se levantou)
-> Olha, vemo-nos no bar depois
+C (que entretanto já se levantou e acena-lhe
+> Eu sei que vais. Até nisso és previsível
 
-D acena
+D faz-lhe um manguito
 
 ### [SCENE] Dia de trabalho
 
@@ -209,9 +218,7 @@ D
 > Devias sugerir ao G um ranking de mortes por estilo. De certeza que terias muito sucesso
 
 C (a olhar para cima e a coçar o queixo)
-> Aproveito e peço um aumento mas...
-
-> Infelizmente acho que o G não gosta muito de mim
+> Aproveitava e pedia um aumento mas nfelizmente acho que o G não gosta muito de mim
 
 D (de olhos muito abertos, como que a gozar)
 > Isso é tão verdade que eu dizer que é um eufemismo é quase um eufemismo
@@ -223,7 +230,7 @@ D
 > Acho que nem com mais 1000. Vá, tenho de ir embora.
 
 C (a apontar com o polegar para trás)
-> Eu também vou, mas é acompanhado por aquela loiraça que está ali sentada
+> Eu também vou, mas é acompanhado por aquela loiraça ali sentada
 
 D (a coçar o queixo)
 > Hmmm, e vais consegui-lo com ou sem batota?
@@ -688,8 +695,10 @@ C
 D
 > Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista
 
+(compasso de espera)
+
 C
-> Ó meu! Cala-te! Vai-te embora!
+> Ó meu! Vai-te embora!
 
 D coloca o chapéu e acena enquanto sai com Alice ao seu lado
 
@@ -1093,14 +1102,19 @@ D
 #### [PAGE]
 
 ALICE
-> No Hospital ele está bem. Além disso parece-me que ficar de olho em ti é a forma mais segura de mantê-lo vivo
+> No Hospital ele está bem. Além disso parece-me que ficar de olho em ti é a forma mais segura de mantê-lo vivo. Já dizia Don Corleone:
 
-D (a sorrir)
-> É justo
+ALICE (com bochechas para baixo, a imitar o Don Corleone):
+> Mantém os teus amigos perto e os teus inimigos ainda mais perto
 
-Alice olha para D
+D
+> Sabes que há, historicamente, grandes discussões relativamente àà origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, mas porém...
+
+D para quando vê Alice a olhar para ele ar perplexo
 
 ALICE
+> És uma pessoa muito esquisita...
+
 > Mas olha, estou curiosa. Podes-me falar dos teus poderes?
 
 D (a olhar para o lado)
@@ -1113,7 +1127,7 @@ ALICE
 
 D (enquanto revira os olhos)
 
-> Santa Paciência... Os colectores têm a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar
+> Pronto. Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar.
 
 ALICE (com um ar entusiasmado)
 > Isso é espectacular. Podes-me mostrar?
@@ -1170,7 +1184,7 @@ D
 > Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório
 
 ALICE
-> O nosso processo é parecido. No entanto eu acredito honestamente que as escolhas têm de ter uma razão de ser, mesmo que eu não as compreenda.
+> O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias, mesmo que eu não as compreenda.
 
 D
 > Uiii, acreditas nisso? Ias adorar o meu chefe
@@ -1178,7 +1192,7 @@ D
 #### [PAGE]
 
 ALICE
-> E tu, não acreditas em nada do que fazes? Deves ter uma vida muito triste
+> E tu, não acreditas no que fazes? Isso é triste
 
 D
 > É o que é. Recebo os nomes e mato-os... Simples
@@ -1224,7 +1238,7 @@ ALICE
 > Como vou invisível podes imaginar que sou a voz da tua consciência
 
 D (com um ar aborrecido enquanto coloca o chapéu)
-> Raiosparta
+> Raiostaparta
 
 
 ### [SCENE] Anoitecer
@@ -1237,18 +1251,20 @@ ALICE
 > Temos de fazer isto mais vezes. Foi divertido.
 
 D
-> Se consideras divertido estar a ouvir um zumzum constante de: "não faças isso, faz aquilo. Assim não, assim sim". 
-
-> Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir
+> Se consideras divertido estar a ouvir um zumzum constante de: "não faças isso, faz aquilo. Assim não, assim sim". Se calhar casei-me e ninguém me disse nada.
 
 ALICE
 > Vá. Não foi assim tão mau
 
 D
-> Sou o único a estranhar o facto de seres uma Protectora e lidares tão bem com a morte?
+> Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir
+
+D (a virar-se para ela)
+
+> E já agora, sou o único a estranhar o facto de seres uma Protectora e lidares tão bem com o facto de me teres ajudado a matar pessoas?
 
 ALICE (enquanto encolhe os ombros)
-> Sabe bem variar de vez em quando
+> É bom experimentar coisas novas
 
 D revira os olhos
 
