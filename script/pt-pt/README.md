@@ -1,25 +1,27 @@
 
----
-
 ### [SCENE] Prólogo
 
 #### [PAGE]
 
 Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro.
 
-HOMEM (a falar ao telemóvel enquanto fecha a porta de casa)
+`HOMEM (a falar ao telemóvel enquanto fecha a porta de casa)`
 > Sim, Dona Clara, não se preocupe que eu levo os medicamentos
 
-Ele ri-se enquanto caminha na direcção do elevador. Ao lado do elevador está D de pé
+Ele ri-se enquanto caminha na direcção do elevador. 
 
-Vê-se que a porta do elevador está aberta e o poço também. Não obstante ele carrega no botão para chamar o elevador
+Ao lado do elevador está D de pé
 
-HOMEM (enquanto "espera" pelo elevador)
+Vê-se que a porta do elevador está aberta e o poço também. 
+
+Não obstante ele carrega no botão para chamar o elevador e enquanto espera continua a falar ao telemóvel.
+
+`HOMEM`
 > AH AH, claro que sim. Mas olhe, tenho de desligar porque vou entrar no elevador
 
 Ele aguarda um pouco e depois avança tranquilamente para dentro do poço do elevador, caindo e gritando durante a queda.
 
-[PAGE]
+#### [PAGE]
 
 Vista por trás (e cima) de D a espreitar para dentro do poço do elevador.
 
@@ -40,14 +42,16 @@ D toma um duche e faz a barba.
 
 #### [PAGE]
 
-D está a tomar o pequeno-almoço almoço enquanto vê televisão
+D está a tomar o pequeno-almoço enquanto vê televisão
 
 Enquanto se está a vestir vê-se a televisão ligada atrás onde estão a passar notícias:
 
-TV
+`TV`
 > ...Esta morte insólita deveu-se à ingestão de 23 pudins...
 
-D (com pequeno sorriso enquanto coloca o chapéu)
+D, com um pequeno sorriso enquanto coloca o chapéu.
+
+`D` 
 > És mesmo anormal C
 
 D sai de casa
@@ -61,41 +65,49 @@ D está na paragem de autocarro e estica o braço para sinalizar ao autocarro pa
 
 Pouco depois está sentado a ler um jornal com uma velhota ao lado. Ela vira-se para ele
 
-VELHOTA
+`VELHOTA`
 > Este autocarro é pavoroso. Abana por todos os lados. É um suplício e fico toda enjoada
 
-VELHOTA (D ainda está a olhar para o seu jornal mas ela continua)
+D ainda está a olhar para o seu jornal mas ela continua
+
+`VELHOTA`
 > E ainda piora com o reumatismo. Tenho de tomar medicamentos para a tensão e para o coração com uma pensão que é uma miséria. Isto tudo para aqueles velhacos das farmácias. Deixam-nos doentes de propósito para ficarem com o nosso dinheiro
 
-D (ainda a olhar para baixo mas virando a cara ligeiramente para ela diz)
-> Olhe
+D, ainda a olhar para baixo mas virando a cara ligeiramente para ela, diz
+
+`D: Olhe`
 
 #### [PAGE]
 
-D (olha para ela e continua)
-> Você já ouviu falar da teoria da evolução das espécies de Darwin?
+Olha directamente para ela
 
-VELHOTA (com um ar meio surpreso)
+`D: Você já ouviu falar da teoria da evolução das espécies de Darwin?`
+
+A velhota faz um ar surpreso
+
+`VELHOTA`
 > Como?
 
-D (com um ar ainda meio desinteressado)
+D, ainda com um ar desinteressado, continua.
+
+`D` 
 > Genericamente falando descreve a forma como as espécies evoluem e se adaptam por forma a sobreviverem ao meio que as rodeia
 
 Imagem com a evolução do ser humano a partir dos primatas
 
-NARRADOR (percebe-se que é D a continuar o seu discurso)
+`NARRADOR (D)`
 > Falando especificamente dos humanos, durante milhões de anos tornaram-se mais fortes e aptos, dado que apenas os mais resistentes sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes. Desta forma garantia-se que as novas gerações seriam cada vez melhores e mais aptas
  
 #### [PAGE]
 
 Imagem de um médico com uma seringa na mão
 
-NARRADOR
+`NARRADOR (D)`
 > Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivo. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante, dado que a medicina permitiu que membros inaptos prosperassem, enquanto noutros tempos a seleção natural trataria de garantir que não teriam oportunidade de se reproduzirem
 
 Image volta a um grande plano de D
  
-D
+`D`
 > De certa forma é positivo porque aumenta a diversidade, mas na realidade tornou os humanos numa espécie de flor de estufa, totalmente dependentes de cuidados terceiros
 
 Imagem da velhota com olhos muito abertos
