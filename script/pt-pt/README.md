@@ -853,7 +853,7 @@ ALICE
 #### [PAGE]
 
 D
-> Bestial. Andamos nós a matar para que depois haja aí um grupo de escuteiros a salvá-los. Como se isto não fosse já inútil o suficiente. Então e este tipo, o Luís, porque é que o estás a salvar?
+> Bestial. Andamos nós a matar para que depois haja aí um grupo de escuteiros a salvá-los. Como se isto não fosse já parvo o suficiente. Então e este tipo, o Luís, porque é que o estás a salvar?
 
 ALICE
 > Recebi ordens para o fazer
@@ -883,6 +883,8 @@ ALICE
 
 D levanta-se e olha para a rua, de costas para Alice, enquanto pensa
 
+(fica bastante tempo virado de costas)
+
 Vira-se para ela
 
 D
@@ -899,7 +901,7 @@ D
 ALICE
 > E consegues isso?
 
-D esboça um sorriso ligeiro e diz.
+D, ainda de costas para ela, esboça um sorriso ligeiro e diz:
 
 D
 > Sozinho não consigo, mas com a ajuda de alguém invisível talvez...
@@ -1344,109 +1346,123 @@ ANCIÃO
 
 > Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte
 
-### [SCENE] Conclusão
-
 #### [PAGE]
 
-Nesta cena a continuação da conversa anterior do Ancião irá acompanhar a acção posterior, motivo pelo qual a conversa dele aparece como Narrador
-
-Vista de Alice e D com um ar triste enquanto viajam de comboio
-
-NARRADOR (ANCIÃO)
+ANCIÃO
 > Nós somos responsáveis por ajudar a manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se e aos outros nós intervimos para ajudar a alcançar um balanço.
 
 Grande plano de Alice
 
-NARRADOR
+ANCIÃO
 > Por vezes protegemos
 
 Grande plano de D
 
-NARRADOR
+ANCIÃO
 > Por outras eliminamos
 
 Plano de D e Alice a olharem um para o outro
 
-NARRADOR
+ANCIÃO
 > Para tal definimos um modelo incrivelmente complexo onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos mas garanto-vos que há uma ordem e um sentido para tudo. Não obstante, como em qualquer modelo complexo, também se cometem erros
 
 #### [PAGE]
 
-Plano de D e Alice a sairem do comboio
-
-NARRADOR
+ANCIÃO
 > Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda
 
-D e Alice a chegarem ao Hospital
-
-NARRADOR
+ANCIÃO
 > Estamos todos aqui hoje devido a um único factor: o vosso estimado cliente
 
-NARRADOR
+ANCIÃO
 > O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável
 
-Vista de Luís, deitado na cama do Hospital
 
-NARRADOR
+ANCIÃO
 > Por um lado pode ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis
 
 > Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.
 
 #### [PAGE]
 
-Vista de D a trocar um medicamento por outro
-
-NARRADOR
+ANCIÃO
 > Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio
 
 > Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos
 
-Vista de D com uma lágrima no olho
-
-NARRADOR
+ANCIÃO
 > Não conseguindo chegar a consenso optámos por uma nova estratégia: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto
 
-Enfermeira a injectar o novo medicamento ao invés do suposto
-
-NARRADOR
+ANCIÃO
 > No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector
 
 #### [PAGE]
 
-Monitor da cama de Luís a mostrar zero batimentos cardíacos
-
-NARRADOR
+ANCIÃO
 > A estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito
 
-Vista da mão de Luís
-
-NARRADOR
+ANCIÃO
 > A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam
 
-Vista de Alice no chão com D a segurar-lhe a cabeça
+ALICE
+> Não sei se vai ser fácil chegarmos a acordo
 
-NARRADOR
-> Dependendo da decisão, um de vocês poderá pagar um preço muito elevado, nomeadamente você minha querida
+D
+> Hmmm, pois. Quanto a isso...
 
-#### [PAGE]
+Alice e o Ancião olham para ele com ar supreendido
 
-Vista mais próxima da cara dela, a sorrir
+D
+> Se tudo correu como planeado, o nosso amigo já estará a fazer tijolo.
 
-NARRADOR
-> Durante a fase onde um Protector protege a pessoa, as duas vidas ficam intimamente ligadas. Se um morrer o outro morre também
+ALICE
+> Como? O que queres dizer?
 
-Vista ainda mais próxima. Alice fecha os olhos
+Vista frontal de D, de costas para Alice (quando foi pensar no Hospital)
 
-NARRADOR
-> Se chegar a isso, espero que saiba que esse sacrifício é incrivelmente nobre, dado que está em jogo a sobrevivência da espécie humana
+NARRADOR (D)
+> Lembras-te de estarmos a conversar no Hospital?
 
-Vista de Alice a transformar-se em pó nas mãos de D
+Olhos de D a olharem para o lado
 
-NARRADOR
-> Desculpem ter-vos colocado nesta situação
+NARRADOR (D)
+> Quando percebi que precisavas da minha ajuda vi isso como uma oportunidade dupla:
 
-D a colocar o chapéu e a ir embora
+> Por um lado ias ajudar-me a perceber melhor o que se passava
 
+> Por um outro irias baixar a guardar, dando-me uma janela de oportunidade.
+
+> Fiz uma enfermeira dar uma dose simpática de potássio ao geniozinho
+
+Monitor de Luís com flatline, a mostrar que está morto
+
+NARRADOR (D)
+> Foi lento mas eficaz
+
+
+ALICE (com ar assustado)
+> Mas e tudo o resto? Teres ido comigo alterar o processo? Virmos aqui a este sítio? Porque te deste ao trabalho?
+
+D
+> Para poder investigar, sem que enviassem outro cobrador, precisava de tempo, pelo que agredeço a tua ajuda com o processo.
+
+Alice olha para ele com ar chateado
+
+D
+> Quanto ao resto, simplesmente aconteceu...  
+
+ALICE
+> Tu... usaste-me... Merda!
+
+
+Alice vai-se embora chateada enquanto faz um manguito
+
+D
+> Isso não é uma linguagem adequada a um protector
+
+
+D (enquanto retira o chapéu a despedir-se do Ancião, que olha para ele com ar surpreendido)
+> Um bom dia para o Senhor
 
 ### [SCENE] Epílogo
 
