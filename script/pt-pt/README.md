@@ -6,7 +6,7 @@
 Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro.
 
 `HOMEM (a falar ao telemóvel enquanto fecha a porta de casa)`
-> Sim, Dona Clara, não se preocupe que eu levo os medicamentos
+> `Sim, Dona Clara, não se preocupe que eu levo os medicamentos`
 
 Ele ri-se enquanto caminha na direcção do elevador. 
 
@@ -71,7 +71,7 @@ Pouco depois está sentado a ler um jornal com uma velhota ao lado. Ela vira-se 
 D ainda está a olhar para o seu jornal mas ela continua
 
 `VELHOTA`
-> E ainda piora com o reumatismo. Tenho de tomar medicamentos para a tensão e para o coração com uma pensão que é uma miséria. Isto tudo para aqueles velhacos das farmácias. Deixam-nos doentes de propósito para ficarem com o nosso dinheiro
+> `E ainda piora com o reumatismo. Tenho de tomar medicamentos para a tensão e para o coração com uma pensão que é uma miséria. Isto tudo para aqueles velhacos das farmácias. Deixam-nos doentes de propósito para ficarem com o nosso dinheiro`
 
 D, ainda a olhar para baixo mas virando a cara ligeiramente para ela, diz
 
