@@ -1432,6 +1432,9 @@ NARRADOR (D)
 
 > Por um outro irias baixar a guardar, dando-me uma janela de oportunidade.
 
+Imagem da enfermeira a injectar o conteúdo de uma seringa no balão de soro
+
+NARRADOR (D)
 > Fiz uma enfermeira dar uma dose simpática de potássio ao geniozinho
 
 Monitor de Luís com flatline, a mostrar que está morto
@@ -1439,12 +1442,11 @@ Monitor de Luís com flatline, a mostrar que está morto
 NARRADOR (D)
 > Foi lento mas eficaz
 
-
 ALICE (com ar assustado)
 > Mas e tudo o resto? Teres ido comigo alterar o processo? Virmos aqui a este sítio? Porque te deste ao trabalho?
 
 D
-> Para poder investigar, sem que enviassem outro cobrador, precisava de tempo, pelo que agredeço a tua ajuda com o processo.
+> Para poder investigar, sem que enviassem outro cobrador, precisava de tempo, pelo que a tua ajuda com o processo foi essencial.
 
 Alice olha para ele com ar chateado
 
@@ -1454,12 +1456,12 @@ D
 ALICE
 > Tu... usaste-me... Merda!
 
-
-Alice vai-se embora chateada enquanto faz um manguito
+Alice vai-se embora chateada 
 
 D
 > Isso não é uma linguagem adequada a um protector
 
+Alice faz-lhe um manguito, ainda de costas mas mais longe
 
 D (enquanto retira o chapéu a despedir-se do Ancião, que olha para ele com ar surpreendido)
 > Um bom dia para o Senhor
