@@ -85,18 +85,15 @@ Olha directamente para ela
 
 A velhota faz um ar surpreso
 
-`VELHOTA`
-> Como?
+`VELHOTA: Como?`
 
 D, ainda com um ar desinteressado, continua.
 
-`D` 
-> Genericamente falando descreve a forma como as espécies evoluem e se adaptam por forma a sobreviverem ao meio que as rodeia
+`D: Genericamente falando descreve a forma como as espécies evoluem e se adaptam por forma a sobreviverem ao meio que as rodeia`
 
 Imagem com a evolução do ser humano a partir dos primatas
 
-`NARRADOR (D)`
-> Falando especificamente dos humanos, durante milhões de anos tornaram-se mais fortes e aptos, dado que apenas os mais resistentes sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes. Desta forma garantia-se que as novas gerações seriam cada vez melhores e mais aptas
+`NARRADOR (D): Falando especificamente dos humanos, durante milhões de anos tornaram-se mais fortes e aptos, dado que apenas os mais resistentes sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes. Desta forma garantia-se que as novas gerações seriam cada vez melhores e mais aptas`
  
 #### [PAGE]
 
