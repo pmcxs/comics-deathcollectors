@@ -183,19 +183,18 @@ D faz-lhe um manguito
 >> #### [PAGE]
 
 D está sentado num café com a pasta aberta. Lá dentro está uma ficha com a fotografia de um homem.
- 
+
 D olha para a mesa da frente onde esse mesmo homem está sentado e está a pagar a conta.
- 
+
 O homem sai do café e D vai atrás, colocando o seu chapéu 
 
 >> #### [PAGE]
  
 Estão ambos parados num semáforo para peões
- 
-D mantém o olhar em frente mas os seus olhos passam de azuis a vermelhos.
- 
-O homem caminha apressadamente para a frente do autocarro que, sem tempo para travar, o atropela.
 
+D mantém o olhar em frente mas os seus olhos passam de azuis a vermelhos.
+
+O homem caminha apressadamente para a frente do autocarro que, sem tempo para travar, o atropela.
 
 > ### [SCENE] Bar
 
@@ -238,6 +237,7 @@ D coça o queixo
 `D: Hmmm, e vais consegui-lo com ou sem batota?`
 
 C ri-se
+
 `C: Com batota, claro. Mas exige classe na mesma`
 
 `D: Com essa cara imagino que precises de toda a ajuda que conseguires. É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera`
@@ -274,11 +274,11 @@ Passa pela mesa de C que ainda não chegou
 `NARRADOR (D): O cabrão do C ainda deve estar em casa a ressacar`
 
 Chega à sua mesa onde encontra uma nova pasta
- 
+
 `NARRADOR (D): Vamos lá conhecer os clientes de hoje`
 
 Pega na pasta e pensa:
- 
+
 `NARRADOR (D): Os cabrões do Departamento da Guerra já têm isto tudo informatizado e nós ainda fazemos tudo como no século passado`
 
 >> #### [PAGE]
@@ -314,14 +314,14 @@ D olha para G
 >> #### [PAGE]
  
 Enquanto G vai falando D imagina cenários de morte para este
- 
+
 `G: Compreendo que não seja fácil para o senhor D compreender, mas nós somos uma peça fundamental no equilíbrio da espécie humana. Embora pareça um contra-senso, o trabalho que temos feito durante os últimos milénios tem sido fulcral para a sua sobrevivência`
- 
+
 `G: É imperativo que nos dediquemos de corpo e alma a esta causa, elencando sempre os nossos esforços para algo mais. É preciso seguirem os desígnios que vos são propostos e confiarem que há um padrão bem definido para tudo`
- 
+
 `G: Isto significa, acima de tudo, que é preciso respeito. Respeito pelo trabalho e pelos outros, incluindo pelos nossos clientes`
- 
-`D: está com um ar disperso (devido a estar a imaginar os tais cenários de morte de G) e G resmunga`
+
+D está com um ar disperso (devido a estar a imaginar os tais cenários de morte de G)
 
 G baixa-se com um ar chateado, falando directamente com D
 
@@ -338,10 +338,10 @@ G vira costas e D faz um manguito meio disfarçado
 >> #### [PAGE]
 
 D está sentado na paragem de autocarro, com um homem sentado ao lado.
- 
+
 `NARRADOR (D): Se estas pessoas soubessem o quão frágil é a sua vida não saíam de casa com medo do que lhes pudesse acontecer`
 
-D olha para o homem que está sentado ao lado dele na paragem a fumar. Consegue ver que os pulmões dele estão negros de tanto fumar.
+D olha para o homem que está sentado ao lado dele na paragem a fumar. Consegue ver que os pulmões dele estão negros.
 
 `NARRADOR (D): Na verdade conseguem matar-se maravilhosamente sem a nossa ajuda`
 
@@ -360,35 +360,32 @@ O motorista já tem a porta aberta
 >> #### [PAGE]
 
 Neste momento vê-se D novamente num autocarro, desta vez de pé.
- 
+
 Estão duas senhoras a conversar enquanto olham para um casal punk abraçado
 
-SENHORA #1
-> Já me viste aquela pouca vergonha?
+`SENHORA #1: Já me viste aquela pouca vergonha?`
 
 D espreita por cima do seu ombro, ouvindo a conversa
- 
-SENHORA #2
-> No meu tempo isto não acontecia. E digo-te mais, os miúdos hoje em dia estão cada vez piores
+
+`SENHORA #2: No meu tempo isto não acontecia. E digo-te mais, os miúdos hoje em dia estão cada vez piores`
 
 >> #### [PAGE]
- 
-D (metendo-se na conversa)
-> A nossa juventude adora o luxo, é mal-educada, despreza a autoridade e não tem o menor respeito pelos mais velhos. Os nossos filhos hoje são verdadeiros tiranos. Eles não se levantam quando uma pessoa idosa entra, respondem aos pais, são simplesmente maus
- 
-SENHORA #1
-> Exactamente!
- 
-D
-> Sabem quem disse isto? Sócrates no século 3 antes de Cristo
- 
-D
-> Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo
 
-Elas olham um ar surpreendido.
- 
-D (enquanto se afasta)
-> Passem bem
+D mete-se na conversa
+
+`D: A nossa juventude adora o luxo, é mal-educada, despreza a autoridade e não tem o menor respeito pelos mais velhos. Os nossos filhos hoje são verdadeiros tiranos. Eles não se levantam quando uma pessoa idosa entra, respondem aos pais, são simplesmente maus`
+
+As senhoras acenam em concordância
+
+`SENHORA #1: Exactamente!`
+
+`D: Sabem quem disse isto? Sócrates no século 3 antes de Cristo`
+
+`D: Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo`
+
+Elas olham um ar surpreendido e D afasta-se.
+
+`D: Passem bem minhas senhoras`
 
 
 > ### [SCENE] Dia de trabalho - Vítima #1
@@ -399,17 +396,15 @@ Um polícia de trânsito toma o pequeno-almoço tranquilamente num café. D est�
 
 >> #### [PAGE]
 
-D está sentado ao lado dele no balcão.
-
 Os olhos de D ficam vermelhos.
 
 O polícia olha para o walkie-talkie, pegando-o de seguida
 
-POLÍCIA
-> Aqui Agente Pereira. Que tipo de distúrbios? Escuto
+`POLÍCIA: Aqui Agente Pereira. Que tipo de distúrbios? Escuto`
 
-POLÍCIA (enquanto se levanta e a falar com o empregado)
-> Carlos, tenho lá ir fora num instante. Já te pago
+O polícia levanta-se e fala com o empregado
+
+`POLÍCIA: Carlos, tenho lá ir fora num instante. Já te pago`
 
 >> #### [PAGE]
 
@@ -419,13 +414,13 @@ Lá fora vê um tipo de tronco nú, cheio de tatuagens, com uma arma na mão
 
 O polícia reage imediatamente e aponta-lhe a pistola
 
-POLÍCIA (com a arma apontada e a gritar)
-> Largue essa arma imediatamente
+`POLÍCIA: Largue essa arma imediatamente!!`
 
 O homem começa a levantar a arma muito lentamente enquanto sorri a olhar para o polícia
 
-POLÍCIA (ainda a apontar a arma, com um ar assustado)
-> Por favor... Eu disparo...
+O polícia continua a apontar a arma, mas com um ar muito assustado
+
+`POLÍCIA: Por favor... Eu disparo...`
 
 >> #### [PAGE]
 
@@ -433,14 +428,13 @@ Desesperado o polícia dispara um tiro nele, pelo que o homem cai no chão
 
 Nessa altura o Polícia vê o homem morto no chão sem qualquer arma ao lado, inclusive com uma roupa diferente
 
-POLÍCIA (assustado, colocando-se de joelhos)
-> Ele tinha uma arma... Eu vi... Ele tinha uma arma...
+O polícia ajoelha-se ao lado da vítima
+
+`POLÍCIA: Ele tinha uma arma... Eu vi... Ele tinha uma arma...`
 
 Vê-se D a passar ao lado do polícia e respectiva vítima 
 
-D (pensamento)
-> Bom tiro Sr. Agente. Um já está, faltam dois
-
+`NARRADOR (D): Bom tiro Sr. Agente. Um já está, faltam dois`
 
 > ### [SCENE] Dia de trabalho - Vítima #2
 
@@ -450,26 +444,23 @@ Rosa, uma senhora de 73 anos, regava tranquilamente as plantas de sua casa
 
 De repente tocam à porta. Ela vai na direcção da porta, passando pelo seu gato
 
-SENHORA
-> Já vai, já vai
+`SENHORA: Já vai, já vai`
 
 >> #### [PAGE]
 
 Ela espreita e vê pelo buraco da porta e vê uma menina de tranças vestida de escuteira
 
-SENHORA
-> Quem é?
+`SENHORA: Quem é?`
 
-MENINA
-> Bom dia. Sou dos escuteiros da paróquia e estamos a vender bolinhos
+`MENINA: Bom dia. Sou dos escuteiros da paróquia e estamos a vender bolinhos`
 
-SENHORA (enquanto começa a abrir a porta)
-> Estou a abrir querida. Mas olha, não devias ter um adulto...
+A senhora começa a abrir a porta
+
+`SENHORA: Estou a abrir querida. Mas olha, não devias ter um adulto con..`
 
 Quando abre a porta não vê ninguém lá fora
 
-SENHORA (com um ar espantado)
-> Mas ... Onde é que ela foi?
+`SENHORA: Mas ... Onde é que ela foi?`
 
 Ela fecha a porta e vê-se D dentro da casa, com os olhos vermelhos
 
@@ -479,30 +470,29 @@ D dirige-se à casa de banho e liga a torneira da banheira e pega num secador de
 
 Uns minutos depois Rosa ouve o miar desesperado do seu gato, percebendo que o som vinha da casa de banho.
 
-SENHORA (enquanto se levanta)
-> Pantufa?
+A senhora levanta-se
+
+`SENHORA: Pantufa?`
 
 Ela vai a caminho da casa-de-banho
 
-SENHORA
-> A mamã já vai Pantufa
+`SENHORA: A mamã já vai Pantufa`
 
 >> #### [PAGE]
 
 Quando lá chega vê o seu gato dentro da banheira a miar.
 
-SENHORA (com ar assustado)
-> Pantufa, o que estás aí a fazer dentro?
+A senhora grita, com ar assustado
+
+`SENHORA: Pantufa, o que estás aí a fazer dentro?`
 
 Ela prontamente estica os braços para o tirar de lá, não percebendo que o gato não existia, mas sim um secador ligado à corrente.
 
-SENHORA
-> Vá, a mamã tira-te daí
+`SENHORA: Vá, a mamã tira-te daí`
 
-Ela é electrocutada imediatamente
+Ela é electrocutada quando coloca os braços dentro da água
 
 Plano de D a sair da casa, vendo-se a mão dela no chão
-
 
 > ### [SCENE] Dia de trabalho - Vítima #3
 
@@ -514,16 +504,13 @@ Luís aproxima-se de um cruzamento para peões
 
 >> #### [PAGE]
 
-D
-> Bem, não vou ganhar pontos de estilo com esta, mas 2 em 3 já não foi mau. Badamerda para o C.
+`NARRADOR (D): Bem, não vou ganhar pontos de originalidade com este, mas 2 em 3 já não foi mau. Badamerda para o C`
 
 Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, mas a parar de repente, como se estivesse estagnado, ainda inclinado para a frente
 
 D fica embasbacado a olhar
 
-D (pensamento)
-> Mas que raio?
-
+`NARRADOR (D): Mas que raio?`
 
 > ### [SCENE] Alice
 
@@ -542,15 +529,15 @@ Alice está ao lado de Luís enquanto este espera que o semáforo fique verde. V
 
 De repente Luís começa as caminhar na direção da estrada, vendo-se um carro a vir mesmo na direcção dele
 
-ALICE (com ar assustado)
-> Não!!
+Alice grita, com ar assustado
+
+`ALICE: Não!!`
 
 Vê-se, num plano diferente do outro, ela a puxar Luís para trás
 
 Já com Luís sentado no chão, como na cena anterior
 
-ALICE (pensamento)
-> Só me faltava esta... Este otário quer morrer ou quê?
+`NARRADOR (ALICE): Só me faltava esta... Este otário quer morrer ou quê?`
 
 > ### [SCENE] Luís caminha para o emprego
 
@@ -560,8 +547,7 @@ Luís está a caminhar pela rua quando subitamente se vê uma carro a dar uma gu
 
 O condutor sai do carro assustado
 
-CONDUTOR
-> Desculpe... Desculpe... Eu desviei-me de uma senhora com um carrinho de bebé que atravessaram a estrada de repente. Onde é que eles estão?
+`CONDUTOR: Desculpe... Desculpe... Eu desviei-me de uma senhora com um carrinho de bebé que atravessaram a estrada de repente. Onde é que eles estão?`
 
 Luís afasta-se da cena com um ar atónito.
 
@@ -569,13 +555,11 @@ Luís afasta-se da cena com um ar atónito.
 
 Pouco depois vê-se Luís a passar por dois tipos com mau aspecto, que lhe dizem:
 
-MALTRAPILHO #1
-> O que é que disseste ó cabrão?
+`MALTRAPILHO #1: O que é que disseste ó cabrão?`
 
 Luís tenta desesperadamente dizer que não lhes disse nada, mas não é isso que os tipos ouvem (ou veem)
 
-MALTRAPILHO #1
-> Estou-te a avisar filho da puta. Ameaças a minha família outra vez e levas uma chinada
+`MALTRAPILHO #1: Estou-te a avisar filho da puta. Ameaças a minha família outra vez e levas uma chinada`
 
 Luís nem consegue responder. Nesta altura um dos tipos tira uma ponta-e-mola e tenta espetá-la em Luís, mas não consegue. Inclusive, a mão dele é partida e ele fica a contorcer-se de dor no chão. Luís foge.
 
@@ -583,21 +567,19 @@ Luís nem consegue responder. Nesta altura um dos tipos tira uma ponta-e-mola e 
 
 Finalmente Luís chega a um edifício grande de uma empresa de investigação farmacêutica (Genomium) e entra lá para dentro.
 
-D (pensamento)
-> Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa
-
+`NARRADOR (D): Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa`
 
 > ### [SCENE] Casa de Luís
 
 >> #### [PAGE]
 
-Já está a anoitecer e Luís aproxima-se de sua casa, com Alice ao seu lado. Ela diz (embora ele não a oiça):
+Já está a anoitecer e Luís aproxima-se de sua casa, com Alice ao seu lado
 
-ALICE
-> Meu, já estás em casa. A ver se vais dormir e não fazes mais disparates. Isto está a ser um dia muito esquisito
+`NARRADOR (ALICE): Meu, já estás em casa. A ver se vais dormir e não fazes mais disparates. Isto está a ser um dia muito esquisito`
 
-ALICE (enquanto abre a porta)
-> Que cheiro é este? Gás??? Não!!!
+Ele abre a porta
+
+`NARRADOR (ALICE): Que cheiro é este? Gás??? Não!!!`
 
 Alice corre na direcção de Luís enquanto se vê um grande plano de Luís prestes a ligar a luz
 
@@ -622,83 +604,67 @@ Rescaldo da situação, já com a polícia e bombeiros na zona. Luís está a se
 
 D espreita ao longe com Alice ao lado dele. D pega no telefone:
 
-D
-> C, preciso de falar contigo urgentemente. Não, não estou a brincar. Consegues ir ter ao café agora?
+`D: C, preciso de falar contigo urgentemente. Não, não estou a brincar. Consegues ir ter ao café agora?`
 
 >> #### [PAGE]
 
-D
-> Ok, então encont...
+`D: Ok, então encont...`
 
 D para e olha em volta para onde está Alice, mas não vê nada, e volta à sua conversa telefónica com C
 
-D
-> Nada nada, foi só uma sensação esquisita. OK, daqui a 20 minutos lá
-
+`D: Nada nada, foi só uma sensação esquisita. OK, daqui a 20 minutos lá`
 
 > ### [SCENE] Café
 
 >> #### [PAGE]
 
-D está a conversar com C no café. C diz-lhe:
+D está a conversar com C no café
 
-C
-> Se eu fosse um psicólogo ia achar que inconscientemente estás a falhar de propósito porque tens pena do homem. Mas como te conheço e sei que és uma real besta acho que estás simplesmente a ser azelha
+`C: Se eu fosse um psicólogo ia achar que inconscientemente estás a falhar de propósito porque tens pena do homem. Mas como te conheço e sei que és uma real besta acho que estás simplesmente a ser azelha`
 
 Alice está invisível ao lado deles a ouvir a conversa
 
-D
-> Não consigo explicar as coisas que te contei. Já te aconteceu alguma coisa parecida?
+`D: Não consigo explicar as coisas que te contei. Já te aconteceu alguma coisa parecida?`
 
-C dá um gole na sua caneca de cerveja e diz:
+C dá um gole na sua caneca de cerveja e response
 
-C
-> Já...
+`C: Já...`
 
 Depois ri-se e conclui com um sorriso
 
-C
-> ... mas nunca sóbrio
+`C: ... mas nunca sóbrio`
 
 >> #### [PAGE]
 
-C poisa o copo:
+C poisa o copo
 
-C
-> No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?
+`C: No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?`
 
-D
-> Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies e mato-os
+`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os`
 
-C (a rir-se)
-> Que falta de consideração pelos teus clientes
+C ri-se
+
+`C: Que falta de consideração pelos teus clientes`
 
 >> #### [PAGE]
 
-D diz com ironia:
+D responde
 
-D
-> Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo
+`D: Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo`
 
-C
-> AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo
+`C: AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo`
 
-D
-> Não me parece uma ideia totalmente estúpida. Vou fazer uma visita ninja ao escritório
+`D: Sim, também já tinha pensado nisso. Sou capaz de fazer uma visita ninja ao escritório`
 
-C
-> Força. Ainda para mais até estás vestido de preto
+`C: Boa. Ainda para mais até estás vestido de preto`
 
-D
-> Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista
+`D: Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista`
 
 (compasso de espera)
 
-C
-> Ó meu! Vai-te embora!
+`C: Ó meu! Vai-te embora!`
 
 D coloca o chapéu e acena enquanto sai com Alice ao seu lado
-
 
 > ### [SCENE] Escritório
 
@@ -708,23 +674,21 @@ D está à entrada do edifício, ainda com Alice a segui-lo.
 
 Pouco depois de passar a porta da entrada D cruza-se com Zé, o Porteiro.
 
-Zé
-> Boa noite sr. D. Não o esperava cá hoje à noite. A menina veio consigo?
+`Zé: Boa noite sr. D. Não o esperava cá hoje à noite. A menina veio consigo?`
 
-D
-> Qual menina?
+`D: Qual menina?`
 
-ZÉ (com um ar inquisitório)
-> A menina bonita ao seu lado, de cabelo preto curto
+Zé, com um ar inquisitório
+
+`ZÉ: A menina bonita ao seu lado, de cabelo preto curto`
 
 >> #### [PAGE]
 
 Alice, após perceber que Zé consegue vê-la, abre a boca de espanto e para de caminhar.
 
-D (sem perceber nada e a olhar em volta exclama)
+D com ar embasbacado olha em volta
 
-D
-> Mas que raio??
+`D: Mas que raio??`
 
 Alice começa a afastar-se de D e foge pela porta da rua
 
@@ -732,32 +696,27 @@ D vê a porta a abrir sem ninguém a passar por ela
 
 >> #### [PAGE]
 
-D
-> Zé! O que aconteceu?
+`D: Zé! O que aconteceu?`
 
-ZÉ
-> Algo bastante improvável
+`ZÉ: Algo bastante improvável`
 
-D
-> Como assim?
+`D: Como assim?`
 
-ZÉ (enquanto volta a olhar para o seu jornal)
-> Uma boa noite para si Sr. D
+Zé volta para o seu jornal
 
-D
-> Mas espera... Preciso de saber mais
+`ZÉ: Uma boa noite para si Sr. D`
 
-ZÉ
-> Boa noite Sr. D
+`D: Mas espera... Preciso de saber mais`
 
+`ZÉ: Boa noite Sr. D`
 
 > ### [SCENE] Alice na rua
 
 >> #### [PAGE]
 
-ALICE (pensamento)
-> Como é que ele me viu? Onde é que me vim meter?
+Alice afasta-se do edifício, ainda com ar assustado
 
+`NARRADOR (ALICE): Como é que ele me viu? Onde é que me vim meter?`
 
 > ### [SCENE] Escritório
 
@@ -765,22 +724,23 @@ ALICE (pensamento)
 
 D pesquisa manualmente um arquivo físico
 
-D (pensamento)
-> Onde está? Onde está?
+`NARRADOR (D): Onde está? Onde está?`
 
-D (enquanto segura uma ficha)
-> Bingo
+D segura uma ficha
 
-D
-> Ok, aqui está. Luís Lopes, 33 anos. Solteiro, investigador chefe na Genomux
+`NARRADOR (D): Bingo`
 
-D (com um ar surpreendido)
+D começa a ler a ficha
 
-> "Requisição especial. Ref #7357 - Arquivo Central"
+`NARRADOR (D): Ok, aqui está. Luís Lopes, 33 anos. Solteiro, investigador chefe na Genomux`
 
-D
-> Requisição especial? Mas que raio?
+D faz um ar supreendido
 
+`NARRADOR (D): "Requisição especial. Ref #7357 - Arquivo Central"`
+
+D olha para a frente
+
+`D: Requisição especial? Mas que raio?`
 
 > ### [SCENE] Hospital
 
@@ -792,116 +752,103 @@ D está sentado na sala de espera enquanto lê o seu jornal
 
 D para de ler e olha para o lado
 
-D
-> Eu consigo sentir a tua presença. Podes aparecer para conversarmos?
+`D: Eu consigo sentir a tua presença. Podes aparecer para conversarmos?`
 
 Alice aparece sentada ao lado de D
 
-D (enquanto olha para ela)
-> Olá
+D olha para ela
+
+`D: Olá`
 
 >> #### [PAGE]
 
-ALICE
-> Mas... Quem és tu?
+Alice está com um ar supreendido
 
-D
-> Isso pergunto-te eu. Porque me andas a seguir?
+`ALICE: Mas... Quem és tu?`
+
+`D: Isso pergunto-te eu. Porque me andas a seguir?`
 
 Alice olha D com um ar ameaçador enquanto aponta
 
-ALICE
-> Andas a tentar matar o tipo que eu quero proteger!
+`ALICE: Andas a tentar matar o tipo que eu quero proteger!`
 
-D
-> É o meu trabalho. É suposto eu matá-lo
+`D: É o meu trabalho. É suposto eu matá-lo`
 
-ALICE
-> Dizes isso com essa naturalidade? Mas que raio de monstro és tu?
+`ALICE: Dizes isso com essa naturalidade? Mas que raio de monstro és tu?`
 
-D
-> Pois bem, o dia já está a ser suficientemente esquisito pelo que te vou facilitar a vida: eu sou o que se pode chamar de um colector
+`D: Pois bem, o dia já está a ser suficientemente esquisito pelo que te vou facilitar a vida: eu sou o que se pode chamar de um colector`
 
 >> #### [PAGE]
 
-Alice abre muito os olhos e diz:
+Alice abre muito os olhos e diz
 
-ALICE
-> Os colectores são reais? Pensava que eram um mito
+`ALICE: Os colectores são reais? Pensava que eram um mito`
 
-D
-> Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação
+`D: Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação`
 
-ALICE
-> Isto é demasiado surreal para ser verdade
+`ALICE: Isto é demasiado surreal para ser verdade`
 
-D
-> Dito por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?
+D ri-se
 
-ALICE
-> Sou uma Protectora. Eu... protejo pessoas
+`D: Dito por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?`
 
-D
-> Sim, pelo nome nunca iria perceber. Há muitos de vocês?
+`ALICE: Sou uma Protectora. Eu... protejo pessoas`
 
-ALICE
-> Sim
+`D: Sim, pelo nome nunca iria perceber. Há muitos de vocês?`
+
+`ALICE: Sim`
 
 >> #### [PAGE]
 
-D
-> Bestial. Andamos nós a matar para que depois haja aí um grupo de escuteiros a salvá-los. Como se isto não fosse já parvo o suficiente. Então e este tipo, o Luís, porque é que o estás a salvar?
+D revira os olhos
 
-ALICE
-> Recebi ordens para o fazer
+`D: Bestial. Andamos nós a matar para que depois haja aí um grupo de escuteiros a salvá-los. Então e este tipo, o Luís, porque é que o estás a salvar?`
 
-D
-> Mas sabes pormenores?
+`ALICE: Recebi ordens para o fazer`
 
-ALICE
-> Sei
+`D: Mas sabes pormenores?`
 
-Compasso de espera
+`ALICE: Sei`
 
-D (com um ar aborrecido)
+(Compasso de espera)
 
-> E podes partilhá-los?
+D faz um ar aborrecido
 
-ALICE (com um sorriso)
-> Sim, com uma condição: pára te tentar matá-lo
+`D: E podes partilhá-los?`
+
+Alice sorri
+
+`ALICE: Sim, com uma condição: pára te tentar matá-lo`
 
 >> #### [PAGE]
 
-D (olha com um ar meio de surpresa meio de riso)
-> O quê? E porque faria isso?
+D olha com um ar meio de surpresa meio de riso
 
-ALICE
-> Para percebermos melhor o que está a acontecer. Isto tudo tresanda
+`D: O quê? E porque faria isso?`
+
+`ALICE: Para percebermos melhor o que está a acontecer. Isto tudo tresanda`
 
 D levanta-se e olha para a rua, de costas para Alice, enquanto pensa
 
-(fica bastante tempo virado de costas)
+Fica bastante tempo virado de costas
 
-Vira-se para ela
+Alice olha para o seu relógio e D finalmente se vira para ela
 
-D
-> Os colectores não podem decidir não seguir ordens. Se um colector decidir não matar alguém um novo colector será enviado no lugar deste. O processo só é concluído quando a vítima é dada como morta
+`D: Os colectores não podem decidir não seguir ordens. Se um colector decidir não matar alguém um novo colector será enviado no lugar deste. O processo só é concluído quando o cliente é dado como morto`
 
 >> #### [PAGE]
 
-ALICE
-> Estás então a dizer que não é possível?
+`ALICE: Estás então a dizer que não é possível?`
 
-D
-> Não estás a alcançar a subtileza da coisa. Ele tem de ser dado como morto, não necessariamente estar morto
+D sorri com ar malandro
 
-ALICE
-> E consegues isso?
+`D: Não estás a alcançar a subtileza da coisa. Ele tem de ser dado como morto, não necessariamente estar morto`
 
-D, ainda de costas para ela, esboça um sorriso ligeiro e diz:
+`ALICE: E consegues isso?`
 
-D
-> Sozinho não consigo, mas com a ajuda de alguém invisível talvez...
+D, ainda de costas para ela, esboça um sorriso ligeiro e diz
+
+`D: Sozinho não consigo, mas com a ajuda de alguém invisível talvez...`
 
 Alice sorri de volta
 
@@ -911,137 +858,109 @@ Alice sorri de volta
 
 Vista de fora do edifício das finanças. O texto de narrador mostrará a conversa de D a explicar o plano a Alice, ao mesmo tempo que é executado
 
-NARRADOR (D)
-> OK, então o plano vai ser este
+`NARRADOR (D): OK, então o plano vai ser este`
 
 Vista da recepção com D a entrar e a falar com Zé 
 
-NARRADOR (D)
-> às 7:30 eu entro no escritório, como em tantos outros dias, e cumprimento o segurança
+`NARRADOR (D): às 7:30 eu entro no escritório, como em tantos outros dias, e cumprimento o segurança`
 
-D
-> Olá Zé 
+D fala com Zé
 
-ZÉ
-> Olá Sr. D
+`D: Olá Zé`
+
+`ZÉ: Olá Sr. D`
 
 Vista de Zé ao pé da porta que precisa de cartão de acesso à olhar para trás 
 
-NARRADOR (D)
-> Nesta altura vou criar uma distracção para o segurança
+`NARRADOR (D): Nesta altura vou criar uma distracção para o segurança`
 
-NARRADOR (ALICE)
-> Não podes simplesmente fazê-lo não me ver?
+`NARRADOR (ALICE): Não podes simplesmente fazê-lo não me ver?`
 
-NARRADOR (D)
-> Não. O Zé é imune a isso
+Plano um pouco mais próximo de Zé
+
+`NARRADOR (D): Não. O Zé é imune a isso`
 
 Grande plano de Zé 
 
-NARRADOR (ALICE)
-> Como assim?
+`NARRADOR (ALICE): Como assim?`
 
-NARRADOR (D)
-> O Zé é um Guardião. Os nossos poderes não funcionam com ele e pelos vistos os vossos também não
+`NARRADOR (D): O Zé é um Guardião. Os nossos poderes não funcionam com ele e pelos vistos os vossos também não`
 
 Plano ainda mais aproximado de Zé
 
-NARRADOR (D)
-> Por trás daquele ar simpático está um ser com mais de 10000 anos. Tu NÃO te queres meter com ele
+`NARRADOR (D): Por trás daquele ar simpático está um ser com mais de 10000 anos. Tu NÃO te queres meter com ele`
 
 >> #### [PAGE]
 
 Plano da porta da entrada do edifício com um rapaz de pizzas a entrar
 
-NARRADOR (D)
-> Quando a distracção entrar no edifício preciso que estejas preparada
+`NARRADOR (D): Quando a distracção entrar no edifício preciso que estejas preparada`
 
 Zé a olhar para as pizzas com um ar excitado
 
-NARRADOR (ALICE)
-> E isso vai ser o suficiente para o distrair?
+`NARRADOR (ALICE): E isso vai ser o suficiente para o distrair?`
 
-NARRADOR (D)
-> Uma coisa que descobrimos é que os Guardiões são doidos por pizza de Peperoni. Ninguém sabe explicar porquê mas o cheiro daquilo baralha-lhes os sentidos. Já usámos isto em algumas ocasiões especiais... Não perguntes...
+`NARRADOR (D): Uma coisa que descobrimos é que os Guardiões são doidos por pizza de Peperoni. Ninguém sabe explicar porquê mas o cheiro daquilo baralha-lhes os sentidos. Já usámos isto em algumas ocasiões especiais... Não perguntes...`
 
 Alice aproxima-se de D e a coloca-lhe a mão no ombro
 
-NARRADOR (D)
-> Vou fazer um compasso de espera a entrar no escritorio para que tenhas tempo de passar. Dá-me um toque no ombro para sinalizar
+`NARRADOR (D): Vou fazer um compasso de espera a entrar no escritorio para que tenhas tempo de passar. Dá-me um toque no ombro para sinalizar`
 
 >> #### [PAGE]
 
 Vista dentro do escritório
 
-NARRADOR (D)
-> Estou a assumir que ninguém dentro do escritório te consiga ver, dado que só lá estarão colectores como eu
+`NARRADOR (D): Estou a assumir que ninguém dentro do escritório te consiga ver, dado que só lá estarão colectores como eu`
 
-NARRADOR (D)
-> Após registarmos uma morte há um processo manual que envolve alguém validar o óbito noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias
+`NARRADOR (D): Após registarmos uma morte há um processo manual que envolve alguém validar o óbito noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias`
 
-NARRADOR (D)
-> Nunca pensei dizer isto, mas o processo ser manual é neste caso uma vantagem. A boa notícia é que basta que coloquemos a ficha do processo, que está comigo, no arquivo dos processos executados
+`NARRADOR (D): Nunca pensei dizer isto, mas o processo ser manual é neste caso uma vantagem. A boa notícia é que basta que coloquemos a ficha do processo, que está comigo, no arquivo dos processos executados`
 
-NARRADOR (ALICE)
-> E a má?
+`NARRADOR (ALICE): E a má?`
 
 Alice a seguir F
 
-NARRADOR (D)
-> A má é que apenas algumas pessoas têm acesso à sala do arquivo
+`NARRADOR (D): A má é que apenas algumas pessoas têm acesso à sala do arquivo`
 
 Alice a entrar atrás de F na sala
 
-NARRADOR (D)
-> Todas as manhãs, quando chega, o F vai à sala colocar os processos do dia anterior
+`NARRADOR (D): Todas as manhãs, quando chega, o F vai à sala colocar os processos do dia anterior`
 
 Alice dentro da sala com a porta a fechar
 
-NARRADOR (D)
-> Depois de entrares deverás ficar lá dentro após ele sair
+`NARRADOR (D): Depois de entrares deverás ficar lá dentro após ele sair`
 
 >> #### [PAGE]
 
 D a colocar uma pasta por baixa da porta
 
-NARRADOR (D)
-> A pasta do processo vai ficar comigo, porque se tu a levasses ia ser relativamente esquisito para os meus colegas verem uma pasta voadora. Assim, quando o F sair, eu vou subtilmente passar o processo por debaixo da porta
+`NARRADOR (D): A pasta do processo vai ficar comigo, porque se tu a levasses ia ser relativamente esquisito para os meus colegas verem uma pasta voadora. Assim, quando o F sair, eu vou subtilmente passar o processo por debaixo da porta`
 
 Alice a colocar a pasta no arquivo
 
-NARRADO (D)
-> Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa. Assumindo que na escola dos protectores vos ensinam o alfabeto não deverás ter grandes problemas
-
-NARRADOR (Alice)
-> Engraçadinho
+`NARRADO (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa, no arquivo 23`
 
 D a falar com F. F está com ar chateado.
 
-NARRADOR (D)
-> A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas deverá ir à sala do arquivo novamente
+`NARRADOR (D): A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas deverá ir à sala do arquivo novamente`
 
 F a abrir a porta e Alice a sair e a dar um toque no ombro de D
 
-NARRADOR (D)
-> Quando passares por mim toca-me no ombro para eu saber que saíste
+`NARRADOR (D): Quando passares por mim toca-me no ombro para eu saber que saíste`
 
 >> #### [PAGE]
 
 D e Alice a caminharem
 
-NARRADOR (D)
-> Depois disso vou sair para um dia normal de trabalho, e tu vens comigo para que possamos conversar
+`NARRADOR (D): Depois disso tu vens comigo para que possamos conversar`
 
 D e Alice a passarem ao lado de Zé
 
-NARRADOR (ALICE)
-> Não vamos ter problemas a passar pelo Guardião?
+`NARRADOR (ALICE): Não vamos ter problemas a passar pelo Guardião`
 
 Grande plano de Zé a virar os olhos na direção de Alice
 
-NARRADOR (D)
-> Os Guardiões estão preocupados com entradas, não saídas
-
+`NARRADOR (D): Os Guardiões estão preocupados com entradas, não saídas`
 
 > ### [SCENE] Parque
 
@@ -1049,276 +968,206 @@ NARRADOR (D)
 
 D e Alice estão sentados num banco de jardim. D fala com Alice
 
-D
-> Acho que está na altura de conversarmos. Fala-me então do que sabes sobre o nosso amigo
+`D: Acho que está na altura de conversarmos. Fala-me então do que sabes sobre o nosso amigo`
 
-ALICE
-> Sei que o processo dele não nos foi atribuído pela forma convencional. Percebi isso porque o recebi directamente do meu chefe
+`ALICE: Sei que o processo dele não nos foi atribuído pela forma convencional. Percebi isso porque o recebi directamente do meu chefe`
 
-D
-> Interessante. Continua
+`D: Interessante. Continua`
 
-ALICE
-> E mais nada, só sei isso
+`ALICE: E mais nada, só sei isso`
 
-D (com um chateado)
-> Então e a conversa de eu te ajudar e tu me dares mais informação?
+D faz um ar chateado
 
-ALICE
-> Se calhar exagerei quando disse que sabia mais pormenores. Mas admite que é muito estranho o facto dele também ter sido marcado por vocês para ser colectado
+`D: Então e a conversa de eu te ajudar e tu me dares mais informação?`
+
+`ALICE: Se calhar exagerei quando disse que sabia mais pormenores. Mas admite que é muito estranho o facto dele também ter sido marcado por vocês para ser colectado`
 
 >> #### [PAGE]
 
 D está de braços cruzados e ar chateado.
 
-D
-> Estupidamente até sei mais do que tu
+`D: Estupidamente até sei mais do que tu`
 
-ALICE
-> A sério?
+`ALICE: A sério?`
 
-D
-> Sim. No processo do geniozinho falava de uma referência ao Arquivo Central. Nunca tinha visto isto acontecer mas imagino que a informação que nos falta esteja lá
+`D: Sim. No processo do geniozinho falava de uma referência ao Arquivo Central. Nunca tinha visto isto acontecer mas imagino que a informação que nos falta esteja lá`
 
-ALICE
-> E podemos lá ir? O que têm lá?
+`ALICE: E podemos lá ir? O que têm lá?`
 
-D
-> Geralmente nada de especial. Serve tipicamente para arquivar os casos processados
+`D: Geralmente nada de especial. Serve tipicamente para arquivar os casos processados`
 
-ALICE
-> E vamos lá?
+`ALICE: E vamos lá?`
 
-D
-> Parece-me a única hipótese que nos resta. Mas vamos à noite porque durante o dia tem bastante mais movimento
+D diz, enquanto olha para o seu relógio
 
-ALICE
-> Ok. Então o que fazemos agora?
+`D: Sim e convém despacharmo-nos. Ainda são umas 2 horas de comboio`
 
-D
-> Quanto a ti não sei mas eu tenho trabalho para fazer. E tu, não devias estar a tomar conta do geniozinho?
+`ALICE: De comboio? Porque é que vamos de comboio?`
 
->> #### [PAGE]
+D diz, a caminhar, já sem olhar para ela
 
-ALICE
-> No Hospital ele está bem. Além disso parece-me que ficar de olho em ti é a forma mais segura de mantê-lo vivo. Já dizia Don Corleone:
+`D: Porque de autocarro demorava muito mais`
 
-ALICE (com bochechas para baixo, a imitar o Don Corleone):
-> Mantém os teus amigos perto e os teus inimigos ainda mais perto
 
-D
-> Sabes que há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, mas porém...
+> ### [SCENE] Comboio
 
-D para quando vê Alice a olhar para ele ar perplexo
+Alice e D estão sentados numa carruagem de comboio.
 
-ALICE
-> És uma pessoa muito esquisita...
+`ALICE: Olha, estou curiosa. Podes-me falar dos teus poderes?`
 
-D
-> Bah! Isto é como deitar pérolas a porcos.
+D olha para o lado
 
-ALICE (com ar interessado)
-> Olha, estou curiosa. Podes-me falar dos teus poderes?
-
-D (a olhar para o lado)
-> Não me aborreças
+`D: Não me aborreças`
 
 Alice segura-lhe no braço
 
-ALICE
-> Vá lá
+`ALICE: Vá lá`
 
-D (enquanto revira os olhos)
-> Santa Paciência...
+D revira os olhos
 
-> Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar.
+`D: Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar`
 
-ALICE (com um ar entusiasmado)
-> Isso é espectacular. Podes-me mostrar?
+Alice com ar entusiasmado
 
->> #### [PAGE]
-
-D (enquanto sorri)
-> Olha para aquele tipo a correr
-
-Um homem corria descontraidamente de calções e t-shirt. De repente vê uma mulher toda jeitosa a chamá-lo num banco de jardim.
-
-MULHER
-> Olá giraço
-
-Ele para e aproxima-se dela com um ar de engatatão
-
-CORREDOR
-> Olá fofa
-
-MULHER (com ar chateada)
-> Queres apanhar ó boi?
-
-Corredor faz um ar supreendido. No banco está sentado um indivíduo musculado grande que olha para ele com ar de mau
+`ALICE: Isso é espectacular. Podes-me mostrar?`
 
 >> #### [PAGE]
 
-MUSCULADO
-> Para onde é que estás a olhar ó cabrão?
+D sorri
 
-O corredor desculpa-se e vai embora
+`D: Olha para aquele tipo ali sentado`
 
-CORREDOR
-> Desculpe, desculpe
+Um homem está sentado
 
-ALICE (enquanto se desmancha a rir)
-> Ahah, foi bestial. Não sei o que é que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais interessante do que aquele matulão
+Uma mulher toda gira vira-se para ele e diz:
+
+`MULHER: Olá. Será que me pode vir aqui ajudar com uma coisa?`
+
+Ele levanta-se e senta-se ao pé dela.
+
+Mulher, com ar chateado
+
+`MULHER: O que queres ó boi?`
+
+O homem faz um ar supreendido. No banco está sentado um indivíduo musculado grande que olha para ele com ar de mau
+
+>> #### [PAGE]
+
+`MUSCULADO: Baza palhaço`
+
+O homem desculpa-se e vai embora
+
+`HOMEM: Desculpe, desculpe`
+
+Alice ri-se às gargalhadas
+
+`ALICE: Ahah, foi bestial. Não sei o que é que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais interessante do que aquele matulão`
 
 D sorri
 
 >> #### [PAGE]
 
-ALICE
-> E quem decide as pessoas que são mortas?
+`ALICE: E quem decide as pessoas que são mortas?`
 
-D
-> Honestamente não sei. Todos os dias recebemos os nomes por fax, que depois são distribuídos pelos vários colectores
+`D: Honestamente não sei. Todos os dias recebemos os nomes por fax, que depois são distribuídos pelos vários colectores`
 
-ALICE (a rir)
-> Fax, a sério?
+Alice ri-se
 
-D
-> Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais
+`ALICE: Fax, a sério?`
 
-> Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.
+`D: Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais`
 
-ALICE
-> O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias, mesmo que eu não as compreenda.
+`D: Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.`
 
-D
-> Uiii, acreditas nisso? Ias adorar o meu chefe
+`ALICE: O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias, mesmo que eu não as compreenda.`
+
+`D: Uiii, acreditas nisso? Ias adorar o meu chefe`
 
 >> #### [PAGE]
 
-ALICE
-> E tu, não acreditas no que fazes? Isso é triste
+`ALICE: E tu, não acreditas no que fazes? Isso é triste`
 
-D
-> É o que é. Recebo os nomes e mato-os... Simples
+`D: É o que é. Recebo os nomes e mato-os... Simples`
 
-ALICE
-> Não pode ser assim tão simples. Por exemplo, quem é que mataste ontem?
+`ALICE: Não pode ser assim tão simples. Por exemplo, quem é que mataste ontem?`
 
-D
-> Começas a aborrecer-me
+`D: Começas a aborrecer-me`
 
-ALICE (a sorrir e a sussurar-lhe ao ouvido)
-> Faz-me a vontade ou vou proteger todas as tuas vítimas de hoje
+`Vá lá...`
 
 >> #### [PAGE]
-
-D (a revirar os olhos)
-> Matei um tipo qualquer, matei uma velha qualquer e tentei matar o teu geniozinho
-
-ALICE (com um ar inquisitório)
-> Como os mataste?
-
-D (com um ar relaxado)
-> Fiz um polícia disparar no primeiro tipo. Fritei a velha fazendo-a pensar que estava a pegar num dos gatos dela na banheira quando o que lá estava era de facto um secador ligado à corrente
-
-> Agora que penso nisso, até foi um dia mais original que o costume. Acho que me deixei influenciar pelo C
-
-ALICE
-> Isso foi horrível... Ou seja, além de matares o tipo ainda estragaste a vida ao polícia? 
-
-> E a velhota? Com um bocado de sorte vivia sozinha e os gatinhos vão morrer à fome
-
-D
-> Já estou arrependido por te ter ajudado
-
->> #### [PAGE]
-
-ALICE
-> Está decidido. Hoje vou-te acompanhar no teu dia de trabalho
-
-Aproxima-se dele e diz meio a rir ao ouvido
-
-ALICE
-> Como vou invisível podes imaginar que sou a voz da tua consciência
-
-D (com um ar aborrecido enquanto coloca o chapéu)
-> Santa Paciência...
-
-
-> ### [SCENE] Anoitecer
-
->> #### [PAGE]
-
-D caminha meio aborrecido com Alice atrás dele com ar satisfeito
-
-ALICE
-> Temos de fazer isto mais vezes. Foi divertido.
-
-D
-> Se consideras divertido estar a ouvir um zumzum constante de: "não faças isso, faz aquilo. Assim não, assim sim". Se calhar casei-me e ninguém me disse nada.
-
-ALICE
-> Vá. Não foi assim tão mau
-
-D
-> Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir
-
-D (a virar-se para ela)
-
-> E já agora, sou o único a estranhar o facto de seres uma Protectora e lidares tão bem com o facto de me teres ajudado a matar pessoas?
-
-ALICE (enquanto encolhe os ombros)
-> É bom experimentar coisas novas
 
 D revira os olhos
 
+`D: Matei um tipo qualquer, matei uma velha qualquer e o teu geniozinho`
+
+Alice, com um sorriso
+
+`ALICE: Em rigor no caso do meu geniozinho não conseguiste`
+
+D sorri
+
+Alice faz um ar inquisitório
+
+`ALICE: E como os mataste?`
+
+D, com um ar relaxado
+
+`D: Fiz um polícia disparar no primeiro tipo. Fritei a velha fazendo-a pensar que estava a pegar num dos gatos dela na banheira quando o que lá estava era de facto um secador ligado à corrente`
+
+`D: Agora que penso nisso, até foi um dia mais original que o costume. Acho que me deixei influenciar pelo C`
+
+Alice faz um ar chocado
+
+`ALICE: Isso foi horrível... Ou seja, além de matares o tipo ainda estragaste a vida ao polícia?`
+
+`ALICE: E a velhota? Com um bocado de sorte vivia sozinha e os gatinhos vão morrer à fome`
+
+D olha para o lado
+
+`D: Já estou arrependido por te ter contado`
+
 >> #### [PAGE]
 
-D (enquanto olha para o relógio)
-> Seja como for está na hora de irmos para o arquivo central. Ainda são umas 2 horas de comboio
+`ALICE: Um dia destes vou-te acompanhar num dia de trabalho`
 
-ALICE
-> De comboio? Porque é que vamos de comboio?
+Aproxima-se dele e diz meio a rir ao ouvido
 
-D (a caminhar, já sem olhar para ela)
-> Porque de autocarro demorava muito mais
+`ALICE: Como vou invisível podes imaginar que sou a voz da tua consciência`
 
+D, com um ar aborrecido enquanto coloca o chapéu
 
-> ### [SCENE] Comboio
+`D: Santa Paciência... Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir`
+
+> ### [SCENE] Entrada do Arquivo
 
 >> #### [PAGE]
 
-ALICE
-> Tens a certeza que não vamos ter problemas a entrar?
+Já está a anoitecer
 
-D
-> A última vez que lá fui a segurança era feita por humanos e não por guardiões
+`ALICE: Tens a certeza que não vamos ter problemas a entrar?`
 
-ALICE
-> Isso não é esquisito? Mas que raio de edifício é este afinal?
+`D: A última vez que lá fui a segurança era feita por humanos e não por guardiões. Seja como for, caso haja colectores, o teu talento poderá vir a dar jeito`
 
-D
-> Eu trabalho na divisão da minha cidade. Este é o arquivo central do país. Todos os casos estão lá consolidados. A haver mais informação este é o sítio certo
+`ALICE: Mas que raio de edifício é este afinal?`
 
+`D: Eu trabalho na divisão da minha cidade. Este é o arquivo central do país. Todos os casos estão lá consolidados. A haver mais informação este é claramente o sítio certo`
 
 > ### [SCENE] Arquivo
 
 >> #### [PAGE]
 
-D e Alice a entrarem no edifício e a passarem ao lado de um segurança que nem olha para eles
+D e Alice a entrarem no edifício e a passarem ao lado de um segurança que nem olha para eles. D tem os olhos vermelhos
 
-ALICE
-> Isto parece-me demasiado fácil
+`ALICE: Isto parece-me demasiado fácil`
 
-D
-> Não te queixes
+`D: Não te queixes`
 
 Entram na sala de arquivo. É uma sala gigantesca com várias filas de arquivos, todas paralelas
 
 Ouve-se uma voz por trás deles
 
-ANCIÃO
-> Sejam bem-vindos. Estava à vossa espera
+`ANCIÃO: Sejam bem-vindos. Estava à vossa espera`
 
 >> #### [PAGE]
 
@@ -1326,142 +1175,101 @@ Vê-se um homem bem vestido, com um ar muito arranjado, com um guardião de cada
 
 Alice fica invisível
 
-ANCIÃO
-> Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo
+`ANCIÃO: Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo`
 
-D
-> Quem...é você... ?
+`D: Quem...é você... ?`
 
-ANCIÃO
-> Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos
+`ANCIÃO: Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos`
 
-D (com um ar perplexo)
-> Como?
+D faz um ar perplexo
 
-ANCIÃO
-> Imagino que tenham imensas perguntas. Não é fácil explicar-vos quem somos, mas vou tentar simplificar
+`D: Como?`
+
+`ANCIÃO: Imagino que tenham imensas perguntas. Não é fácil explicar-vos quem somos, mas vou tentar simplificar`
 
 > Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte
 
 >> #### [PAGE]
 
-ANCIÃO
-> Nós somos responsáveis por ajudar a manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se e aos outros nós intervimos para ajudar a alcançar um balanço.
+`ANCIÃO: Nós somos responsáveis por ajudar a manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se a si próprio e aos outros nós intervimos para ajudar a alcançar um balanço.`
 
 Grande plano de Alice
 
-ANCIÃO
-> Por vezes protegemos
+`ANCIÃO: Por vezes protegemos`
 
 Grande plano de D
 
-ANCIÃO
-> Por outras eliminamos
+`ANCIÃO: Por outras colectamos`
 
 Plano de D e Alice a olharem um para o outro
 
-ANCIÃO
-> Para tal definimos um modelo incrivelmente complexo onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos mas garanto-vos que há uma ordem e um sentido para tudo. Não obstante, como em qualquer modelo complexo, também se cometem erros
+`ANCIÃO: Para tal definimos um modelo bastante complexo onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos mas há uma ordem e um sentido para tudo.`
+
+`ANCIÃO: Não obstante, como em qualquer modelo complexo, também se cometem erros`
 
 >> #### [PAGE]
 
-ANCIÃO
-> Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda
+`ANCIÃO: Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda`
 
-ANCIÃO
-> Estamos todos aqui hoje devido a um único factor: o vosso estimado cliente
+`ANCIÃO: Estamos aqui hoje devido a um único factor: o vosso estimado cliente`
 
-ANCIÃO
-> O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável
+`ANCIÃO: O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável`
 
+`ANCIÃO: Por um lado pode ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis`
 
-ANCIÃO
-> Por um lado pode ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis
-
-> Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.
+`ANCIÃO: Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.`
 
 >> #### [PAGE]
 
-ANCIÃO
-> Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio
+`ANCIÃO: Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio`
 
-> Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos
+`ANCIÃO: Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos`
 
-ANCIÃO
-> Não conseguindo chegar a consenso optámos por uma nova estratégia: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto
+`ANCIÃO: Não conseguindo chegar a consenso optámos por uma nova estratégia: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto`
 
-ANCIÃO
-> No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector
+`ANCIÃO: No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector`
 
 >> #### [PAGE]
 
-ANCIÃO
-> A estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito
+`ANCIÃO: A estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito`
 
-ANCIÃO
-> A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam
+`ANCIÃO: A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam`
 
-ALICE
-> Não sei se vai ser fácil chegarmos a acordo
+Alice diz, de braços cruzados
 
-D
-> Hmmm, pois. Quanto a isso...
+`ALICE: Não sei se vai ser fácil chegarmos a acordo`
 
-Alice e o Ancião olham para ele com ar supreendido
+D coça o queixo
 
-D
-> Se tudo correu como planeado, o nosso amigo já estará a fazer tijolo.
+`D: Acho que depois desta aventura é justo que o teu geniozinho possa viver mais algum tempo descansado`
 
-ALICE
-> Como? O que queres dizer?
+Alice olha com ar desconfiado
 
-Vista frontal de D, de costas para Alice (quando foi pensar no Hospital)
+`ALICE: O quê? Assim tão simples?`
 
-NARRADOR (D)
-> Lembras-te de estarmos a conversar no Hospital?
+`D: Sim`
 
-Olhos de D a olharem para o lado
+Alice e D estão a caminhar e a afastar-se gradualmente
 
-NARRADOR (D)
-> Quando percebi que precisavas da minha ajuda vi isso como uma oportunidade dupla:
+`Alice: Queres ir beber alguma coisa? Acho que merecemos`
 
-> Por um lado ias ajudar-me a perceber melhor o que se passava
+`D: Não vejo porque não, mas não devias ir ter com o teu geniozinho?`
 
-> Por um outro irias baixar a guardar, dando-me uma janela de oportunidade.
+>> #### [PAGE]
 
-Imagem da enfermeira a injectar o conteúdo de uma seringa no balão de soro
+Ainda mais longe do plano
 
-NARRADOR (D)
-> Fiz uma enfermeira dar uma dose simpática de potássio ao geniozinho
+`ALICE: Já dizia o Don Corleone no Padrinho: "Mantém os teus amigos perto e os teus inimigos ainda mais perto"`
 
-Monitor de Luís com flatline, a mostrar que está morto
+`D: Em rigor foi no Padrinho II. Sabes que há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, no entanto...`
 
-NARRADOR (D)
-> Foi lento mas eficaz
+D pára quando vê Alice a olhar para ele ar perplexo
 
-ALICE (com ar assustado)
-> Mas e tudo o resto? Teres ido comigo alterar o processo? Virmos aqui a este sítio? Porque te deste ao trabalho?
+`ALICE: És uma pessoa muito esquisita...`
 
-D
-> Para poder investigar, sem que enviassem outro cobrador, precisava de tempo, pelo que a tua ajuda com o processo foi essencial.
+Os dois ainda mais longe do plano enquanto caminham juntos
 
-Alice olha para ele com ar chateado
-
-D
-> Quanto ao resto, simplesmente aconteceu...  
-
-ALICE
-> Tu... usaste-me... Merda!
-
-Alice vai-se embora chateada 
-
-D
-> Isso não é uma linguagem adequada a um protector
-
-Alice faz-lhe um manguito, ainda de costas mas mais longe
-
-D (enquanto retira o chapéu a despedir-se do Ancião, que olha para ele com ar surpreendido)
-> Um bom dia para o Senhor
+`D: Pérolas a porcos`
 
 > ### [SCENE] Epílogo
 
@@ -1471,11 +1279,9 @@ D entra na casa da velhota que matou
 
 Do lado do telefone ouve-se o telefone
 
-OPERADOR
-> 112. Qual é a emergência?
+`OPERADOR: 112. Qual é a emergência?`
 
-D
-> Boa noite. Queria reportar um acidente
+`D: Boa noite. Queria reportar um acidente`
 
 Pouco depois vê-se a abrir o saco que trazia e a tirar de lá comida de gato.
 
