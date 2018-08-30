@@ -3,42 +3,41 @@
 
 >> #### [PAGE]
 
-Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro.
+Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro
 
-Ele está a falar ao telemóvel enquanto fecha a porta de sua casa.
+Ele está a falar ao telemóvel enquanto fecha a porta de sua casa
 
 `HOMEM: Sim, Dona Clara, não se preocupe que eu levo os medicamentos`
 
-Ele ri-se enquanto caminha na direcção do elevador. 
+Ele ri-se enquanto caminha na direcção do elevador
 
 Ao lado do elevador está D de pé
 
-Vê-se que a porta do elevador está aberta e o poço também. 
+Vê-se que a porta do elevador está aberta e o poço também
 
-Não obstante ele carrega no botão para chamar o elevador e enquanto espera continua a falar ao telemóvel.
+Não obstante ele carrega no botão para chamar o elevador e enquanto espera continua a falar ao telemóvel
 
 `HOMEM: AH AH, claro que sim. Mas olhe, tenho de desligar porque vou entrar no elevador`
 
-Ele aguarda um pouco e depois avança tranquilamente para dentro do poço do elevador, caindo e gritando durante a queda.
+Ele aguarda um pouco e depois avança tranquilamente para dentro do poço do elevador, caindo e gritando durante a queda
 
 >> #### [PAGE]
 
-Vista por trás (e cima) de D a espreitar para dentro do poço do elevador.
+Vista por trás (e cima) de D a espreitar para dentro do poço do elevador
 
-D pega no seu chapéu que está no chão e coloca-o na cabeça
+D pega no seu chapéu (que está no chão) e coloca-o na cabeça
 
-Plano de D a descer as escadas
-
+Plano de D a descer as escadas tranquilamente
 
 > ### [SCENE] Casa de D
 
 >> #### [PAGE]
 
-Vê-se um despertador a mostrar 05:59. Passa para as 06:00 enquanto toca.
+Vê-se um despertador a mostrar 05:59. Passa para as 06:00 enquanto toca
 
 Vê-se uma mão a desligar o despertador
 
-D toma um duche e faz a barba.
+D toma um duche e faz a barba
 
 >> #### [PAGE]
 
@@ -48,7 +47,7 @@ Enquanto se está a vestir vê-se a televisão ligada atrás onde estão a passa
 
 `TV: ...Esta morte insólita deveu-se à ingestão de 23 pudins...`
 
-D, com um pequeno sorriso enquanto coloca o chapéu.
+D, com um pequeno sorriso enquanto coloca o chapéu
 
 `D: És mesmo anormal C`
 
@@ -59,7 +58,7 @@ D sai de casa
 
 >> #### [PAGE]
 
-D está na paragem de autocarro e estica o braço para sinalizar ao autocarro para que este pare.
+D está na paragem de autocarro e estica o braço para sinalizar ao autocarro para que este pare
 
 Pouco depois está sentado a ler um jornal com uma velhota ao lado. Ela vira-se para ele
 
@@ -97,15 +96,14 @@ Imagem de um médico com uma seringa na mão
 
 `NARRADOR (D): Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivo. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante, dado que a medicina permitiu que membros inaptos prosperassem, enquanto noutros tempos a seleção natural trataria de garantir que não teriam oportunidade de se reproduzirem`
 
-Image volta a um grande plano de D
+Vê-se D novamente
 
 `D: De certa forma é positivo porque aumenta a diversidade, mas na realidade tornou os humanos numa espécie de flor de estufa, totalmente dependentes de cuidados terceiros`
 
-Imagem da velhota com olhos muito abertos
+Velhota com olhos muito abertos
 
 `D: Você, por exemplo, sem os medicamentos de que tanto se queixa daqui a um mês já não estaria a incomodar ninguém no autocarro`
 
-Plano médio dos dois.
 
 A senhora olha em frente, com um ar bastante atónito, enquanto D volta ao seu jornal.
 
@@ -116,11 +114,11 @@ A senhora olha em frente, com um ar bastante atónito, enquanto D volta ao seu j
 
 D sai do autocarro e aproxima-se do edifício das Finanças, onde trabalha.
 
-O Segurança fala
+O segurança diz-lhe
 
 `SEGURANÇA: Bom dia Sr. D`
 
-D response sem sequer olhar para ele
+D responde sem sequer olhar para ele
 
 `D: Olá Zé`
 
@@ -138,17 +136,17 @@ Sai no piso -7 no seu escritório
 
 D aproxima-se do seu lugar e pega numa pasta que está em cima da mesa
 
-Senta-se e começa a ler.
+Senta-se e começa a ler
 
 `NARRADOR (D): Vamos lá ver quem são os felizardos de hoje`
 
-Enquanto D está a folhear a pasta C aparece.
+Enquanto D está a folhear a pasta C aparece
 
 C diz, com entusiasmo
 
 `C: D!`
 
-D responde, ainda a olhar para a sua própria pasta.
+D responde, ainda a olhar para a sua própria pasta
 
 `D: Olá C`
 
@@ -158,7 +156,7 @@ C senta-se na mesa de D
 
 D, ainda com um ar desinteressado
 
-`D: Sim, foi espectacular, mas sabes que o efeito era exatamente o mesmo se o homem tivesse tropeçado e batido com a cabeça. Morria na mesma e era bem mais higiénico`
+`D: Sim, foi espectacular, mas sabes que o efeito era exatamente o mesmo se o homem tivesse tropeçado e batido com a cabeça. Morria na mesma e era bem mais higiénico.`
 
 `C: És mesmo um velho jarreta. E qual seria a piada disso?`
 
@@ -168,7 +166,7 @@ D, ainda com um ar desinteressado
 
 `D: O teu entusiasmo cansa-me. Quantos tens hoje?`
 
-`C: Só 2. A meio da tarde já vou estar despachado e a malhar copos. Apareces por lá depois?`
+`C: Só 2. A meio da tarde já vou estar despachado e a malhar copos. Apareces por lá?`
 
 `D: Sou capaz de lá dar um salto`
 
@@ -182,9 +180,9 @@ D faz-lhe um manguito
 
 >> #### [PAGE]
 
-D está sentado num café com a pasta aberta. Lá dentro está uma ficha com a fotografia de um homem.
+D está sentado num café com a pasta aberta. Lá dentro está uma ficha com a fotografia de um homem
 
-D olha para a mesa da frente onde esse mesmo homem está sentado e está a pagar a conta.
+D olha para a mesa da frente onde esse mesmo homem está sentado e a pagar a conta
 
 O homem sai do café e D vai atrás, colocando o seu chapéu 
 
@@ -192,15 +190,15 @@ O homem sai do café e D vai atrás, colocando o seu chapéu
  
 Estão ambos parados num semáforo para peões
 
-D mantém o olhar em frente mas os seus olhos passam de azuis a vermelhos.
+D mantém o olhar em frente mas os seus olhos passam de azuis a vermelhos
 
-O homem caminha apressadamente para a frente do autocarro que, sem tempo para travar, o atropela.
+O homem caminha apressadamente para a frente do autocarro que, sem tempo para travar, o atropela
 
 > ### [SCENE] Bar
 
 >> #### [PAGE]
 
-Entretanto já é noite. D e C estão sentados numa mesa do bar.
+Entretanto já é noite. D e C estão sentados numa mesa do bar
 
 `C: Tu és uma seca: atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História`
 
@@ -279,7 +277,7 @@ Chega à sua mesa onde encontra uma nova pasta
 
 Pega na pasta e pensa:
 
-`NARRADOR (D): Os cabrões do Departamento da Guerra já têm isto tudo informatizado e nós ainda fazemos tudo como no século passado`
+`NARRADOR (D): Os cabrões do Departamento da Guerra já têm isto tudo informatizado e nós ainda fazemos tudo como no século passado. Que seca.`
 
 >> #### [PAGE]
 
@@ -301,15 +299,15 @@ Se ohar para G, e mantendo-se a ler a pasta, D responde
 
 G fica de pé com os braços cruzados
 
-`G: Constou-me que ontem causou um certo embaraço ao nosso departamento`
+`G: Constou-me que ontem causou um certo embaraço ao nosso departamento.`
 
-`D: Bem, na verdade matei todas as pessoas da minha lista`
+`D: Bem, na verdade matei todas as pessoas da minha lista.`
 
 `G: Sim, mas o autocarro que atropelou o seu primeiro cliente despistou-se e matou mais 3 pessoas num café`
 
 D olha para G
 
-`D: Eu vejo isso como um bónus. Qual a diferença? Isso é uma gota no Oceano para todas as pessoas que morrem diariamente, com ou sem a nossa intervenção`
+`D: Eu vejo isso como um bónus. Qual a diferença?`
 
 >> #### [PAGE]
  
@@ -331,7 +329,7 @@ D revira os olhos
 
 `D: Com certeza Senhor G`
 
-G vira costas e D faz um manguito meio disfarçado
+G vira costas e D faz um manguito disfarçado
 
 > ### [SCENE] Paragem do autocarro
 
@@ -460,7 +458,7 @@ A senhora começa a abrir a porta
 
 Quando abre a porta não vê ninguém lá fora
 
-`SENHORA: Mas ... Onde é que ela foi?`
+`SENHORA: Mas... Onde é que ela se meteu?`
 
 Ela fecha a porta e vê-se D dentro da casa, com os olhos vermelhos
 
@@ -632,7 +630,7 @@ C dá um gole na sua caneca de cerveja e response
 
 Depois ri-se e conclui com um sorriso
 
-`C: ... mas nunca sóbrio`
+`C: ...mas nunca sóbrio`
 
 >> #### [PAGE]
 
@@ -640,7 +638,7 @@ C poisa o copo
 
 `C: No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?`
 
-`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os`
+`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os.`
 
 C ri-se
 
@@ -650,19 +648,19 @@ C ri-se
 
 D responde
 
-`D: Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo`
+`D: Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo.`
 
-`C: AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo`
+`C: AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo.`
 
 `D: Sim, também já tinha pensado nisso. Sou capaz de fazer uma visita ninja ao escritório`
 
-`C: Boa. Ainda para mais até estás vestido de preto`
+`C: Boa. Ainda para mais até estás vestido de preto.`
 
-`D: Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista`
+`D: Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista.`
 
 (compasso de espera)
 
-`C: Ó meu! Vai-te embora!`
+`C: Totó.`
 
 D coloca o chapéu e acena enquanto sai com Alice ao seu lado
 
@@ -680,7 +678,7 @@ Pouco depois de passar a porta da entrada D cruza-se com Zé, o Porteiro.
 
 Zé, com um ar inquisitório
 
-`ZÉ: A menina bonita ao seu lado, de cabelo preto curto`
+`ZÉ: A menina bonita ao seu lado, de cabelo preto curto.`
 
 >> #### [PAGE]
 
@@ -692,7 +690,7 @@ D com ar embasbacado olha em volta
 
 Alice começa a afastar-se de D e foge pela porta da rua
 
-D vê a porta a abrir sem ninguém a passar por ela
+D vê a porta a abrir sem ninguém a passar por ela.
 
 >> #### [PAGE]
 
@@ -750,7 +748,7 @@ Vista de fora do Hospital. Já é de manhã.
 
 D está sentado na sala de espera enquanto lê o seu jornal
 
-D para de ler e olha para o lado
+D pára de ler e olha para o lado
 
 `D: Eu consigo sentir a tua presença. Podes aparecer para conversarmos?`
 
@@ -758,7 +756,7 @@ Alice aparece sentada ao lado de D
 
 D olha para ela
 
-`D: Olá`
+`D: Olá.`
 
 >> #### [PAGE]
 
@@ -772,7 +770,7 @@ Alice olha D com um ar ameaçador enquanto aponta
 
 `ALICE: Andas a tentar matar o tipo que eu quero proteger!`
 
-`D: É o meu trabalho. É suposto eu matá-lo`
+`D: É o meu trabalho. É suposto eu matá-lo.`
 
 `ALICE: Dizes isso com essa naturalidade? Mas que raio de monstro és tu?`
 
@@ -784,7 +782,7 @@ Alice abre muito os olhos e diz
 
 `ALICE: Os colectores são reais? Pensava que eram um mito`
 
-`D: Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação`
+`D: Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação.`
 
 `ALICE: Isto é demasiado surreal para ser verdade`
 
@@ -792,11 +790,11 @@ D ri-se
 
 `D: Dito por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?`
 
-`ALICE: Sou uma Protectora. Eu... protejo pessoas`
+`ALICE: Sou uma Protectora. Eu... protejo pessoas.`
 
 `D: Sim, pelo nome nunca iria perceber. Há muitos de vocês?`
 
-`ALICE: Sim`
+`ALICE: Sim.`
 
 >> #### [PAGE]
 
@@ -826,13 +824,13 @@ D olha com um ar meio de surpresa meio de riso
 
 `D: O quê? E porque faria isso?`
 
-`ALICE: Para percebermos melhor o que está a acontecer. Isto tudo tresanda`
+`ALICE: Para percebermos melhor o que está a acontecer. Tens de admitir que isto tresanda`
 
 D levanta-se e olha para a rua, de costas para Alice, enquanto pensa
 
 Fica bastante tempo virado de costas
 
-Alice olha para o seu relógio e D finalmente se vira para ela
+Alice olha para o seu relógio e D finalmente vira-se para ela
 
 `D: Os colectores não podem decidir não seguir ordens. Se um colector decidir não matar alguém um novo colector será enviado no lugar deste. O processo só é concluído quando o cliente é dado como morto`
 
@@ -938,11 +936,13 @@ D a colocar uma pasta por baixa da porta
 
 Alice a colocar a pasta no arquivo
 
-`NARRADO (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa, no arquivo 23`
+`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa. Assumindo que na escola de Protectores vos ensinam o alfabeto não deverás ter problemas`
+
+`NARRADOR (ALICE): Engraçadinho`
 
 D a falar com F. F está com ar chateado.
 
-`NARRADOR (D): A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas deverá ir à sala do arquivo novamente`
+`NARRADOR (D): A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas irá à sala do arquivo novamente`
 
 F a abrir a porta e Alice a sair e a dar um toque no ombro de D
 
@@ -956,7 +956,7 @@ D e Alice a caminharem
 
 D e Alice a passarem ao lado de Zé
 
-`NARRADOR (ALICE): Não vamos ter problemas a passar pelo Guardião`
+`NARRADOR (ALICE): Não vamos ter problemas a passar pelo Guardião?`
 
 Grande plano de Zé a virar os olhos na direção de Alice
 
@@ -994,7 +994,7 @@ D está de braços cruzados e ar chateado.
 
 `ALICE: E podemos lá ir? O que têm lá?`
 
-`D: Geralmente nada de especial. Serve tipicamente para arquivar os casos processados`
+`D: Geralmente nada de especial. Serve tipicamente como arquivo para os casos fechados.`
 
 `ALICE: E vamos lá?`
 
@@ -1007,7 +1007,6 @@ D diz, enquanto olha para o seu relógio
 D diz, a caminhar, já sem olhar para ela
 
 `D: Porque de autocarro demorava muito mais`
-
 
 > ### [SCENE] Comboio
 
@@ -1099,13 +1098,7 @@ Alice ri-se
 
 D revira os olhos
 
-`D: Matei um tipo qualquer, matei uma velha qualquer e o teu geniozinho`
-
-Alice, com um sorriso
-
-`ALICE: Em rigor no caso do meu geniozinho não conseguiste`
-
-D sorri
+`D: Matei um tipo qualquer, matei uma velha qualquer e tentei matar o teu geniozinho`
 
 Alice faz um ar inquisitório
 
@@ -1115,7 +1108,7 @@ D, com um ar relaxado
 
 `D: Fiz um polícia disparar no primeiro tipo. Fritei a velha fazendo-a pensar que estava a pegar num dos gatos dela na banheira quando o que lá estava era de facto um secador ligado à corrente`
 
-`D: Agora que penso nisso, até foi um dia mais original que o costume. Acho que me deixei influenciar pelo C`
+`D: Agora que penso nisso, até foi um dia mais original que o costume. Acho que me deixei levar pelo C.`
 
 Alice faz um ar chocado
 
@@ -1147,7 +1140,7 @@ Já está a anoitecer
 
 `ALICE: Tens a certeza que não vamos ter problemas a entrar?`
 
-`D: A última vez que lá fui a segurança era feita por humanos e não por guardiões. Seja como for, caso haja colectores, o teu talento poderá vir a dar jeito`
+`D: A última vez que lá fui a segurança era feita por humanos e não por guardiões. Seja como for, caso haja colectores, o teu talento poderá vir a dar jeito.`
 
 `ALICE: Mas que raio de edifício é este afinal?`
 
@@ -1177,7 +1170,7 @@ Alice fica invisível
 
 `ANCIÃO: Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo`
 
-`D: Quem...é você... ?`
+`D: Quem...é você?`
 
 `ANCIÃO: Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos`
 
@@ -1187,11 +1180,13 @@ D faz um ar perplexo
 
 `ANCIÃO: Imagino que tenham imensas perguntas. Não é fácil explicar-vos quem somos, mas vou tentar simplificar`
 
-> Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte
+Imagem com gradiente entre luz e escuridão
+
+`ANCIÃO: Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte`
 
 >> #### [PAGE]
 
-`ANCIÃO: Nós somos responsáveis por ajudar a manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se a si próprio e aos outros nós intervimos para ajudar a alcançar um balanço.`
+`ANCIÃO: Nós somos responsáveis por manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se a si próprio e aos outros nós intervimos para ajudar a alcançar um balanço.`
 
 Grande plano de Alice
 
@@ -1203,7 +1198,7 @@ Grande plano de D
 
 Plano de D e Alice a olharem um para o outro
 
-`ANCIÃO: Para tal definimos um modelo bastante complexo onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos mas há uma ordem e um sentido para tudo.`
+`ANCIÃO: Para tal definimos um modelo bastante complicado onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos.`
 
 `ANCIÃO: Não obstante, como em qualquer modelo complexo, também se cometem erros`
 
@@ -1247,11 +1242,11 @@ Alice olha com ar desconfiado
 
 `ALICE: O quê? Assim tão simples?`
 
-`D: Sim`
+`D: Sim. Badamerda para estes gajos`
 
 Alice e D estão a caminhar e a afastar-se gradualmente
 
-`Alice: Queres ir beber alguma coisa? Acho que merecemos`
+`Alice: Queres ir beber alguma coisa? Acho que merecemos.`
 
 `D: Não vejo porque não, mas não devias ir ter com o teu geniozinho?`
 
