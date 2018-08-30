@@ -13,7 +13,7 @@ Ele ri-se enquanto caminha na direcção do elevador
 
 Ao lado do elevador está D de pé
 
-Vê-se que a porta do elevador está aberta e o poço também
+Vê-se que a porta do elevador está aberta para o poço
 
 Não obstante ele carrega no botão para chamar o elevador e enquanto espera continua a falar ao telemóvel
 
@@ -52,7 +52,6 @@ D, com um pequeno sorriso enquanto coloca o chapéu
 `D: És mesmo anormal C`
 
 D sai de casa
-
 
 > ### [SCENE] Viagem de autocarro
 
@@ -1254,9 +1253,13 @@ Alice e D estão a caminhar e a afastar-se gradualmente
 
 Ainda mais longe do plano
 
+`ALICE: Estar junto de ti parece-me a forma mais segura de manter o meu cliente vivo`
+
+`D: É justo`
+
 `ALICE: Já dizia o Don Corleone no Padrinho: "Mantém os teus amigos perto e os teus inimigos ainda mais perto"`
 
-`D: Em rigor foi no Padrinho II. Sabes que há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, no entanto...`
+`D: Em rigor foi no Padrinho II. Mas sabes? Há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, no entanto...`
 
 D pára quando vê Alice a olhar para ele ar perplexo
 
