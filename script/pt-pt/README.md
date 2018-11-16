@@ -133,7 +133,7 @@ Sai no piso -7 no seu escritório
 
 >> #### [PAGE]
 
-D aproxima-se do seu lugar e pega numa pasta que está em cima da mesa
+D aproxima-se do seu lugar e retira uma pasta de dentro de um envelope grande que está em cima da mesa
 
 Senta-se e começa a ler
 
@@ -199,7 +199,7 @@ O homem caminha apressadamente para a frente do autocarro que, sem tempo para tr
 
 Entretanto já é noite. D e C estão sentados numa mesa do bar
 
-`C: Tu és uma seca: atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História`
+`C: Tu és uma seca. Atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História`
 
 `D: O que tu chamas de básico eu chamo de optimizado. Garanto-te que no fim os teus não ficam mais mortos que os meus`
 
@@ -223,7 +223,11 @@ C ri-se
 
 `C: Mais 200 anos e dou-lhe a volta`
 
-`D: Se for como nos últimos 200 acho que só vai piorar. Bem, tenho de ir embora`
+`D: Se os últimos 200 anos forem alguma indicação parece-me difícil`
+
+D Levanta-se
+
+`D: Bem, tenho de ir embora`
 
 C aponta o dedo polegar para trás
 
@@ -270,7 +274,7 @@ Passa pela mesa de C que ainda não chegou
 
 `NARRADOR (D): O cabrão do C ainda deve estar em casa a ressacar`
 
-Chega à sua mesa onde encontra uma nova pasta
+Chega à sua mesa onde encontra um novo envelope
 
 `NARRADOR (D): Vamos lá conhecer os clientes de hoje`
 
@@ -316,7 +320,7 @@ Enquanto G vai falando D imagina cenários de morte para este
 
 `G: É imperativo que nos dediquemos de corpo e alma a esta causa, elencando sempre os nossos esforços para algo mais. É preciso seguirem os desígnios que vos são propostos e confiarem que há um padrão bem definido para tudo`
 
-`G: Isto significa, acima de tudo, que é preciso respeito. Respeito pelo trabalho e pelos outros, incluindo pelos nossos clientes`
+`G: Isto significa, acima de tudo, que é preciso respeito. Respeito pelo trabalho e pelos outros, inclusive pelos nossos clientes`
 
 D está com um ar disperso (devido a estar a imaginar os tais cenários de morte de G)
 
@@ -340,7 +344,7 @@ D está sentado na paragem de autocarro, com um homem sentado ao lado.
 
 D olha para o homem que está sentado ao lado dele na paragem a fumar. Consegue ver que os pulmões dele estão negros.
 
-`NARRADOR (D): Na verdade conseguem matar-se maravilhosamente sem a nossa ajuda`
+`NARRADOR (D): Na verdade conseguem matar-se maravilhosamente bem sem a nossa ajuda`
 
 D olha para a frente
 
@@ -376,14 +380,13 @@ As senhoras acenam em concordância
 
 `SENHORA #1: Exactamente!`
 
-`D: Sabem quem disse isto? Sócrates no século 3 antes de Cristo`
+`D: Sabem quem disse isto? Sócrates no século III antes de Cristo`
 
 `D: Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo`
 
 Elas olham um ar surpreendido e D afasta-se.
 
 `D: Passem bem minhas senhoras`
-
 
 > ### [SCENE] Dia de trabalho - Vítima #1
 
@@ -503,7 +506,7 @@ Luís aproxima-se de um cruzamento para peões
 
 `NARRADOR (D): Bem, não vou ganhar pontos de originalidade com este, mas 2 em 3 já não foi mau. Badamerda para o C`
 
-Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, mas a parar de repente, como se estivesse estagnado, ainda inclinado para a frente
+Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, e a ser puxado subitamente para trás, mas sem ninguém perto dele
 
 D fica embasbacado a olhar
 
@@ -562,7 +565,7 @@ Luís nem consegue responder. Nesta altura um dos tipos tira uma ponta-e-mola e 
 
 >> #### [PAGE]
 
-Finalmente Luís chega a um edifício grande de uma empresa de investigação farmacêutica (Genomium) e entra lá para dentro.
+Finalmente Luís chega a um edifício grande de uma empresa de investigação farmacêutica (Genomium) e entra lá para dentro. D espreita de longe.
 
 `NARRADOR (D): Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa`
 
@@ -601,7 +604,7 @@ Rescaldo da situação, já com a polícia e bombeiros na zona. Luís está a se
 
 D espreita ao longe com Alice ao lado dele. D pega no telefone:
 
-`D: C, preciso de falar contigo urgentemente. Não, não estou a brincar. Consegues ir ter ao café agora?`
+`D: C, preciso de falar contigo. Não, não estou a brincar. Consegues ir ter ao café agora?`
 
 >> #### [PAGE]
 
@@ -609,7 +612,7 @@ D espreita ao longe com Alice ao lado dele. D pega no telefone:
 
 D para e olha em volta para onde está Alice, mas não vê nada, e volta à sua conversa telefónica com C
 
-`D: Nada nada, foi só uma sensação esquisita. OK, daqui a 20 minutos lá`
+`D: Nada nada, foi só uma sensação esquisita. OK, daqui a 15 minutos lá`
 
 > ### [SCENE] Café
 
@@ -637,7 +640,7 @@ C poisa o copo
 
 `C: No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?`
 
-`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para os pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os.`
+`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para alguns pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os.`
 
 C ri-se
 
@@ -648,6 +651,8 @@ C ri-se
 D responde
 
 `D: Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo.`
+
+C ri-se.
 
 `C: AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo.`
 
@@ -917,7 +922,7 @@ Vista dentro do escritório
 
 Alice a seguir F
 
-`NARRADOR (D): A má é que apenas algumas pessoas têm acesso à sala do arquivo`
+`NARRADOR (D): A má é que apenas algumas pessoas têm acesso à sala dos processos`
 
 Alice a entrar atrás de F na sala
 
@@ -935,17 +940,15 @@ D a colocar uma pasta por baixa da porta
 
 Alice a colocar a pasta no arquivo
 
-`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo no número certo. Assumindo que na Escolinha de Protectores vos ensina a contar não deverás ter problemas`
+`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo no número certo. Assumindo que na Escolinha de Protectores vos ensinam a contar não deverás ter problemas`
 
 `NARRADOR (ALICE): Engraçadinho`
 
-D a falar com F. F está com ar chateado.
+Porta a abrir
 
-`NARRADOR (D): A seguir vou dizer ao F que me esqueci de submeter os processos de ontem. Ele vai resmungar mas irá à sala do arquivo novamente`
+`NARRADOR (D): A porta abre por dentro. Quando eu der sinal tu abres a porta e sais`
 
-F a abrir a porta e Alice a sair e a dar um toque no ombro de D
-
-`NARRADOR (D): Quando passares por mim toca-me no ombro para eu saber que saíste`
+Alice abre a porta e sai.
 
 >> #### [PAGE]
 
@@ -1077,7 +1080,7 @@ Alice ri-se
 
 `D: Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.`
 
-`ALICE: O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias, mesmo que eu não as compreenda.`
+`ALICE: O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias.`
 
 `D: Uiii, acreditas nisso? Ias adorar o meu chefe`
 
@@ -1141,7 +1144,7 @@ Já está a anoitecer
 
 Vista do balcão onde está o segurança colector
 
-`NARRADOR (D): Durante a madrugada a segurança é feita por guardiões. No entanto durante o dia é assegurada por Colectores. É uma medida tomada para efeitos disciplinares, o que neste caso vai ser uma vantagem`
+`NARRADOR (D): Durante a noite a segurança é feita por guardiões. No entanto durante o dia é assegurada por Colectores. Parece algo parvo mas é feito por motivos disciplinares`
 
 Vista de um painel junto do segurança
 
@@ -1149,7 +1152,7 @@ Vista de um painel junto do segurança
 
 Vista de D a conversar com o segurança enquanto Alice carrrega num botão
 
-`NARRADOR (D): Motivo pela qual a minha amiga invisível vai desligar o alarme da sala #7 enquanto eu distraio o segurança`
+`NARRADOR (D): Motivo pela qual a minha amiga invisível vai desligar o alarme da sala #7 enquanto eu distraio o meu colega Colector`
 
 Entram na sala de arquivo. É uma sala gigantesca com várias filas de arquivos, todas paralelas
 
@@ -1169,7 +1172,7 @@ Alice fica invisível
 
 `ANCIÃO: Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo`
 
-`D: Quem...é você?`
+`D: Quem... é você?`
 
 `ANCIÃO: Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos`
 
@@ -1247,11 +1250,11 @@ Alice olha com ar desconfiado
 
 D sorri e vira-se para Alice. O Ancião também está com ar surpreendido
 
-Flashback de quando D estava de costas para Alice no Hospital. Desta vez visto de frente.
+Flashback de quando D estava de costas para Alice no Hospital.
 
 `NARRADOR (D): Lembras-te de estares à espera que eu decidisse ajudar-te no Hospital?`
 
-Continuação do flashback. D está com os olhos vermelhos e a olhar para o lado
+Continuação do flashback, desta vez com D visto de frente. D está com os olhos vermelhos e a olhar para o lado
 
 `NARRADOR (D): Acho que não reparaste que eu tinha ângulo de visão para o quarto. É possível que eu tenha feito a enfermeira dar uma dose de cavalo de morfina ao teu geniozinho`
 
@@ -1269,15 +1272,15 @@ Alice aponta o dedo a D
 
 D coça a cabeça
 
-`D: Há quem me considere ligeiramente obsessivo. A ideia de deixar um trabalho por terminar não era concebível. No entanto, a curiosidade que sentia por perceber o que se passava neste caso também era insuportável`
+`D: Há quem me considere ligeiramente obsessivo. A ideia de deixar um trabalho por terminar não era concebível. No entanto, a curiosidade que sentia por perceber o que se passava neste caso também era forte`
 
 D sorri com ar malandro
 
-`D: Vi uma oportunidade de ouro de fazer as duas coisas`
+`D: Porque não conseguir as duas coisas?`
 
 Alice com ar desesperado
 
-`ALICE: Mas não percebo. Porque me levaste ao teu trabalho para alterar o arquivo?`
+`ALICE: Mas não percebo. Porque me levaste ao teu trabalho para alterar o processo?`
 
 D ri-se
 
