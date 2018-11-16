@@ -1067,11 +1067,11 @@ D sorri
 
 `ALICE: E quem decide as pessoas que são mortas?`
 
-`D: Honestamente não sei. Todos os dias recebemos os nomes por fax, que depois são distribuídos pelos vários colectores`
+`D: Honestamente não sei. Todos os dias recebemos os nomes em envelopes fechados, que depois são distribuídos pelos vários colectores`
 
 Alice ri-se
 
-`ALICE: Fax, a sério?`
+`ALICE: Envelopes, a sério?`
 
 `D: Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais`
 
@@ -1215,7 +1215,7 @@ Plano de D e Alice a olharem um para o outro
 
 >> #### [PAGE]
 
-`ANCIÃO: Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode irremediavelmente estragar o equilíbrio`
+`ANCIÃO: Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode destruir irremediavelmente o ténue equilíbrio que temos conseguido manter`
 
 `ANCIÃO: Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos`
 
@@ -1259,7 +1259,7 @@ D a sair com Alice, enquanto ela olha para trás, vendo o geniozinho a dormir tr
 
 `NARRADOR (D): O efeito não terá sido imediato, pelo que precisava de te tirar de lá antes que percebesses o que tinha feito, ou que percebesses a vulnerabilidade da situação.`
 
-Fim do flashback. Alice está com um irritado. O Ancião está de olhos muito abertos
+Fim do flashback. Alice está com um ar irritado. O Ancião está de olhos muito abertos
 
 `ALICE: Tu fizeste o quê???`
 
@@ -1297,7 +1297,7 @@ D responde-lhe com um ar calmo.
 
 `D: Literalmente foram só 47 segundos, mas sim, é mesmo verdade. O geniozinho está a fazer tijolo`
 
-Alice vira costas e vai embora irritada
+Alice vira costas e vai-se embora irritada
 
 `D: Precisas dos horários do comboio?`
 
