@@ -859,7 +859,7 @@ Vista de fora do edifício das finanças. O texto de narrador mostrará a conver
 
 Vista da recepção com D a entrar e a falar com Zé 
 
-`NARRADOR (D): às 7:30 eu entro no escritório, como em tantos outros dias, e cumprimento o segurança`
+`NARRADOR (D): Eu entro no escritório e cumprimento o segurança`
 
 D fala com Zé
 
@@ -909,7 +909,7 @@ Vista dentro do escritório
 
 `NARRADOR (D): Estou a assumir que ninguém dentro do escritório te consiga ver, dado que só lá estarão colectores como eu`
 
-`NARRADOR (D): Após registarmos uma morte há um processo manual que envolve alguém validar o óbito noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias`
+`NARRADOR (D): Após registarmos uma morte há um processo manual que envolve alguém validá-la noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias`
 
 `NARRADOR (D): Nunca pensei dizer isto, mas o processo ser manual é neste caso uma vantagem. A boa notícia é que basta que coloquemos a ficha do processo, que está comigo, no arquivo dos processos executados`
 
@@ -935,7 +935,7 @@ D a colocar uma pasta por baixa da porta
 
 Alice a colocar a pasta no arquivo
 
-`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo na posição certa. Assumindo que na escola de Protectores vos ensinam o alfabeto não deverás ter problemas`
+`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo no número certo. Assumindo que na Escolinha de Protectores vos ensina a contar não deverás ter problemas`
 
 `NARRADOR (ALICE): Engraçadinho`
 
@@ -1003,7 +1003,7 @@ D diz, enquanto olha para o seu relógio
 
 `ALICE: De comboio? Porque é que vamos de comboio?`
 
-D diz, a caminhar, já sem olhar para ela
+D diz, a caminhar, já sem olhar para ela, e ela com ar espantado
 
 `D: Porque de autocarro demorava muito mais`
 
@@ -1137,27 +1137,27 @@ D, com um ar aborrecido enquanto coloca o chapéu
 
 Já está a anoitecer
 
-`ALICE: Tens a certeza que não vamos ter problemas a entrar?`
+`NARRADOR (ALICE): Tens a certeza que não vamos ter problemas a entrar?`
 
-`D: A última vez que lá fui a segurança era feita por humanos e não por guardiões. Seja como for, caso haja colectores, o teu talento poderá vir a dar jeito.`
+Vista do balcão onde está o segurança colector
 
-`ALICE: Mas que raio de edifício é este afinal?`
+`NARRADOR (D): Durante a madrugada a segurança é feita por guardiões. No entanto durante o dia é assegurada por Colectores. É uma medida tomada para efeitos disciplinares, o que neste caso vai ser uma vantagem`
 
-`D: Eu trabalho na divisão da minha cidade. Este é o arquivo central do país. Todos os casos estão lá consolidados. A haver mais informação este é claramente o sítio certo`
+Vista de um painel junto do segurança
 
-> ### [SCENE] Arquivo
+`NARRADOR (D): O maior problema não é a entrada, porque a isso eu tenho acesso. O problema são os alarmes e sensores biométricos para entrar nas salas de arquivo`
 
->> #### [PAGE]
+Vista de D a conversar com o segurança enquanto Alice carrrega num botão
 
-D e Alice a entrarem no edifício e a passarem ao lado de um segurança que nem olha para eles. D tem os olhos vermelhos
-
-`ALICE: Isto parece-me demasiado fácil`
-
-`D: Não te queixes`
+`NARRADOR (D): Motivo pela qual a minha amiga invisível vai desligar o alarme da sala #7 enquanto eu distraio o segurança`
 
 Entram na sala de arquivo. É uma sala gigantesca com várias filas de arquivos, todas paralelas
 
-Ouve-se uma voz por trás deles
+D caminha pelos arquivos
+
+`D: 7354, 7355, 7356... 7357. Aqui está`
+
+Enquanto D pega na pasta ouve-se uma voz por trás deles
 
 `ANCIÃO: Sejam bem-vindos. Estava à vossa espera`
 
@@ -1209,7 +1209,7 @@ Plano de D e Alice a olharem um para o outro
 
 `ANCIÃO: O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável`
 
-`ANCIÃO: Por um lado pode ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis`
+`ANCIÃO: Por um lado poderá ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis`
 
 `ANCIÃO: Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.`
 
@@ -1219,15 +1219,19 @@ Plano de D e Alice a olharem um para o outro
 
 `ANCIÃO: Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos`
 
-`ANCIÃO: Não conseguindo chegar a consenso optámos por uma nova estratégia: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto`
+`ANCIÃO: Não conseguindo chegar a consenso optámos por uma nova estratégia sem precedentes: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto`
 
 `ANCIÃO: No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector`
 
 >> #### [PAGE]
 
-`ANCIÃO: A estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito`
+`ANCIÃO: Admitimos que a estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito`
 
 `ANCIÃO: A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam`
+
+D olha com um ar desconfiado
+
+`D: Ou seja, estão basicamente a sacudir a água do capote e a livrar-se da responsabilidade. Muito civilizado sim senhor...`
 
 Alice diz, de braços cruzados
 
@@ -1235,39 +1239,73 @@ Alice diz, de braços cruzados
 
 D coça o queixo
 
-`D: Acho que depois desta aventura é justo que o teu geniozinho possa viver mais algum tempo descansado`
+`D: Pois, quanto a isso, tenho boas notícias`
 
 Alice olha com ar desconfiado
 
-`ALICE: O quê? Assim tão simples?`
+`D: A boa notícia é que já não precisamos de chegar a um consenso`
 
-`D: Sim. Badamerda para estes gajos`
+D sorri e vira-se para Alice. O Ancião também está com ar surpreendido
 
-Alice e D estão a caminhar e a afastar-se gradualmente
+Flashback de quando D estava de costas para Alice no Hospital. Desta vez visto de frente.
 
-`Alice: Queres ir beber alguma coisa? Acho que merecemos.`
+`NARRADOR (D): Lembras-te de estares à espera que eu decidisse ajudar-te no Hospital?`
 
-`D: Não vejo porque não, mas não devias ir ter com o teu geniozinho?`
+Continuação do flashback. D está com os olhos vermelhos e a olhar para o lado
 
->> #### [PAGE]
+`NARRADOR (D): Acho que não reparaste que eu tinha ângulo de visão para o quarto. É possível que eu tenha feito a enfermeira dar uma dose de cavalo de morfina ao teu geniozinho`
 
-Ainda mais longe do plano
+D a sair com Alice, enquanto ela olha para trás, vendo o geniozinho a dormir tranquilamente
 
-`ALICE: Estar junto de ti parece-me a forma mais segura de manter o meu cliente vivo`
+`NARRADOR (D): O efeito não terá sido imediato, pelo que precisava de te tirar de lá antes que percebesses o que tinha feito, ou que percebesses a vulnerabilidade da situação.`
 
-`D: É justo`
+Fim do flashback. Alice está com um irritado. O Ancião está de olhos muito abertos
 
-`ALICE: Já dizia o Don Corleone no Padrinho: "Mantém os teus amigos perto e os teus inimigos ainda mais perto"`
+`ALICE: Tu fizeste o quê???`
 
-`D: Em rigor foi no Padrinho II. Mas sabes? Há, historicamente, grandes discussões relativamente à origem dessa expressão. Há quem a atribua erradamente a Sun-Tzu, outros a Maquiavel, no entanto...`
+Alice aponta o dedo a D
 
-D pára quando vê Alice a olhar para ele ar perplexo
+`ALICE: Mas... isto não faz sentido... tu ajudaste-me, fomos preencher o arquivo, viemos aqui...`
 
-`ALICE: És uma pessoa muito esquisita...`
+D coça a cabeça
 
-Os dois ainda mais longe do plano enquanto caminham juntos
+`D: Há quem me considere ligeiramente obsessivo. A ideia de deixar um trabalho por terminar não era concebível. No entanto, a curiosidade que sentia por perceber o que se passava neste caso também era insuportável`
 
-`D: Pérolas a porcos`
+D sorri com ar malandro
+
+`D: Vi uma oportunidade de ouro de fazer as duas coisas`
+
+Alice com ar desesperado
+
+`ALICE: Mas não percebo. Porque me levaste ao teu trabalho para alterar o arquivo?`
+
+D ri-se
+
+`D: O que te disse das certidões de óbito era falso. Achas mesmo que nós precisamos de relatórios médicos e afins para validar uma morte? Basicamente entregaste o relatório que tinha pendente da morte do geniozinho, que eu tinha acabado de matar, mas a dizer que tinha sido no dia anterior. Caso contrário corria o risco de não receber o bónus de productividade` 
+
+Alice com ar abatido...
+
+`ALICE: Mas tu trouxeste-me aqui...`
+
+`D: Bem, na verdade precisava da tua ajuda para entrar`
+
+Alice grita:
+
+`Alice: tu estiveste literalmente 1 minuto de costas para mim. É impossível teres pensado nisso tudo num minuto. Por favor diz-me que estás a brincar...`
+
+D responde-lhe com um ar calmo.
+
+`D: Literalmente foram só 47 segundos, mas sim, é mesmo verdade. O geniozinho está a fazer tijolo`
+
+Alice vira costas e vai embora irritada
+
+`D: Precisas dos horários do comboio?`
+
+Alice, ainda de costas, faz um manguito
+
+D vira-se para o Ancião, que ainda olha com um ar perplexo para ele, e tira o chapéu:
+
+`D: Uma boa noite para os senhores`
 
 > ### [SCENE] Epílogo
 
