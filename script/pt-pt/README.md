@@ -1,8 +1,6 @@
 
 ### [SCENE] Prólogo
 
----
-
 Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro
 
 Ele está a falar ao telemóvel enquanto fecha a porta de sua casa
@@ -31,8 +29,6 @@ Plano de D a descer as escadas tranquilamente
 
 ### [SCENE] Casa de D
 
----
-
 Vê-se um despertador a mostrar 05:59. Passa para as 06:00 enquanto toca
 
 Vê-se uma mão a desligar o despertador
@@ -54,8 +50,6 @@ D, com um pequeno sorriso enquanto coloca o chapéu
 D sai de casa
 
 ### [SCENE] Viagem de autocarro
-
----
 
 D está na paragem de autocarro e estica o braço para sinalizar ao autocarro para que este pare
 
@@ -108,8 +102,6 @@ A senhora olha em frente, com um ar bastante atónito, enquanto D volta ao seu j
 
 
 ### [SCENE] Chegada ao Escritório
-
----
 
 D sai do autocarro e aproxima-se do edifício das Finanças, onde trabalha.
 
@@ -195,8 +187,6 @@ O homem caminha apressadamente para a frente do autocarro que, sem tempo para tr
 
 ### [SCENE] Bar
 
----
-
 Entretanto já é noite. D e C estão sentados numa mesa do bar
 
 `C: Tu és uma seca. Atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História`
@@ -257,16 +247,12 @@ D levanta-se enquanto sorri e acena a C que lhe devolve o aceno enquanto bebe a 
 
 ### [SCENE] Casa de D
 
----
-
 Novamente o despertador a passar das 05:59 para as 06:00, com D a desligá-lo
 
 D a sair de casa para ir trabalhar 
 
 
 ### [SCENE] Escritório
-
----
 
 D entra no escritório.
 
@@ -336,8 +322,6 @@ G vira costas e D faz um manguito disfarçado
 
 ### [SCENE] Paragem do autocarro
 
----
-
 D está sentado na paragem de autocarro, com um homem sentado ao lado.
 
 `NARRADOR (D): Se estas pessoas soubessem o quão frágil é a sua vida não saíam de casa com medo do que lhes pudesse acontecer`
@@ -357,8 +341,6 @@ O motorista já tem a porta aberta
 `MOTORISTA: Amigo, este é o único autocarro que aqui para. É para entrar?`
  
 ### [SCENE] Viagem de autocarro
-
----
 
 Neste momento vê-se D novamente num autocarro, desta vez de pé.
 
@@ -389,8 +371,6 @@ Elas olham um ar surpreendido e D afasta-se.
 `D: Passem bem minhas senhoras`
 
 ### [SCENE] Dia de trabalho - Vítima #1
-
----
 
 Um polícia de trânsito toma o pequeno-almoço tranquilamente num café. D está sentado ao seu lado
 
@@ -437,8 +417,6 @@ Vê-se D a passar ao lado do polícia e respectiva vítima
 `NARRADOR (D): Bom tiro Sr. Agente. Um já está, faltam dois`
 
 ### [SCENE] Dia de trabalho - Vítima #2
-
----
 
 Rosa, uma senhora de 73 anos, regava tranquilamente as plantas de sua casa
 
@@ -496,8 +474,6 @@ Plano de D a sair da casa, vendo-se a mão dela no chão
 
 ### [SCENE] Dia de trabalho - Vítima #3
 
----
-
 D vê a sua vítima, Luís Lopes, a caminhar na rua numa zona bastante movimentada
 
 Luís aproxima-se de um cruzamento para peões
@@ -513,8 +489,6 @@ D fica embasbacado a olhar
 `NARRADOR (D): Mas que raio?`
 
 ### [SCENE] Alice
-
----
 
 NARRADOR
 > 1 minuto antes
@@ -540,8 +514,6 @@ Já com Luís sentado no chão, como na cena anterior
 `NARRADOR (ALICE): Só me faltava esta... Este otário quer morrer ou quê?`
 
 ### [SCENE] Luís caminha para o emprego
-
----
 
 Luís está a caminhar pela rua quando subitamente se vê uma carro a dar uma guinada e a vir para cima dele. Vê-se Luís a sair projectado da frente do carro, sem que este o atinja
 
@@ -571,8 +543,6 @@ Finalmente Luís chega a um edifício grande de uma empresa de investigação fa
 
 ### [SCENE] Casa de Luís
 
----
-
 Já está a anoitecer e Luís aproxima-se de sua casa, com Alice ao seu lado
 
 `NARRADOR (ALICE): Meu, já estás em casa. A ver se vais dormir e não fazes mais disparates. Isto está a ser um dia muito esquisito`
@@ -598,8 +568,6 @@ Ela lembra-se de vê-lo em várias das situações de quase morte de Luís
 
 ### [SCENE] Rescaldo
 
----
-
 Rescaldo da situação, já com a polícia e bombeiros na zona. Luís está a ser colocado na ambulância.
 
 D espreita ao longe com Alice ao lado dele. D pega no telefone:
@@ -615,8 +583,6 @@ D para e olha em volta para onde está Alice, mas não vê nada, e volta à sua 
 `D: Nada nada, foi só uma sensação esquisita. OK, daqui a 15 minutos lá`
 
 ### [SCENE] Café
-
----
 
 D está a conversar com C no café
 
@@ -670,8 +636,6 @@ D coloca o chapéu e acena enquanto sai com Alice ao seu lado
 
 ### [SCENE] Escritório
 
----
-
 D está à entrada do edifício, ainda com Alice a segui-lo.
 
 Pouco depois de passar a porta da entrada D cruza-se com Zé, o Porteiro.
@@ -712,17 +676,11 @@ Zé volta para o seu jornal
 
 `ZÉ: Boa noite Sr. D`
 
-### [SCENE] Alice na rua
-
----
-
 Alice afasta-se do edifício, ainda com ar assustado
 
 `NARRADOR (ALICE): Como é que ele me viu? Onde é que me vim meter?`
 
 ### [SCENE] Escritório
-
----
 
 D pesquisa manualmente um arquivo físico
 
@@ -745,8 +703,6 @@ D olha para a frente
 `D: Requisição especial? Mas que raio?`
 
 ### [SCENE] Hospital
-
----
 
 Vista de fora do Hospital. Já é de manhã.
 
@@ -856,8 +812,6 @@ Alice sorri de volta
 
 ### [SCENE] Escritório
 
----
-
 Vista de fora do edifício das finanças. O texto de narrador mostrará a conversa de D a explicar o plano a Alice, ao mesmo tempo que é executado
 
 `NARRADOR (D): OK, então o plano vai ser este`
@@ -965,8 +919,6 @@ Grande plano de Zé a virar os olhos na direção de Alice
 `NARRADOR (D): Os Guardiões estão preocupados com entradas, não saídas`
 
 ### [SCENE] Parque
-
----
 
 D e Alice estão sentados num banco de jardim. D fala com Alice
 
@@ -1135,8 +1087,6 @@ D, com um ar aborrecido enquanto coloca o chapéu
 `D: Santa Paciência... Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir`
 
 ### [SCENE] Entrada do Arquivo
-
----
 
 Já está a anoitecer
 
@@ -1311,8 +1261,6 @@ D vira-se para o Ancião, que ainda olha com um ar perplexo para ele, e tira o c
 `D: Uma boa noite para os senhores`
 
 ### [SCENE] Epílogo
-
----
 
 D entra na casa da velhota que matou
 
