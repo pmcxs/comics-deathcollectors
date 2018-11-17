@@ -82,7 +82,7 @@ D, ainda com um ar desinteressado, continua.
 Imagem com a evolução do ser humano a partir dos primatas
 
 `NARRADOR (D): Falando especificamente dos humanos, durante milhões de anos tornaram-se mais fortes e aptos, dado que apenas os mais resistentes sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes. Desta forma garantia-se que as novas gerações seriam cada vez melhores e mais aptas`
- 
+
 ---
 
 Imagem de um médico com uma seringa na mão
