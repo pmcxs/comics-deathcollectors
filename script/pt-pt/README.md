@@ -1,1327 +1,2124 @@
+# Os colectores
+by Pedro Sousa
 
----
+draft: 1
+characters: D, Alice, C, G, Enfermeiro, Polícia, Rosa, Luís, Senhora, Zé, Ancião
 
-### [SCENE] Prólogo
+ 
 
-Vista dentro de um bloco de apartamentos. Um homem está a sair de uma das portas, vestido de enfermeiro
+## PAGE 1
+### Panel 1
+Tamanho completo da página. Serve de fundo aos outros painéis.
 
-Ele está a falar ao telemóvel enquanto fecha a porta de sua casa
+Zona de entrada dentro de um bloco de apartamentos. Há várias portas, um elevador ao fundo e umas escadas para descer para o piso inferior.
 
-`HOMEM: Sim, Dona Clara, não se preocupe que eu levo os medicamentos`
+Um homem está a sair da porta mais próxima, vestido de enfermeiro.
 
-Ele ri-se enquanto caminha na direcção do elevador
+### Panel 2
+Plano médio do ENFERMEIRO a fechar a porta da casa enquanto fala ao telemóvel.
 
-Ao lado do elevador está D de pé
+ENFERMEIRO:
+> Sim, Dona Clara, não se preocupe que eu levo os medicamentos
+ 
+### Panel 3
+Vista por trás \(e próxima\) dos pés do ENFERMEIRO enquanto este caminha na direcção do elevador.
 
-Vê-se que a porta do elevador está aberta para o poço
+ENFERMEIRO:
+> AH!AH! Claro que sim.
 
-Não obstante ele carrega no botão para chamar o elevador e enquanto espera continua a falar ao telemóvel
+### Panel 4
+Vista de dentro do poço do elevador com o ENFERMEIRO a aproximar-se. Não há elevador mas a porta está aberta.
 
-`HOMEM: AH AH, claro que sim. Mas olhe, tenho de desligar porque vou entrar no elevador`
+ENFERMEIRO:
+> Mas olhe, tenho de desligar porque vou entrar no elevador.
 
-Ele aguarda um pouco e depois avança tranquilamente para dentro do poço do elevador, caindo e gritando durante a queda
+### Panels 5-7
+Sequência, vista de perfil, com o ENFERMEIRO a passar por D \(encostado à parede\) e a entrar no poço do elevador, caindo.
 
----
+ENFERMEIRO: (GRITAR)
+> AAAAAHHH!!!!
+## PAGE 2
+### Panel 1
+Vista por trás \(e cima\) de D a espreitar para dentro do poço do elevador
 
-Vista por trás (e cima) de D a espreitar para dentro do poço do elevador
+### Panel 2
+Grande plano da mão de D a pegar no chapéu que estava no chão
 
-D pega no seu chapéu (que está no chão) e coloca-o na cabeça
+### Panel 3
+D coloca o chapéu na cabeça
 
-Plano de D a descer as escadas tranquilamente
+### Panel 4
+Vista por trás de D a descer as escadas
 
----
+## PAGE 3
+### Panels 1-3
+Sequência \(com painéis verticais\) de um despertador.
+* No primeiro mostra a hora 05:59
+* No segundo mostra 06:00
+* No terceiro uma mão a carregar no despertador, para o silenciar
 
-### [SCENE] Casa de D
+### Panel 4
+Vista de cima de D a tomar um duche
 
-Vê-se um despertador a mostrar 05:59. Passa para as 06:00 enquanto toca
+### Panel 5
+Plano médio traseiro de D a fazer a barba, vendo-se o seu reflexo no espelho
 
-Vê-se uma mão a desligar o despertador
 
-D toma um duche e faz a barba
+## PAGE 4
+### Panel 1
+Vista de perfil de D a comer cereais enquanto vê a televisão
 
----
+### Panel 2
+Plano médio de D a colocar a sua gravata e a olhar para a televisão
 
-D está a tomar o pequeno-almoço enquanto vê televisão
+TV:
+> ...Esta morte insólita deveu-se à ingestão de 23 pudins...
 
-Enquanto se está a vestir vê-se a televisão ligada atrás onde estão a passar notícias:
+### Panel 3
+Grande plano de D a colocar o seu chapéu
+D:
+> És mesmo anormal C
 
-`TV: ...Esta morte insólita deveu-se à ingestão de 23 pudins...`
+### Panel 4
+Plano geral a ver-se D de perfil a caminhar, já no exterior de sua casa, com as mãos nos bolsos
 
-D, com um pequeno sorriso enquanto coloca o chapéu
+## PAGE 5
+### Panel 1
+Plano médio de D a chamar um autocarro
 
-`D: És mesmo anormal C`
+### Panel 2
+Plano completo de D sentado no autocarro a ler o jornal. Ao seu lado está uma SENHORA
 
-D sai de casa
+### Panel 3
+Grande plano de D e da SENHORA. Ela fala mas D continua a olhar para o seu jornal
 
----
+SENHORA:
+> Este autocarro é pavoroso.
 
-### [SCENE] Viagem de autocarro
+### Panel 4
+Grande plano da SENHORA, que continua a falar
 
-D está na paragem de autocarro e estica o braço para sinalizar ao autocarro para que este pare
+SENHORA:
+> Abana por todos os lados. É um suplício e fico super enjoada
 
-Pouco depois está sentado a ler um jornal com uma velhota ao lado. Ela vira-se para ele
+### Panel 5
+Plano médio dos dois, com a SENHORA virada para D mas este continua a ler o seu jornal
 
-`VELHOTA: Este autocarro é pavoroso. Abana por todos os lados. É um suplício e fico toda enjoada`
+SENHORA:
+> E ainda piora com o meu reumatismo. Tenho de tomar medicamentos para a tensão e para o coração com uma pensão que é uma miséria.
+> Tudo isto para aqueles velhacos das farmácias que nos deixam doentes de propósito.
+> 
+### Panel 6
+Grande plano de D que levanta ligeiramente a cabeça, com o chapéu ainda a tapar-lhe os olhos
 
-D ainda está a olhar para o seu jornal mas ela continua
+D:
+> Olhe...
 
-`VELHOTA: E ainda piora com o reumatismo. Tenho de tomar medicamentos para a tensão e para o coração com uma pensão que é uma miséria. Isto tudo para aqueles velhacos das farmácias. Deixam-nos doentes de propósito para ficarem com o nosso dinheiro`
+## PAGE 6
+### Panel 1
+Ainda num grande plano em D, mas com este a virar a cara na direcção da SENHORA\(fora de plano\)
 
-D, ainda a olhar para baixo mas virando a cara ligeiramente para ela, diz
+D:
+> Você já ouviu falar da teoria da evolução das espécies de Darwin?
 
-`D: Olhe`
+SENHORA (FORA DE PLANO):
+> Como?
 
----
+### Panel 2
+Vista de perfil de D, que continua com a sua explicação
 
-D olha directamente para ela
+D:
+> Genericamente falando descreve a forma como as espécies evoluem e se adaptam por forma a sobreviveram no meio que as rodeia
 
-`D: Você já ouviu falar da teoria da evolução das espécies de Darwin?`
+### Panel 3
+Imagem a mostrar a evolução desde os primatas até ao Homo Sapiens
 
-A velhota faz um ar surpreso
+D (NARRADOR):
+> Falando especificamente da espécie humana, durante milhões de anos tornou-se mais apta.
+> Apenas os mais aptos sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes, garantindo uma adaptação contínua ao meio circundante
 
-`VELHOTA: Como?`
-
-D, ainda com um ar desinteressado, continua.
-
-`D: Genericamente falando descreve a forma como as espécies evoluem e se adaptam por forma a sobreviverem ao meio que as rodeia`
-
-Imagem com a evolução do ser humano a partir dos primatas
-
-`NARRADOR (D): Falando especificamente dos humanos, durante milhões de anos tornaram-se mais fortes e aptos, dado que apenas os mais resistentes sobreviviam, pelo que transmitiam esses bons genes aos seus descendentes. Desta forma garantia-se que as novas gerações seriam cada vez melhores e mais aptas`
-
----
-
+### Panel 4
 Imagem de um médico com uma seringa na mão
 
-`NARRADOR (D): Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivo. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante, dado que a medicina permitiu que membros inaptos prosperassem, enquanto noutros tempos a seleção natural trataria de garantir que não teriam oportunidade de se reproduzirem`
+D (NARRADOR):
+> Actualmente a sobrevivência dos mais fortes passou a ser um conceito bastante subjectivos. O facto de se ser fisicamente mais forte ou fraco tornou-se menos relevante.
 
-Vê-se D novamente
+> Os avanços na medicina permitiram que os membros inaptos prosperassem, enquanto noutros tempos a selecção natural trataria de garantir que não teriam oportunidade de se reproduzirem
 
-`D: De certa forma é positivo porque aumenta a diversidade, mas na realidade tornou os humanos numa espécie de flor de estufa, totalmente dependentes de cuidados terceiros`
+### Panel 5
+Grande plano dos olhos de D
 
-Velhota com olhos muito abertos
+D: De certa forma é positivo pois aumenta a diversidade, mas na realidade tornou os humanos numa espécie de flor de estufa, totalmente dependentes de cuidados terceiros
 
-`D: Você, por exemplo, sem os medicamentos de que tanto se queixa daqui a um mês já não estaria a incomodar ninguém no autocarro`
+### Panel 6
+Grande plano da SENHORA com os olhos bastante abertos. D está fora de plano
 
+D (FORA DE PLANO):
+> Você, por exemplo, sem os medicamentos de que tanto se queixa daqui a um mês já não estaria a incomodar ninguém no autocarro
 
-A senhora olha em frente, com um ar bastante atónito, enquanto D volta ao seu jornal.
+### Panel 7
+Plano médio de ambos, com D a ler o jornal e a SENHORA com os olhos muito abertos e a olhar em frente
 
+## PAGE 7
+### Panel 1
+Plano completo de D a sair do autocarro.
 
----
+### Panel 2
+Plano médio traseiro de D a caminhar na direcção do edifício das Finanças
 
-### [SCENE] Chegada ao Escritório
+### Panel 3
+Dentro do edifício, vendo-se Zé \(o segurança\) próximo do plano e D a aproximar-se mais longe
 
-D sai do autocarro e aproxima-se do edifício das Finanças, onde trabalha.
+### Panel 4
+Plano próximo de D, que passou pelo Zé sem sequer olhar para ele
 
-O segurança diz-lhe
+ZÉ:
+> Bom dia Sr. D
 
-`SEGURANÇA: Bom dia Sr. D`
+D:
+> Olá Zé
 
-D responde sem sequer olhar para ele
+### Panel 5
+Plano baixo de D a aproximar-se de uma porta discreta com um sinal de proibido
 
-`D: Olá Zé`
+### Panel 6
+Grande plano do dedo de D em cima de um leitor biométrico
 
-Vai para uma porta bastante discreta e utiliza um leitor biométrico de impressão digital para ter acesso
+### Panel 7
+Luz verde com uma sinalética a dizer "autorizado"
 
----
- 
-Atravessa um corredor estreito e entra num elevador
+### Panel 8
+Plano baixo dentro dentro da área segura, já com a porta aberta. Vê-se o vulto de D de frente, dado que a nova área quase não tem luz.
 
-Carrega no botão -7
+## PAGE 8
+### Panel 1
+Vista de cima de D a atravessar um corredor estreito. A única luz vem de uma porta de elevador que está aberta ao final do corredor
 
-Sai no piso -7 no seu escritório 
+### Panel 2
+Grande plano da mão de D a carregar no botão -7
 
----
+### Panel 3
+Plano das portas de elevador fechadas. Em cima o indicador diz "R/C"
 
-D aproxima-se do seu lugar e retira uma pasta de dentro de um envelope grande que está em cima da mesa
+### Panel 4
+Este painél compõe o fundo todo da página. A porta do elevador \(cujo indicador diz "-7"\) está aberta, vendo-se um escritório bastante grande, com várias pessoas sentadas nas mesas. D caminha em frente
 
-Senta-se e começa a ler
+## PAGE 9
+### Panel 1
+Grande plano da mão de D a pegar num envelope grande que está em cima da secretária
 
-`NARRADOR (D): Vamos lá ver quem são os felizardos de hoje`
+### Panel 2
+Plano médio traseiro de D sentado na sua cadeira. O seu chapéu está ao seu lado bem como o envelope vazio.
+D está a folhear uma pasta
 
-Enquanto D está a folhear a pasta C aparece
+### Panel 3
+Plano frontal de D, que continua a ler a pasta,com C fora de cena. Os dois conversam mas D não tira os olhos da sua pasta
 
-C diz, com entusiasmo
+C:
+> D!
+D:
+> Olá C
 
-`C: D!`
+### Panel 4
+C está sentado na secretária de D. Os dois continuam a conversar, com D ainda a ler a sua pasta
 
-D responde, ainda a olhar para a sua própria pasta
+C:
+> Viste pá? Sou famoso
+D:
+> Sim, foi espectacular. Mas sabes que o efeito era exactamente o mesmo se o homem tivesse proceçado e batido com a cabeça. Morria na mesma e era certamente mais higiénico
 
-`D: Olá C`
+### Panel 5
+Grande plano de C em perfil
+C:
+> És mesmo um velho jarreta. E qual seria a piada disso?
 
-C senta-se na mesa de D
+## PAGE 10
+### Panel 1
+D em grande plano, já a olhar para C, ligeiramente mais longe
 
-`C: Viste pá? Sou famoso`
+C:
+> Fazer o gajo comer 23 pudins levou arte e engenho. Só tive pena porque achei que ele fosse capaz de chegar aos 30
 
-D, ainda com um ar desinteressado
+D:
+> O teu entusiasmo aborrece-me
 
-`D: Sim, foi espectacular, mas sabes que o efeito era exatamente o mesmo se o homem tivesse tropeçado e batido com a cabeça. Morria na mesma e era bem mais higiénico.`
+### Panel 2
+Plano de cima de ambos
 
-`C: És mesmo um velho jarreta. E qual seria a piada disso?`
+C:
+> Xii, é um desses dias? Quantos tens hoje?
 
----
+D:
+> Três
 
-`C: Fazer o gajo comer 23 pudins levou arte e engenho. Tive pena porque achei que ele fosse capaz de chegar aos 30`
+### Panel 3
+Plano de trás de D. À frente dele D já se levantou
 
-`D: O teu entusiasmo cansa-me. Quantos tens hoje?`
+C:
+> Eu também. Quando me despachar vou ao bar beber um copo ou dois
 
-`C: Só 2. A meio da tarde já vou estar despachado e a malhar copos. Apareces por lá?`
+### Panel 4
+Plano médio em perfil de ambos
 
-`D: Sou capaz de lá dar um salto`
+C:
+> E tu? Apareces por lá?
 
-C ri-se enquanto se levanta, acenando a D
+D:
+> Sou capaz de lá dar um salto.
 
-`C: Eu sei que vais. Até nisso és previsível`
+### Panel 5
+C a afastar-se e a olhar para trás enquanto se ri. 
+D está a fazer-lhe um pirete
 
-D faz-lhe um manguito
+C:
+> Eu sei que vais. Até nisso és previsível
 
-> ---
+## PAGE 11
+### Panel 1
+Grande plano de D sentado num café a ler a pasta que recebeu no escritório. O seu chapéu está poisado na sua mesa.
 
-### [SCENE] Dia de trabalho
+### Panel 2
+Plano próximo da fotografia no processo de D. É um homem de bigode e cabelo encaracolado
 
----
+### Panel 3
+Plano exactamente igual ao anterior, mas após a pasta ser inclinada para a frente, mostrando uma pessoa sentada numa mesa à frente a pagar a conta. É o homem de bigode da fotografia
 
-D está sentado num café com a pasta aberta. Lá dentro está uma ficha com a fotografia de um homem
+### Panel 4
+Grande plano traseiro da cabeça de D a ver o homem sair do café
 
-D olha para a mesa da frente onde esse mesmo homem está sentado e a pagar a conta
+### Panel 5
+Grande plano da mão de D a pegar no chapéu
 
-O homem sai do café e D vai atrás, colocando o seu chapéu 
+## PAGE 12
+### Panel 1
+Vista de cima de D do outro homem perto de uma estrada. Vê-se em cima um semáforo que está verde para os carros. D está ao lado do outro homem.
 
----
- 
-Estão ambos parados num semáforo para peões
+### Panel 2
+Grande plano de D de perfil enquanto se vê o homem ao lado
 
-D mantém o olhar em frente mas os seus olhos passam de azuis a vermelhos
+### Panels 3-4
+Grande plano dos olhos de D, passando a vermelhos
 
-O homem caminha apressadamente para a frente do autocarro que, sem tempo para travar, o atropela
+### Panel 5
+Plano das pernas do outro homem que começou a avançar para a estrada
 
----
+### Panel 6
+Plano médio traseiro do homem, que está de braços abertos enquanto um autocarro está prestes a atropelá-lo
 
-### [SCENE] Bar
+## PAGE 13
+### Panel 1
+D está sentado com C numa mesa de um bar. D está a beber uma caneca enquanto C fala
+C:
+> Tu és uma seca. Atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História
 
-Entretanto já é noite. D e C estão sentados numa mesa do bar
+### Panel 2
+Plano médio frontal D
 
-`C: Tu és uma seca. Atropelamentos, despistes, tropeções. Deves ser o colector mais básico da História`
+D:
+> O que tu chamas de básico eu chamo de optimizado.
+> Garanto-te que no fim do dia os teus não ficam mais mortos que os meus
 
-`D: O que tu chamas de básico eu chamo de optimizado. Garanto-te que no fim os teus não ficam mais mortos que os meus`
+### Panel 3
 
-C a rir e a apontar o dedo a D
+C pisca o olho e aponta enquanto D se ri
 
-`C: Mas vão com muito mais estilo!`
+C:
+> Mas vão com muito mais estilo
 
-D ri-se
+### Panel 4
+Plano frontal de D, enquanto leva a caneca perto da boca
 
-`D: Devias sugerir ao G um ranking de mortes por estilo. De certeza que terias muito sucesso`
+D:
+> Devias sugerir ao G um ranking de mortes por estilo. De certeza que terias muito sucesso
 
+### Panel 5
 C olha para cima e coça o queixo
 
-`C: Posso aproveitar e peço um aumento... mas infelizmente acho que o G não gosta muito de mim`
+C:
+> Posso aproveitar e peço um aumento
 
-D de olhos abertos, a gozar com C
+C:
+> ...Mas infelizmente acho que o G não gosta muito de mim
 
-`D: Isso é tão verdade que eu dizer que é um eufemismo é quase um eufemismo`
+D: (FORA DE CENA)
+> Isso é tão verdade que eu dizer que é um eufemismo é quase um eufemismo
 
+### Panel 6
+Vista de trás de C, vendo-se D à frente deste
+
+C:
+> Mais 200 anos e dou-lhe a volta
+
+D:
+> Não se os últimos 200 anos forem indicativos
+
+C:
+> Bah!
+
+### Panel 7
+D levanta-se e pega no chapéu que está em cima da mesa
+
+D:
+> Bem, tenho de ir embora
+
+### Panel 8
+Grande plano de C a apontar para trás, vendo-se uma mulher sentada na mesa
+
+C:
+> Eu também vou, mas é acompanhado por aquela loiraça
+
+### Panel 9
+Plano aproximado de C enquanto coça o queixo
+
+D:
+> Hmmm, e vais consegui-lo com ou sem batota?
+
+### Panel 10
 C ri-se
 
-`C: Mais 200 anos e dou-lhe a volta`
+C:
+> Com batota, claro. Mas exige classe na mesma
 
-`D: Se os últimos 200 anos forem alguma indicação parece-me difícil`
+### Panel 11
+D coloca o chapéu na cabeça
 
-D Levanta-se
+D:
+> Com essa cara imagino que precises de toda a ajuda que conseguires
 
-`D: Bem, tenho de ir embora`
+D:
+> É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera
 
-C aponta o dedo polegar para trás
+### Panel 12
+C desvia o olhar para a sua caneca, pegando-a
 
-`C: Eu também vou, mas é acompanhado por aquela loiraça que está ali sentada`
+C:
+> Podia ser pior. Podia ter estagnado no tempo e ter um bigode de Mosqueteiro do Século XVII
 
-D coça o queixo
+### Panel 13
+Grande plano de D a apontar para o seu bigode
 
-`D: Hmmm, e vais consegui-lo com ou sem batota?`
+D:
+> Pois fica sabendo que este bigode já foi muito elogiado
 
-C ri-se
+C: (FORA DE CENA)
+> Sim, a lobotomia quando foi inventada também foi considerada uma boa ideia
 
-`C: Com batota, claro. Mas exige classe na mesma`
+### Panel 14
+D afasta-se enquanto se ri, acenando a C, que faz um manguito enquanto bebe da sua caneca
+> 
 
-`D: Com essa cara imagino que precises de toda a ajuda que conseguires. É preciso azar para saíres imortal e careca, sabendo que tens uma eternidade de calvíce à tua espera`
+## PAGE 14
+### Panel 1
+Vista de D a entrar no escritório
 
-C desvia o seu olhar para a caneca, pegando-a
+### Panel 2
+Passa pela mesa de C que está vazia
 
-`C: Podia ser pior. Podia ter estagnado no tempo e ter um bigode de Mosqueteiro do Século XVII`
+NARRADOR:
+> O cabrão do C ainda deve estar a ressacar
 
-D aponta para o seu bigode
+### Panel 3
+Vista de cima de D a aproximar-se da sua mesa enquanto estica a mão para um envolve
 
-`D: Pois fica sabendo que este bigode já foi muito elogiado`
+NARRADOR:
+> Vamos lá conhecer os clientes de hoje
 
-`C: Sim, a lobotomia quando foi inventada também foi considerada uma boa ideia`
+### Panel 4
+Vista frontal enquanto pega no envelope
 
-D levanta-se enquanto sorri e acena a C que lhe devolve o aceno enquanto bebe a sua caneca
+NARRADOR:
+> Os cabrões do Departamento de Guerra já têm isto tudo informatizado e nós ainda fazemos tudo como no século passado. Que seca
 
----
+## PAGE 15
+### Panel 1
+Plano da pasta, visto mais ou menos do ponto de vista de D
 
-### [SCENE] Casa de D
+NARRADOR:
+> Carlos Alberto, Maria Rosa e Luís Lopes
+> 
+### Panel 2
+Vista por cima do ombro de D que olha para o lado. Vê-se G lá ao longe
 
-Novamente o despertador a passar das 05:59 para as 06:00, com D a desligá-lo
+NARRADOR:
+> Merda. Só me faltava agora ter de aturar o G
 
-D a sair de casa para ir trabalhar 
+### Panel 3
+G aproxima-se de D com um sorriso. D está com um ar desinteressado, mantendo-se a ler a sua pasta
+
+G:
+> Senhor D, é um privilégio
+
+D:
+> Olá Senhor G
+
+### Panel 4
+G cruza os braços debruçado sobre D, que ainda continua a olhar para a sua pasta
+
+G:
+> Constou-me que ontem causou um certo embaraço ao nosso departamento
+
+D:
+> Bem, na verdade matei todas as pessoas na minha lista
+
+G:
+> Sim, mas o autocarro que atropelou o seu primeiro cliente despistou-se e matou mais 3 pessoas num café
+
+### Panel 5
+
+D olha para cima com um sorriso ligeiro
+
+D:
+> Vejo isso como um bónus
+
+## PAGE 16
+
+### Panels 1-3
+
+Nesta página enquanto G vai falando D imagina cenários de mortes para este. Do lado esquerdo aparece o texto e do lado direto as tais mortes imaginadas por D
+
+G:
+> Compreendo que não seja fácil para o senhor D compreender, mas nós somos uma peça fundamental no equilíbrio da espécie humana. Embora pareça um contra-senso, o trabalho que temos feito durante os últimos milénios tem sido fulcral para a sua sobrevivência
 
 
----
+G:
+> É imperativo que nos dediquemos de corpo e alma a esta causa, elencando sempre os nossos esforços para algo mais. É preciso seguirem os desígnios que vos são propostos e confiarem que há um padrão bem definido para tudo
 
-### [SCENE] Escritório
+G:
+> Isto significa, acima de tudo, que é preciso respeito. Respeito pelo trabalho e pelos outros, inclusive pelos nossos clientes
 
-D entra no escritório.
+### Panel 4
 
-Passa pela mesa de C que ainda não chegou
-
-`NARRADOR (D): O cabrão do C ainda deve estar em casa a ressacar`
-
-Chega à sua mesa onde encontra um novo envelope
-
-`NARRADOR (D): Vamos lá conhecer os clientes de hoje`
-
-Pega na pasta e pensa:
-
-`NARRADOR (D): Os cabrões do Departamento da Guerra já têm isto tudo informatizado e nós ainda fazemos tudo como no século passado. Que seca.`
-
----
-
-Começa a folhear a pasta e lê
-
-`NARRADOR (D): Carlos Alberto, Maria Rosa e Luís Lopes`
-
-Entretanto vê G
-
-`NARRADOR (D): Merda. Só me faltava agora ter de aturar o G`
-
-G aproxima-se
-
-`G: Senhor D, é um privilégio`
-
-Se ohar para G, e mantendo-se a ler a pasta, D responde
-
-`D: Olá Sr G`
-
-G fica de pé com os braços cruzados
-
-`G: Constou-me que ontem causou um certo embaraço ao nosso departamento.`
-
-`D: Bem, na verdade matei todas as pessoas da minha lista.`
-
-`G: Sim, mas o autocarro que atropelou o seu primeiro cliente despistou-se e matou mais 3 pessoas num café`
-
-D olha para G
-
-`D: Eu vejo isso como um bónus. Qual a diferença?`
-
----
- 
-Enquanto G vai falando D imagina cenários de morte para este
-
-`G: Compreendo que não seja fácil para o senhor D compreender, mas nós somos uma peça fundamental no equilíbrio da espécie humana. Embora pareça um contra-senso, o trabalho que temos feito durante os últimos milénios tem sido fulcral para a sua sobrevivência`
-
-`G: É imperativo que nos dediquemos de corpo e alma a esta causa, elencando sempre os nossos esforços para algo mais. É preciso seguirem os desígnios que vos são propostos e confiarem que há um padrão bem definido para tudo`
-
-`G: Isto significa, acima de tudo, que é preciso respeito. Respeito pelo trabalho e pelos outros, inclusive pelos nossos clientes`
-
-D está com um ar disperso (devido a estar a imaginar os tais cenários de morte de G)
+D está com um ar disperso \(devido a estar a imaginar os tais cenários de morte de G\)
 
 G baixa-se com um ar chateado, falando directamente com D
 
-`G: Você está sequer a ouvir-me?`
+G:
+> Você está sequer a ouvir-me?
 
-D revira os olhos
+D:
+> Com certeza senhor G
 
-`D: Com certeza Senhor G`
+### Panel 5
+G a ir embora e D faz um manguito disfarçado
 
-G vira costas e D faz um manguito disfarçado
+## PAGE 17
+### Panel 1
+Vista de frente de D sentado numa paragem de autocarro. Está um homem sentado ao lado dele
 
----
+### Panel 2
+Plano aproximado dos dois. D está a olhar ligeiramente para o homem que neste momento está a fumar um cigarro.
 
-### [SCENE] Paragem do autocarro
+NARRADOR:
+> Se estas pessoas soubessem o quão frágil é a sua vida não saíam de casa com medo do que lhes pudesse acontecer
 
-D está sentado na paragem de autocarro, com um homem sentado ao lado.
+### Panel 3
+Grande plano do tronco do homem, vendo-se os pulmões dele \(como se num raio-x\), bastante negros
 
-`NARRADOR (D): Se estas pessoas soubessem o quão frágil é a sua vida não saíam de casa com medo do que lhes pudesse acontecer`
+NARRADOR:
+> Na verdade conseguem matar-se maravilhosamente bem sem a nossa ajuda
 
-D olha para o homem que está sentado ao lado dele na paragem a fumar. Consegue ver que os pulmões dele estão negros.
+### Panel 4
+Plano de perfil \(aproximado\) de D. Entretanto o outro homem já se levantou
 
-`NARRADOR (D): Na verdade conseguem matar-se maravilhosamente bem sem a nossa ajuda`
+NARRADOR:
+> Embora o G diga que há um padrão e que nada acontece ao acaso tudo isto me parece uma espécie de lotaria cósmica. Primeiro prémio: receber a visita inusitada de um indivíduo imortal, com poderes que se equiparam aos de um super-herói \(ou super-vilão\), que irá garantir que o vencedor recebe um bilhete só de ida para o além
 
-D olha para a frente
+### Panel 5
+Vista por trás de D. O autocarro está parado de porta aberta com o outro homem a entrar. O motorista fala com D
 
-`NARRADOR (D): Embora o G diga que há um padrão e que nada acontece ao acaso tudo isto me parece uma espécie de lotaria cósmica. Primeiro prémio: receber a visita inusitada de um indivíduo imortal, com poderes que se equiparam aos de um super-herói (ou super-vilão), que irá garantir que o vencedor recebe um bilhete só de ida para o além`
+MOTORISTA:
+> Amigo, este é o único autocarro que aqui para. É para entrar?
 
-Entretanto o autocarro já tinha chegado.
-
-O motorista já tem a porta aberta
-
-`MOTORISTA: Amigo, este é o único autocarro que aqui para. É para entrar?`
- 
----
-
-### [SCENE] Viagem de autocarro
+## PAGE 18
 
 Neste momento vê-se D novamente num autocarro, desta vez de pé.
 
 Estão duas senhoras a conversar enquanto olham para um casal punk abraçado
 
-`SENHORA #1: Já me viste aquela pouca vergonha?`
+
+SENHORA #1:
+> Já me viste aquela pouca vergonha?
 
 D espreita por cima do seu ombro, ouvindo a conversa
 
-`SENHORA #2: No meu tempo isto não acontecia. E digo-te mais, os miúdos hoje em dia estão cada vez piores`
 
----
+SENHORA #2:
+> No meu tempo isto não acontecia. E digo-te mais, os miúdos hoje em dia estão cada vez piores
 
 D mete-se na conversa
 
-`D: A nossa juventude adora o luxo, é mal-educada, despreza a autoridade e não tem o menor respeito pelos mais velhos. Os nossos filhos hoje são verdadeiros tiranos. Eles não se levantam quando uma pessoa idosa entra, respondem aos pais, são simplesmente maus`
+D:
+> A nossa juventude adora o luxo, é mal-educada, despreza a autoridade e não tem o menor respeito pelos mais velhos. Os nossos filhos hoje são verdadeiros tiranos. Eles não se levantam quando uma pessoa idosa entra, respondem aos pais, são simplesmente maus
 
 As senhoras acenam em concordância
 
-`SENHORA #1: Exactamente!`
+SENHORA #1:
+> Exactamente!
 
-`D: Sabem quem disse isto? Sócrates no século III antes de Cristo`
+D:
+> Sabem quem disse isto? Sócrates no Século III antes de Cristo
 
-`D: Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo`
+D:
+> Considerando que oiço este discurso há mais de 100 gerações seria de esperar que, seguindo uma espécie de progressão aritmética, este crescendo de maldade iria desembocar num ser humano médio que teria de ser actualmente uma espécie de anti-Cristo
 
-Elas olham um ar surpreendido e D afasta-se.
+Elas olham um ar surpreendido e D afasta-se segurando o seu chapéu
 
-`D: Passem bem minhas senhoras`
+D:
+> Um bom dia para as senhoras
 
----
+## PAGE 19
 
-### [SCENE] Dia de trabalho - Vítima #1
+### Panel 1
+O POLÍCIA toma o pequeno-almoço tranquilamente num café. D está sentado ao seu lado
 
-Um polícia de trânsito toma o pequeno-almoço tranquilamente num café. D está sentado ao seu lado
+### Panel 2
+Grande plano da cara de D. Os olhos deste estão vermelhos
 
----
+### Panel 3
+Plano do Walkie-Talkie, com o POLÍCIA a esticar a mão para lhe pegar
 
-Os olhos de D ficam vermelhos.
+### Panel 4
+POLÍCIA a falar no Walkie-Talkie
 
-O polícia olha para o walkie-talkie, pegando-o de seguida
+POLÍCIA:
+> Aqui Agente Pereira. Que tipo de distúrbios? Escuto
 
-`POLÍCIA: Aqui Agente Pereira. Que tipo de distúrbios? Escuto`
+### Panel 5
+Plano de costas do POLÍCIA enquanto se dirige para a porta de saída
 
-O polícia levanta-se e fala com o empregado
+POLÍCIA:
+> Carlos, tenho de lá ir fora num instante. Já te pago
+> 
+## PAGE 20
+Neste página dever-se-á ver o efeito de comparação entre o que está realmente a acontecer e o que está a ser projectado por D. Vai haver uma separação vertical. Do lado esquerdo vê-se a realidade do POLÍCIA. Do lado direito vê-se a realidade do homem que se aproxima.
+Os painéis não reais podem ter uma tonalidade de cor ligeiramente diferentes.
 
-`POLÍCIA: Carlos, tenho lá ir fora num instante. Já te pago`
+### Panels 1-2
+Plano frontal do polícia, já fora do café, a colocar o seu chapéu. O plano real é 100% igual
 
----
+### Panels 3-4
+Vista de trás do POLÍCIA. À frente vê um tipo de tronco nú, cheio de tatuagens, com uma arma na mão, a olhar para ele.
+Na versão real vê-se simplesmente um homem normal a caminhar
 
-O polícia sai do café enquanto coloca o seu chapéu
+### Panels 5-6
+POLÍCIA aponta a arma ao homem. Na versão real percebe-se que o homem está numa posição sobressaltada. Na versão falsa ele tem um ligeiro sorriso
 
-Lá fora vê um tipo de tronco nú, cheio de tatuagens, com uma arma na mão
+POLÍCIA:
+> Largue essa arma imediatamente!!
 
-O polícia reage imediatamente e aponta-lhe a pistola
+## PAGE 21
 
-`POLÍCIA: Largue essa arma imediatamente!!`
+Esta página continua com o mesmo modelo. Lado esquerdo falso e lado direito verdadeiro. A câmara irá aproximando da cara do homem que se aproxima do POLÍCIA
 
-O homem começa a levantar a arma muito lentamente enquanto sorri a olhar para o polícia
+### Panels 1-2
+Visto por trás do POLÍCIA, vendo-se bem o homem que se aproxima. Na versão falsa ele está com um riso muito maldoso. Na versão verdadeira está com um ar assustado e a falar
 
-O polícia continua a apontar a arma, mas com um ar muito assustado
+HOMEM:
+> Mas... Mas...
 
-`POLÍCIA: Por favor... Eu disparo...`
+### Panels 3-4
+Vista por trás da cabeça do POLÍCIA, vendo-se o homem à frente. Ele começa a apontar a arma enquanto se ri.
+O homem verdadeiro está neste momento com os braços no ar com um ar desesperado
 
----
+POLÍCIA:
+> Por favor... Eu disparo
 
-Desesperado o polícia dispara um tiro nele, pelo que o homem cai no chão
+### Panels 5-6
+Grande plano da cara do homem \(falso\). Riso de orelha a orelha, sem dizer nada.
 
-Nessa altura o Polícia vê o homem morto no chão sem qualquer arma ao lado, inclusive com uma roupa diferente
+### Panels 7-8
+Vista de perfil da arma do polícia apontada
 
-O polícia ajoelha-se ao lado da vítima
+## PAGE 22
 
-`POLÍCIA: Ele tinha uma arma... Eu vi... Ele tinha uma arma...`
+### Panel 1
+Plano ligeiramente de cima com o polícia a disparar sobre o homem.
 
-Vê-se D a passar ao lado do polícia e respectiva vítima 
+### Panel 2
+Grande plano do polícia com a mão na cara e olhos muito abertos
 
-`NARRADOR (D): Bom tiro Sr. Agente. Um já está, faltam dois`
+POLÍCIA:
+> Oh... Meu... Deus
 
----
+### Panel 3
+Vista de ambos, com o homem real morto no chão.
 
-### [SCENE] Dia de trabalho - Vítima #2
+POLÍCIA:
+> Ele tinha uma arma... Eu vi... Ele tinha uma arma...
 
-Rosa, uma senhora de 73 anos, regava tranquilamente as plantas de sua casa
+### Panel 4
+Vê-se D a sair do café. O polícia está ajoelhado ao pé da vítima
 
-De repente tocam à porta. Ela vai na direcção da porta, passando pelo seu gato
+NARRADOR:
+> Bom tiro Senhor Agente. Um já está, faltam dois.
 
-`SENHORA: Já vai, já vai`
+### Panel 5
+Plano parecido com o anterior, mas ligeiramente mais próximo e com D ainda mais longe
 
----
+## PAGE 23
 
-Ela espreita e vê pelo buraco da porta e vê uma menina de tranças vestida de escuteira
+### Panel 1
+Vê-se ROSA na varanda a regar as suas plantas
 
-`SENHORA: Quem é?`
+### Panel 2
+Ela virada para a porta, para sinalizar que tocaram à mesma
 
-`MENINA: Bom dia. Sou dos escuteiros da paróquia e estamos a vender bolinhos`
+ROSA:
+> Ora esta, quem será?
 
-A senhora começa a abrir a porta
+### Panel 3
+Plano do gato de ROSA, vendo-se esta aproximar-se da porta. Continuam a tocar.
 
-`SENHORA: Estou a abrir querida. Mas olha, não devias ter um adulto con..`
+ROSA:
+> Já vai, já vai
 
-Quando abre a porta não vê ninguém lá fora
+### Panel 4
+Grande plano dela a espreitar pelo buraco da porta
 
-`SENHORA: Mas... Onde é que ela se meteu?`
+### Panel 5
+Vê-se uma menina de tranças vestida de escuteira
 
-Ela fecha a porta e vê-se D dentro da casa, com os olhos vermelhos
+### Panel 6
+Novamente perfil da senhora, ainda a espreitar
 
----
+ROSA:
+> Quem é?
 
-D dirige-se à casa de banho e liga a torneira da banheira e pega num secador de cabelo
+MENINA: (FORA DE CENA)
+> Bom dia. Sou dos escuteiros da Paróquia e estamos a vender bolinhos
 
-Uns minutos depois Rosa ouve o miar desesperado do seu gato, percebendo que o som vinha da casa de banho.
+### Panel 7
+ROSA começa a abrir a porta
 
-A senhora levanta-se
+ROSA:
+> Estou a abrir querida. Mas olha, não devias ter um adulto conti...
 
-`SENHORA: Pantufa?`
+### Panel 8
+Vista cá de fora, já com a porta aberta, com ROSA com um ar espantado porque não vê ninguém.
 
-Ela vai a caminho da casa-de-banho
+ROSA:
+> Mas... onde é que ela se meteu?
 
-`SENHORA: A mamã já vai Pantufa`
+### Panel 9
+Vê-se ela a fechar a porta e D já está dentro da sua casa, com os olhos vermelhos
 
----
+## PAGE 24
 
-Quando lá chega vê o seu gato dentro da banheira a miar.
+### Panel 1
+D a ligar a água da banheira
 
-A senhora grita, com ar assustado
+### Panel 2
+D a pegar num secador de cabelo
 
-`SENHORA: Pantufa, o que estás aí a fazer dentro?`
+### Panel 3
+Plano de ROSA sentada no sofá, ouve-se o miar desesperado do gato
 
-Ela prontamente estica os braços para o tirar de lá, não percebendo que o gato não existia, mas sim um secador ligado à corrente.
+GATO: (FORA DE CENA)
+> MIAAAAUUUU!!!!
 
-`SENHORA: Vá, a mamã tira-te daí`
+ROSA:
+> Pantufa?
 
-Ela é electrocutada quando coloca os braços dentro da água
+### Panel 4
+Vista de costas de ROSA a aproximar-se da casa de banho, que aparece com a porta entre-aberta.
 
-Plano de D a sair da casa, vendo-se a mão dela no chão
+O gato está visível sentado ao lado do sofá a dormir
 
----
+ROSA:
+> A mamã já vai Pantufa!
 
-### [SCENE] Dia de trabalho - Vítima #3
+### Panel 5
+Plano de cima com ROSA a entrar na casa-de-banho. O gato está dentro da banheira a miar desesperado
 
-D vê a sua vítima, Luís Lopes, a caminhar na rua numa zona bastante movimentada
+ROSA:
+> Pantufa, o que estás a fazer aí dentro?
 
-Luís aproxima-se de um cruzamento para peões
+### Panel 6
+Plano dos braços dela esticados na direcção da banheira, que está cheia de água com um secador lá dentro
 
----
+ROSA:
+> Vá, a mamã tira-te daí
 
-`NARRADOR (D): Bem, não vou ganhar pontos de originalidade com este, mas 2 em 3 já não foi mau. Badamerda para o C`
+### Panel 7
+Vista de D fora da casa-de-banho
 
-Os olhos de D ficam vermelhos e vê-se Luís a começar a esticar a perna para andar, e a ser puxado subitamente para trás, mas sem ninguém perto dele
+ROSA: (FORA DE CENA)
+> AAAAAAAAHHHHHHH!!!!!!!
 
-D fica embasbacado a olhar
+### Panel 8
+Plano de D a sair de casa, vendo-se também o gato de costas a olhar para ele
 
-`NARRADOR (D): Mas que raio?`
+## PAGE 25
 
----
+### Panel 1
+Plano completo frontal de LUÍS a caminhar pela rua.
 
-### [SCENE] Alice
+### Panel 2
+Plano de trás de D a ver LUÍS a passar por ele
 
-NARRADOR
+### Panel 3
+Vista de cima de LUíS a aproximar-se de uma estrada com semáforo. D está próximo dele
+
+## PAGE 26
+### Panel 1
+Vista de perfil de ambos juntos à estrada
+
+NARRADOR:
+> Bem, não vou ganhar pontos de originalidade com esta, mas 2 em 3 já não foi mau. Badamerda para o C
+
+### Panel 2
+Olhos de D ficam vermelhos
+
+### Panel 3
+LUÍS começa estica a perna para começar a entrar na estrada
+
+### Panel 4
+LUÍS, ainda com as mãos nos bolsos, cai para trás, como se tivesse sido puxado. Está um carro \(visto de frente\) a passar por ele
+
+### Panel 5
+Vista por trás de D que olha para LUÍS, agora caído na calçada
+
+### Panel 6
+Grande plano de D com um ar embasbacado
+
+NARRADOR:
+> Mas que raio?
+
+## PAGE 27
+Esta página deverá ser quase igual à página onde LUÍS caminha na direcção do semáforo. Deverá haver alguns pontos de referência para se perceber que é exactamente a mesma timeline anterior.
+
+### Panel 1
+Plano do LUíS a caminhar, mas agora com ALICE ao seu lado
+
+NARRADOR:
 > 1 minuto antes
 
-Alice está a acompanhar Luís no mesmo caminho anterior, exactamente no mesmo plano de câmara
+### Panel 2
+Vista de LUÍS e ALICE a caminharem juntos. D está um pouco mais atrás
 
-(deverá haver algum ponto de referência para se perceber que é exactamente a mesma timeline anterior)
+### Panel 3
+vista frontal de LUÍS e ALICE estão junto ao semáforo. Um pouco mais atrás e ao lado vê-se D
 
----
+## PAGE 28
 
-Alice está ao lado de Luís enquanto este espera que o semáforo fique verde. Vê-se D um pouco atrás
+### Panel 1
+LUÍS começa a avançar na direcção da estrada com um ar tranquilo. ALICE, ao seu lado, está com os olhos muito abertos
 
-De repente Luís começa as caminhar na direção da estrada, vendo-se um carro a vir mesmo na direcção dele
+### Panel 2
+Plano de trás com ALICE a puxar LUÍS pela camisola
 
-Alice grita, com ar assustado
+### Panel 3
+Plano frontal com LUÍS sentado no chão e ALICE dum lado e D do outro. 
 
-`ALICE: Não!!`
+NARRADOR:
+> Só me faltava esta. Mas este otário quer morrer ou quê?
 
-Vê-se, num plano diferente do outro, ela a puxar Luís para trás
+### Panel 4
+LUÍS levanta-Senhora
 
-Já com Luís sentado no chão, como na cena anterior
+### Panel 5
+Novamente LUÍS a caminhar lado a lado com ALICE, atravessando a passadeira
 
-`NARRADOR (ALICE): Só me faltava esta... Este otário quer morrer ou quê?`
+## PAGE 29
 
----
+### Panel 1
+Vista por trás de D, vendo LUÍS a caminhar já do outro lado da estrada, sem ninguém ao seu lado
 
-### [SCENE] Luís caminha para o emprego
+### Panel 2
+LUÍS está a caminhar pela rua de mãos nos bolsos
 
-Luís está a caminhar pela rua quando subitamente se vê uma carro a dar uma guinada e a vir para cima dele. Vê-se Luís a sair projectado da frente do carro, sem que este o atinja
+### Panel 3
+Imagem de carro a vir na direcção dele a alta velocidade, para cima do passeio
 
-O condutor sai do carro assustado
+### Panel 4
+LUÍS sai projectado da frente do carro, embatendo este contra a parede
 
-`CONDUTOR: Desculpe... Desculpe... Eu desviei-me de uma senhora com um carrinho de bebé que atravessaram a estrada de repente. Onde é que eles estão?`
+### Panel 5
+O CONDUTOR saiu do carro e está com um ar muito assustado
 
-Luís afasta-se da cena com um ar atónito.
+CONDUTOR:
+> Desculpe... Desculpe... Eu desviei-me de uma senhora com um carrinho de bebé que atravessou a estrada de repente
 
----
+### Panel 6
 
-Pouco depois vê-se Luís a passar por dois tipos com mau aspecto, que lhe dizem:
+Vista de cima de LUÍS, ainda a olhar para trás, a afastar-se da cena. O CONDUTOR está a olhar para o lado
 
-`MALTRAPILHO #1: O que é que disseste ó cabrão?`
+CONDUTOR:
+> Mas onde é que eles estão? Eu vi-os...
 
-Luís tenta desesperadamente dizer que não lhes disse nada, mas não é isso que os tipos ouvem (ou veem)
+## PAGE 30
+### Panel 1
+Vista de perfil de LUÍS a passar por dois tipos com muito mau aspecto encostados a uma parede
 
-`MALTRAPILHO #1: Estou-te a avisar filho da puta. Ameaças a minha família outra vez e levas uma chinada`
+### Panel 2
+Os tipos já estão de pé, com um ar irritado e a falar com LUÍS que virou a cabeça para eles
 
-Luís nem consegue responder. Nesta altura um dos tipos tira uma ponta-e-mola e tenta espetá-la em Luís, mas não consegue. Inclusive, a mão dele é partida e ele fica a contorcer-se de dor no chão. Luís foge.
+TIPO:
+> O que é que disseste ó cabrão?
 
----
+### Panel 3
+Os tipos já estão quase em cima de LUÍS que está com os braços no ar
 
-Finalmente Luís chega a um edifício grande de uma empresa de investigação farmacêutica (Genomium) e entra lá para dentro. D espreita de longe.
+TIPO:
+> Estou-te a avisar filho da puta. Ameaças a minha família outra vez e levas uma chinada!
 
-`NARRADOR (D): Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa`
+LUÍS:
+> Mas eu não disse nada...
 
----
+### Panel 4
+Um dos tipos já está a puxar uma faca, prestes a atacar LUÍS
 
-### [SCENE] Casa de Luís
+### Panel 5
+O braço do tipo é dobrado para trás e ele grita com dor, largando a faca
 
-Já está a anoitecer e Luís aproxima-se de sua casa, com Alice ao seu lado
+### Panel 6
+Luís foge da cena, enquanto um dos tipos está no chão
 
-`NARRADOR (ALICE): Meu, já estás em casa. A ver se vais dormir e não fazes mais disparates. Isto está a ser um dia muito esquisito`
+## PAGE 31
 
-Ele abre a porta
+### Panel 1
+Vista frontal de LUÍS a correr, olhando para trás
 
-`NARRADOR (ALICE): Que cheiro é este? Gás??? Não!!!`
+### Panel 2
+D visto de trás com LUÍS já ao longe a correr. Está ao lado de um edifício que diz Genomium.
 
-Alice corre na direcção de Luís enquanto se vê um grande plano de Luís prestes a ligar a luz
+### Panel 3
+LUÍS entra no edifício
 
-De fora vê-se uma explosão
+### Panel 4
+D vira-se de costas e afasta-Senhora
 
----
+NARRADOR:
+> Enganar humanos é fácil mas alarmes e sensores biométricos não. Espero por ti em casa com uma bela surpresa
 
-Luís é projectado pela janela
+## PAGE 32
+### Panel 1
+Já está a anoitecer e LUÍS aproxima-se de casa, com ALICE ao seu lado.
 
-D está do lado de fora com um olhar surpreendido
+### Panel 2
+Grande plano dele a abrir a porta
 
-Alice sai de dentro das chamas e repara em D no lado de fora
+### Panel 3
+LUÍS começa a entrar e ALICE está do lado de fora
 
-Ela lembra-se de vê-lo em várias das situações de quase morte de Luís
+NARRADOR:
+> Pronto, já estás em casa. A ver se vais dormir e não fazes mais disparates. Isto está a ser um dia muito esquisito
 
+## PAGE 33
 
----
+### Panel 1
+Plano frontal de ALICE com um ar assustado
 
-### [SCENE] Rescaldo
+NARRADOR:
+> Que cheiro é este? Gás?!?!
 
-Rescaldo da situação, já com a polícia e bombeiros na zona. Luís está a ser colocado na ambulância.
+### Panel 2
+LUÍS em grande plano a olhar para trás e ALICE a correr na direcção dele. Ele está com a mão no interruptor
 
-D espreita ao longe com Alice ao lado dele. D pega no telefone:
+ALICE:
+> NÃO!!!
 
-`D: C, preciso de falar contigo. Não, não estou a brincar. Consegues ir ter ao café agora?`
+### Panel 3
+Plano da mão a ligar a interruptor
 
----
+### Panel 4
+Vista de fora da casa com uma explosão
 
-`D: Ok, então encont...`
+## PAGE 34
 
-D para e olha em volta para onde está Alice, mas não vê nada, e volta à sua conversa telefónica com C
+### Panel 1
+LUÍS e ALICE saiem projectados pela janela, com ALICE a proteger LUÍS
 
-`D: Nada nada, foi só uma sensação esquisita. OK, daqui a 15 minutos lá`
+### Panel 2
+ALICE está de pé com LUÍS deitado no chão. A roupa dela está queimada
 
----
+### Panel 3
+Plano de trás de Alice, a ver D do outro lado da estrada
 
-### [SCENE] Café
+### Panels 4-6
+Alice aproxima-se de D. Ele continua com um ar surpreendido e não reage à aproximação dela
 
-D está a conversar com C no café
+### Panel 7
+ALICE está ao lado de D. Percebe-se que ele não a vê porque ainda está a olhar para a frente.
 
-`C: Se eu fosse um psicólogo ia achar que inconscientemente estás a falhar de propósito porque tens pena do homem. Mas como te conheço e sei que és uma real besta acho que estás simplesmente a ser azelha`
+NARRADOR:
+> Quem é este tipo? Já o tinha visto hoje...
 
-Alice está invisível ao lado deles a ouvir a conversa
+## PAGE 35
 
-`D: Não consigo explicar as coisas que te contei. Já te aconteceu alguma coisa parecida?`
+### Panel 1
+Já durante o rescaldo da situação. Vê-se uma ambulância e carros dos bombeiros junto da casa de LUÍS. As chamas estão a ser apagadas.
 
-C dá um gole na sua caneca de cerveja e response
+### Panel 2
+Vê-se D com o telefone na mão. ALICE está sentada a alguns metros dele, a olhar para ele atentamente
 
-`C: Já...`
+### Panel 3
+Plano próximo de D a falar ao telefone
 
-Depois ri-se e conclui com um sorriso
+D:
+> C, preciso de falar contigo. Não, não estou a brincar. Consegues ir ter ao café agora?
 
-`C: ...mas nunca sóbrio`
+### Panel 4
+D a olhar para o lado para onde está ALICE
 
----
+D:
+> Ok, então encont...
 
-C poisa o copo
+### Panel 5
+ALICE mantém-se no mesmo sítio, mas com um ar surpreendido. D continua ao telefone
 
-`C: No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?`
+D:
+> Nada, nada. Foi só uma sensação esquisita. OK, daqui a 15 minutos lá
 
-`D: Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para alguns pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os.`
+## PAGE 36
 
-C ri-se
+### Panel 1
+Vista de fora do café
 
-`C: Que falta de consideração pelos teus clientes`
+### Panel 2
+Vista de cima de C e D, sentados a conversar
 
----
+C:
+> Se eu fosse um psicólogo ia achar que inconscientemente estás a falhar de propósito porque tens pena do homem.
 
-D responde
+C:
+> Mas como te conheço e sei que és uma real besta acho que estás simplesmente a ser azelha
 
-`D: Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo.`
+### Panel 3
+Vista de perfil de D. ALICE está de pé ao lado deles, de braços cruzados
 
-C ri-se.
+D:
+> Não tenho uma explicação lógica para o que te contei. Já te aconteceu alguma coisa parecida?
 
-`C: AHAH. Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo.`
+C: (FORA DE CENA)
+> Já...
 
-`D: Sim, também já tinha pensado nisso. Sou capaz de fazer uma visita ninja ao escritório`
+### Panel 4
+Perfil de C a rir, enquanto pega na sua caneca
 
-`C: Boa. Ainda para mais até estás vestido de preto.`
+C: ...Mas nunca sóbrio
 
-`D: Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista.`
+## PAGE 37
 
-(compasso de espera)
 
-`C: Totó.`
+### Panel 1
+Vista de frente de C enquanto poisa a caneca
 
-D coloca o chapéu e acena enquanto sai com Alice ao seu lado
+C:
+> No entanto, embora sejas um bocado básico sempre foste um colector eficaz, pelo que estou oficialmente curioso. Quem é o gajo?
 
----
+### Panel 2
+Perfil de D com ALICE a escutar um pouco mais próxima
 
-### [SCENE] Escritório
+D:
+> Epá, não sei grande detalhes. É um geniozinho que trabalha numa empresa de investigação. Mas sabes que me estou a borrifar para alguns pormenores. Retiro o mínimo de informação necessária como morada, emprego, hobbies, alergias e mato-os.
 
-D está à entrada do edifício, ainda com Alice a segui-lo.
+### Panel 3
+Vista por trás de D, vendo-se C a rir
 
-Pouco depois de passar a porta da entrada D cruza-se com Zé, o Porteiro.
+C:
+> AHAH. Que falta de consideração pelos teus clientes
 
-`Zé: Boa noite sr. D. Não o esperava cá hoje à noite. A menina veio consigo?`
+D:
+> Desculpe Sr. G, não sabia que o tinha convidado para vir beber um copo.
 
-`D: Qual menina?`
+### Panel 4
+Perfil de C
 
-Zé, com um ar inquisitório
+C:
+> Mas olha, porque não vais ao arquivo do escritório para tentar conhecer melhor a tua vítima? Na pior das hipóteses podes descobrir alguma coisa que te ajude a matá-lo.
 
-`ZÉ: A menina bonita ao seu lado, de cabelo preto curto.`
+### Panel 5
+Imagem de perfil de ambos
 
----
+D:
+> Sim, também já tinha pensado nisso. Sou capaz de fazer uma visita ninja ao escritório
 
-Alice, após perceber que Zé consegue vê-la, abre a boca de espanto e para de caminhar.
+C:
+> Boa. Ainda para mais até estás vestido de preto.
 
-D com ar embasbacado olha em volta
+D:
+> Sabes que isso é um erro histórico comum? Os ninjas não se vestiam de preto mas sim com roupas casuais. Caso contrário não se conseguiriam misturar com a população, o que era essencial para serem capazes de se esconder em plena vista.
 
-`D: Mas que raio??`
+### Panel 6
+Imagem igual à anterior, mas com C a beber da sua caneca e a fazer um manguito a D
 
-Alice começa a afastar-se de D e foge pela porta da rua
 
-D vê a porta a abrir sem ninguém a passar por ela.
+### Panel 7
+D está de pé a acenar-lhe. C continua sentado, ainda a beber a sua caneca, e ainda a fazer-lhe o manguito. ALICE vai atrás dele
 
----
+## PAGE 38
 
-`D: Zé! O que aconteceu?`
+### Panel 1
+Vista de fora do escritório, na rua.
 
-`ZÉ: Algo bastante improvável`
+### Panel 2
+Vista de dentro do edifício. D está a caminhar visto de frente, com ALICE logo atrás
 
-`D: Como assim?`
+### Panel 3
+Vista de trás de ZÉ a falar com D. ALICE está ao lado dele
 
-Zé volta para o seu jornal
+ZÉ:
+> Boa noite Senhor D. Não o esperava cá hoje à noite. A menina veio consigo?
 
-`ZÉ: Uma boa noite para si Sr. D`
+### Panel 4
+Grande plano de D com ar surpreendido . Atrás dele ALICE está com um ar assustado
 
-`D: Mas espera... Preciso de saber mais`
+D:
+> Menina? Qual menina?
 
-`ZÉ: Boa noite Sr. D`
+### Panel 5
+Vista de cima a ver-se a cena toda. ZÉ está a apontar para ALICE
 
-Alice afasta-se do edifício, ainda com ar assustado
+ZÉ:
+> A menina bonita atrás de si, de cabelo preto curto
 
-`NARRADOR (ALICE): Como é que ele me viu? Onde é que me vim meter?`
+### Panel 6
+D olha em volta. ALICE está um bocado mais longe
 
----
+D:
+> Mas que raio?
 
-### [SCENE] Escritório
+### Panel 7
+D olha para trás para a porta que acabou de abrir
 
-D pesquisa manualmente um arquivo físico
+## PAGE 39
 
-`NARRADOR (D): Onde está? Onde está?`
+### Panel 1
+D aproxima-se de ZÉ
 
-D segura uma ficha
+D:
+> Zé! O que aconteceu?
 
-`NARRADOR (D): Bingo`
+ZÉ:
+> Algo bastante improvável
 
-D começa a ler a ficha
+### Panel 2
+Perfil de ambos. D está a falar próximo de ZÉ, mas este pega novamente no seu jornal.
 
-`NARRADOR (D): Ok, aqui está. Luís Lopes, 33 anos. Solteiro, investigador chefe na Genomux`
+D:
+> Como assim, improvável?
 
-D faz um ar supreendido
+ZÉ:
+> Uma boa noite para si Senhor D
 
-`NARRADOR (D): "Requisição especial. Ref #7357 - Arquivo Central"`
+D:
+> Mas espera, preciso de saber mais
 
-D olha para a frente
+ZÉ:
+> Boa noite Senhor D
 
-`D: Requisição especial? Mas que raio?`
+### Panel 3
+Plano de frente de ALICE, já cá fora, a afastar-se
 
----
+### Panel 4
+ALICE olha novamente para trás, para o edifício das Finanças
 
-### [SCENE] Hospital
+NARRADOR:
+> Como é que ele me viu? Onde raio é que me vim meter?
 
-Vista de fora do Hospital. Já é de manhã.
+## PAGE 40
 
-D está sentado na sala de espera enquanto lê o seu jornal
+### Panel 1
+Plano de D de pé a consultar um ficheiro físico
 
-D pára de ler e olha para o lado
+### Panel 2
+Perfil aproximado, vendo-se que ele está à procura de alguma coisa
 
-`D: Eu consigo sentir a tua presença. Podes aparecer para conversarmos?`
+NARRADOR:
+> Onde está? Onde está?
 
-Alice aparece sentada ao lado de D
+### Panel 3
+Grandle plano da mão de D a segurar uma ficha
 
-D olha para ela
+NARRADOR:
+> BINGO!
 
-`D: Olá.`
+### Panel 4
+D está a ler a ficha
 
----
+NARRADOR:
+> Ok, aqui está. Luís Lopes, 33 anos. Solteiro, investigador chefe na Genomux
 
-Alice está com um ar supreendido
+### Panel 5
+Dedo de D a apontar para um texto no documento
 
-`ALICE: Mas... Quem és tu?`
+NARRADOR:
+> Requisição especial. Ref \#7357 - Arquivo Central
 
-`D: Isso pergunto-te eu. Porque me andas a seguir?`
+### Panel 6
+Grande plano de D com um ar surpreso
 
-Alice olha D com um ar ameaçador enquanto aponta
+NARRADOR:
+> Requisição especial? Mas que raio?
 
-`ALICE: Andas a tentar matar o tipo que eu quero proteger!`
+## PAGE 41
 
-`D: É o meu trabalho. É suposto eu matá-lo.`
+### Panel 1
+Vista de fora do Hospital. Já é de manhã
 
-`ALICE: Dizes isso com essa naturalidade? Mas que raio de monstro és tu?`
+### Panel 2
+D está sentado na sala de espera enquanto lê o jornal
 
-`D: Pois bem, o dia já está a ser suficientemente esquisito pelo que te vou facilitar a vida: eu sou o que se pode chamar de um colector`
+### Panel 3
+Vista de D de perfil a olhar em frente e a falar
 
----
+D:
+> Eu consigo sentir a tua presença. Consegues aparecer para conversarmos?
 
-Alice abre muito os olhos e diz
+### Panel 4
+Plano parecido com o anterior. Ela aparece num banco perto dele e ele está a olhar para ela. ALICE está com um ar surpreso.
 
-`ALICE: Os colectores são reais? Pensava que eram um mito`
+D:
+> Olá
 
-`D: Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação.`
 
-`ALICE: Isto é demasiado surreal para ser verdade`
+### Panel 5
+Grande plano de ALICE
 
-D ri-se
+ALICE:
+> Mas quem és tu?
 
-`D: Dito por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?`
+D:
+> Isso pergunto-te eu. Porque me andas a seguir?
 
-`ALICE: Sou uma Protectora. Eu... protejo pessoas.`
+### Panel 6
+ALICE com um ar chateado e a apontar para o lado
 
-`D: Sim, pelo nome nunca iria perceber. Há muitos de vocês?`
+ALICE:
+> Porque andas a tentar matar o tipo que eu quero proteger!
 
-`ALICE: Sim.`
+D:
+> É o meu trabalho. É suposto eu matá-lo.
 
----
+## PAGE 42
 
-D revira os olhos
+### Panel 1
+Plano frontal de ALICE
 
-`D: Bestial. Andamos nós a matar para que depois haja aí um grupo de escuteiros a salvá-los. Então e este tipo, o Luís, porque é que o estás a salvar?`
+ALICE:
+> Dizes isso com essa naturalidade? Mas que raio de monstro és tu?
 
-`ALICE: Recebi ordens para o fazer`
+### Panel 2
+D olha para ela e tira o chapéu
 
-`D: Mas sabes pormenores?`
+D:
+> Pois bem, o dia já está a ser suficientemente esquisito pelo que te vou facilitar a vida
 
-`ALICE: Sei`
+D:
+> Eu sou o que se pode chamar de um colector
 
-(Compasso de espera)
+### Panel 3
+Grande plano de ALICE com olhos muito abertos
 
-D faz um ar aborrecido
+ALICE:
+> Os colectores são reais? Pensava que eram um mito
 
-`D: E podes partilhá-los?`
+D: (FORA DE CENA)
+> Lamento informar que somos 100% reais. Se já nos conheces facilitas-me imenso a explicação
 
-Alice sorri
+### Panel 4
 
-`ALICE: Sim, com uma condição: pára te tentar matá-lo`
+ALICE com a mão na cara e D ri-se
 
----
+ALICE:
+> Isto é demasiado surreal para ser verdade
 
-D olha com um ar meio de surpresa meio de riso
+D:
+> Dita por uma tipa com força sobre-humana que consegue ficar invisível. Quem, ou o quê, és tu?
 
-`D: O quê? E porque faria isso?`
+### Panel 5
+Plano completo de ambos
 
-`ALICE: Para percebermos melhor o que está a acontecer. Tens de admitir que isto tresanda`
+ALICE:
+> Sou uma Protectora. Eu... protejo pessoas
 
-D levanta-se e olha para a rua, de costas para Alice, enquanto pensa
+D:
+> Sim, pelo nome nunca iria perceber. Há muitos de vocês?
 
-Fica bastante tempo virado de costas
+ALICE:
+> Sim
 
-Alice olha para o seu relógio e D finalmente vira-se para ela
+### Panel 6
+Grande plano de D a revirar os olhos
 
-`D: Os colectores não podem decidir não seguir ordens. Se um colector decidir não matar alguém um novo colector será enviado no lugar deste. O processo só é concluído quando o cliente é dado como morto`
+D:
+> Bestial. Andamos nós a matar para que haja depois um grupo de escuteiros a salvá-los.
 
----
+## PAGE 43
 
-`ALICE: Estás então a dizer que não é possível?`
 
-D sorri com ar malandro
+### Panel 1
+Perfil de ambos a conversarem
 
-`D: Não estás a alcançar a subtileza da coisa. Ele tem de ser dado como morto, não necessariamente estar morto`
+D:
+> Então e este tipo, o Luís, porque é que o estás a salvar?
 
-`ALICE: E consegues isso?`
+ALICE:
+> Recebi ordens para o fazer
 
-D, ainda de costas para ela, esboça um sorriso ligeiro e diz
+D:
+> Mas sabes pormenores?
 
-`D: Sozinho não consigo, mas com a ajuda de alguém invisível talvez...`
+ALICE:
+> Sei
 
-Alice sorri de volta
+### Panel 2
+Plano igual ao anterior, mas sem ninguém a falar
 
----
+### Panel 3
+Plano igual aos dois anteriores, mas novamente retomando a conversa
 
-### [SCENE] Escritório
+D:
+> E podes contar?
 
+ALICE:
+> Depende
+
+### Panel 4
+Plano de ALICE a sorrir
+
+ALICE:
+> Conto-te se parares de tentar matá-lo
+
+D: (FORA DE CENA)
+> O quê? E porque faria isso?
+
+### Panel 5
+Plano de ALICE
+
+ALICE:
+> Para percebermos melhor o que está a acontecer. Tens de admitir que isto tresanda
+
+D: (FORA DE CENA)
+> Preciso de pensar
+
+### Panels 6-8
+Plano de costas de D, um pouco afastado de ALICE, enquanto pensa. Ele mantém-se imóvel
+
+## PAGE 44
+
+
+### Panel 1
+D vira-se de volta.
+
+D:
+> Os colectores não podem decidir não seguir ordens.
+
+D:
+> Se um colector decidir não matar alguém um novo colector será enviado no lugar deste. O processo só é concluído quando o cliente é dado como morto
+
+### Panel 2
+
+ALICE:
+> Estás a dizer que não é possível?
+
+### Panel 3
+Grande plano de D com um sorriso
+
+D:
+> Não estás a alcançar a subtileza da coisa
+
+D:
+> Ele tem de ser dado como morto, não necessariamente estar morto
+
+### Panel 4
+Grande plano de ALICE
+
+ALICE:
+> E consegues isso?
+
+D: (FORA DE PLANO)
+> Sozinho não consigo
+
+### Panel 5
+Grande plano de D a rir
+D:
+> Mas com a ajuda de alguém invisível talvez consiga...
+
+
+## PAGE 45
+
+### Panel 1
 Vista de fora do edifício das finanças. O texto de narrador mostrará a conversa de D a explicar o plano a Alice, ao mesmo tempo que é executado
 
-`NARRADOR (D): OK, então o plano vai ser este`
 
+NARRADOR: (D)
+> OK, então o plano vai ser este
+
+### Panel 2
 Vista da recepção com D a entrar e a falar com Zé 
 
-`NARRADOR (D): Eu entro no escritório e cumprimento o segurança`
+NARRADOR: (D)
+> Eu entro no escritório e cumprimento o segurança
 
-D fala com Zé
+D:
+> Olá Zé
 
-`D: Olá Zé`
+ZÉ:
+> Olá Senhor D
 
-`ZÉ: Olá Sr. D`
+### Panel 3
+Vista de D ao pé da porta que precisa de cartão de acesso a olhar para trás 
 
-Vista de Zé ao pé da porta que precisa de cartão de acesso à olhar para trás 
+NARRADOR: (D)
+> Nesta altura vou criar uma distracção para o segurança
 
-`NARRADOR (D): Nesta altura vou criar uma distracção para o segurança`
+NARRADOR: (ALICE)
+> Não podes simplesmente fazê-lo não me ver?
 
-`NARRADOR (ALICE): Não podes simplesmente fazê-lo não me ver?`
-
+### Panel 4
 Plano um pouco mais próximo de Zé
 
-`NARRADOR (D): Não. O Zé é imune a isso`
+NARRADOR: (D)
+> Não. O Zé é imune a isso
 
-Grande plano de Zé 
+NARRADOR: (ALICE)
+> Como assim?
 
-`NARRADOR (ALICE): Como assim?`
+### Panel 5
+Grande plano de Zé
 
-`NARRADOR (D): O Zé é um Guardião. Os nossos poderes não funcionam com ele e pelos vistos os vossos também não`
+NARRADOR:
+> O Zé é um guardião. Os nossos poderes não funcionam com ele e pelos vistos os vossos também não
+ 
+### Panel 6
+Plano ainda mais próximo
 
-Plano ainda mais aproximado de Zé
+NARRADOR: (D)
+> Por trás daquele ar simpático está um ser com mais de 10000 anos. Tu NÃO te queres meter com ele
 
-`NARRADOR (D): Por trás daquele ar simpático está um ser com mais de 10000 anos. Tu NÃO te queres meter com ele`
+## PAGE 46
 
----
-
+### Panel 1
 Plano da porta da entrada do edifício com um rapaz de pizzas a entrar
 
-`NARRADOR (D): Quando a distracção entrar no edifício preciso que estejas preparada`
+NARRADOR: (D)
+> Quando a distracção entrar no edifício preciso que estejas preparada
 
+### Panel 2
 Zé a olhar para as pizzas com um ar excitado
 
-`NARRADOR (ALICE): E isso vai ser o suficiente para o distrair?`
+NARRADOR: (ALICE)
+> E isso vai ser o suficiente para o distrair?
 
-`NARRADOR (D): Uma coisa que descobrimos é que os Guardiões são doidos por pizza de Peperoni. Ninguém sabe explicar porquê mas o cheiro daquilo baralha-lhes os sentidos. Já usámos isto em algumas ocasiões especiais... Não perguntes...`
+NARRADOR: (D)
+> Uma coisa que descobrimos é que os Guardiões são doidos por pizza de Peperoni. Ninguém sabe explicar porquê mas o cheiro daquilo baralha-lhes os sentidos. Já usámos isto em algumas ocasiões especiais... Não perguntes...
 
+### Panel 3
 Alice aproxima-se de D e a coloca-lhe a mão no ombro
 
-`NARRADOR (D): Vou fazer um compasso de espera a entrar no escritorio para que tenhas tempo de passar. Dá-me um toque no ombro para sinalizar`
+NARRADOR: (D)
+> Vou fazer um compasso de espera a entrar no escritorio para que tenhas tempo de passar. Dá-me um toque no ombro para sinalizar
 
----
+## PAGE 47
 
-Vista dentro do escritório
+### Panel 1
+Plano completo, dentro do escritório, com D e ALICE a caminharem
 
-`NARRADOR (D): Estou a assumir que ninguém dentro do escritório te consiga ver, dado que só lá estarão colectores como eu`
+NARRADOR: (D)
+> Estou a assumir que ninguém dentro do escritório te consiga ver, dado que só lá estarão colectores como eu
 
-`NARRADOR (D): Após registarmos uma morte há um processo manual que envolve alguém validá-la noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias`
+### Panel 2
+Plano de perfil de ambos
 
-`NARRADOR (D): Nunca pensei dizer isto, mas o processo ser manual é neste caso uma vantagem. A boa notícia é que basta que coloquemos a ficha do processo, que está comigo, no arquivo dos processos executados`
+NARRADOR: (D)
+> Após registarmos uma morte há um processo manual que envolve alguém validá-la noutras fontes, como certidão de óbito, relatório de autópsia e outras burocracias
 
-`NARRADOR (ALICE): E a má?`
+### Panel 3
+Plano de D a olhar para o lado
 
-Alice a seguir F
+NARRADOR: (D)
+> Nunca pensei dizer isto, mas o processo ser manual é neste caso uma vantagem. A boa notícia é que basta que coloquemos a ficha do processo, que está comigo, no arquivo dos processos executados
+> 
+NARRADOR: (ALICE)
+> E a má?
 
-`NARRADOR (D): A má é que apenas algumas pessoas têm acesso à sala dos processos`
+### Panel 4
+ALICE a seguir um outro colector \(F\) perto de uma sala
 
-Alice a entrar atrás de F na sala
+NARRADOR: (D)
+> A má é que apenas algumas pessoas têm acesso à sala dos processos
 
-`NARRADOR (D): Todas as manhãs, quando chega, o F vai à sala colocar os processos do dia anterior`
+### Panel 5
+ALICE a entrar atrás de F na sala
 
-Alice dentro da sala com a porta a fechar
+NARRADOR: (D)
+> Todas as manhãs, quando chega, o F vai à sala colocar os processos do dia anterior
 
-`NARRADOR (D): Depois de entrares deverás ficar lá dentro após ele sair`
+### Panel 6
+F cá fora já com a porta fechada
 
----
+NARRADOR: (D)
+> Depois de entrares deverás ficar lá dentro após ele sair
 
-D a colocar uma pasta por baixa da porta
+## PAGE 48
 
-`NARRADOR (D): A pasta do processo vai ficar comigo, porque se tu a levasses ia ser relativamente esquisito para os meus colegas verem uma pasta voadora. Assim, quando o F sair, eu vou subtilmente passar o processo por debaixo da porta`
+### Panel 1
+D a colocar uma pasta debaixo da porta
 
-Alice a colocar a pasta no arquivo
+NARRADOR: (D)
+> A pasta do processo vai ficar comigo, porque se tu a levasses ia ser relativamente esquisito para os meus colegas verem uma pasta voadora. Assim, quando o F sair, eu vou subtilmente passar o processo por debaixo da porta
 
-`NARRADOR (D): Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo no número certo. Assumindo que na Escolinha de Protectores vos ensinam a contar não deverás ter problemas`
+### Panel 2
+ALICE a colocar a pasta no arquivo
 
-`NARRADOR (ALICE): Engraçadinho`
+NARRADOR: (D)
+> Entretanto já terei alterado o processo todo para mostrá-lo como executado e válido. Basta que o coloques no arquivo no número certo. Assumindo que na Escolinha de Protectores vos ensinam a contar não deverás ter problemas
 
+NARRADOR: (ALICE)
+> Engraçadinho
+
+### Panel 3
 Porta a abrir
 
-`NARRADOR (D): A porta abre por dentro. Quando eu der sinal tu abres a porta e sais`
+NARRADOR: (D)
+> A porta abre por dentro. Quando eu der sinal tu abres a porta e sais
 
-Alice abre a porta e sai.
+### Panel 4
+D e ALICE a caminharem
 
----
+NARRADOR: (D)
+> Depois disso tu vens comigo para que possamos conversar
 
-D e Alice a caminharem
+### Panel 5
+D e ALICE de perfil a passarem pelo ZÉ
 
-`NARRADOR (D): Depois disso tu vens comigo para que possamos conversar`
+NARRADOR: (ALICE)
+> Não vamos ter problemas a passar pelo Guardião?
 
-D e Alice a passarem ao lado de Zé
-
-`NARRADOR (ALICE): Não vamos ter problemas a passar pelo Guardião?`
-
+### Panel 6
 Grande plano de Zé a virar os olhos na direção de Alice
 
-`NARRADOR (D): Os Guardiões estão preocupados com entradas, não saídas`
+NARRADOR: (D)
+> Os Guardiões estão preocupados com entradas, não saídas
 
----
+## PAGE 49
 
-### [SCENE] Parque
+### Panel 1
+Grande plano de D e ALICE sentados num jardim
 
-D e Alice estão sentados num banco de jardim. D fala com Alice
+### Panel 2
+Aproximação a ambos
 
-`D: Acho que está na altura de conversarmos. Fala-me então do que sabes sobre o nosso amigo`
+D:
+> Acho que está na altura de conversarmos. Fala-me então do que sabes sobre o nosso amigo
 
-`ALICE: Sei que o processo dele não nos foi atribuído pela forma convencional. Percebi isso porque o recebi directamente do meu chefe`
+### Panel 3
+Vista de ALICE
 
-`D: Interessante. Continua`
+ALICE:
+> Sei que o processo dele não nos foi atribuído pela forma convencional. Percebi isso porque o recebi directamente do meu chefe
 
-`ALICE: E mais nada, só sei isso`
+D: (FORA DE CENA)
+> Interessante. Continua
 
-D faz um ar chateado
+### Panel 4
+ALICE a abrir as maõs. D está com um ar chateado
 
-`D: Então e a conversa de eu te ajudar e tu me dares mais informação?`
+ALICE:
+> E mais nada. Só sei isso
 
-`ALICE: Se calhar exagerei quando disse que sabia mais pormenores. Mas admite que é muito estranho o facto dele também ter sido marcado por vocês para ser colectado`
+D:
+> Então e a conversa de eu te ajudar e tu me dares mais informação?
 
----
-
-D está de braços cruzados e ar chateado.
-
-`D: Estupidamente até sei mais do que tu`
-
-`ALICE: A sério?`
-
-`D: Sim. No processo do geniozinho falava de uma referência ao Arquivo Central. Nunca tinha visto isto acontecer mas imagino que a informação que nos falta esteja lá`
-
-`ALICE: E podemos lá ir? O que têm lá?`
-
-`D: Geralmente nada de especial. Serve tipicamente como arquivo para os casos fechados.`
-
-`ALICE: E vamos lá?`
-
-D diz, enquanto olha para o seu relógio
-
-`D: Sim e convém despacharmo-nos. Ainda são umas 2 horas de comboio`
-
-`ALICE: De comboio? Porque é que vamos de comboio?`
-
-D diz, a caminhar, já sem olhar para ela, e ela com ar espantado
-
-`D: Porque de autocarro demorava muito mais`
-
----
-
-### [SCENE] Comboio
-
-Alice e D estão sentados numa carruagem de comboio.
-
-`ALICE: Olha, estou curiosa. Podes-me falar dos teus poderes?`
-
+### Panel 5
 D olha para o lado
 
-`D: Não me aborreças`
+D:
+> Estupidamente até sei mais do que tu
 
-Alice segura-lhe no braço
+ALICE: (FORA DE CENA)
+> A sério?
 
-`ALICE: Vá lá`
+### Panel 6
+D olha novamente para ALICE
 
-D revira os olhos
+D:
+> Sim. No processo do geniozinho falava de uma referência ao Arquivo Central. Nunca tinha visto isto acontecer mas imagino que a informação que nos falta esteja lá
 
-`D: Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar`
+## PAGE 50
+### Panel 1
+ALICE olha para D
 
-Alice com ar entusiasmado
+ALICE:
+> E podemos lá ir? O que têm lá?
 
-`ALICE: Isso é espectacular. Podes-me mostrar?`
+D:
+> Geralmente nada de especial. Serve tipicamente como arquivo para os casos fechados
 
----
+### Panel 2
+Grande plano de D a olhar para o seu relógio
 
-D sorri
+ALICE: (FORA DE CENA)
+> E vamos lá?
 
-`D: Olha para aquele tipo ali sentado`
+D:
+> Sim, e convém despachar-nos. Ainda são umas 2 horas de comboio
 
-Um homem está sentado
+### Panel 3
+ALICE com um ar perplexo
 
-Uma mulher toda gira vira-se para ele e diz:
+ALICE:
+> De comboio? Porque raio é que vamos de comboio?
 
-`MULHER: Olá. Será que me pode vir aqui ajudar com uma coisa?`
+### Panel 4
+D a caminhar sem sequer olhar para ela
 
-Ele levanta-se e senta-se ao pé dela.
+D:
+> Porque de autocarro demorava muito mais
 
-Mulher, com ar chateado
+## PAGE 51
 
-`MULHER: O que queres ó boi?`
+### Panel 1
+Vista de cima de Alice e D estão sentados numa carruagem de comboio
 
-O homem faz um ar supreendido. No banco está sentado um indivíduo musculado grande que olha para ele com ar de mau
+### Panel 2
+ALICE olha para D
 
----
+### Panel 3
+Plano de D a olhar em frente, ALICE está a falar com ele
 
-`MUSCULADO: Baza palhaço`
+ALICE:
+> Olha, estou curiosa. Podes-me falar dos teus poderes?
 
-O homem desculpa-se e vai embora
+D:
+> Não me aborreças
 
-`HOMEM: Desculpe, desculpe`
+### Panel 4
+ALICE segura-lhe no braço
 
-Alice ri-se às gargalhadas
+ALICE:
+> Vá lá
 
-`ALICE: Ahah, foi bestial. Não sei o que é que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais interessante do que aquele matulão`
+D:
+> Irra, que chata
 
-D sorri
+## PAGE 52
 
----
+### Panel 1
+Ele vira os olhos para ela
 
-`ALICE: E quem decide as pessoas que são mortas?`
+D:
+> Temos várias habilidades. A principal é a capacidade de manipular os 5 sentidos dos seres-humanos: a audição, a visão, o olfacto, o tacto e o paladar
 
-`D: Honestamente não sei. Todos os dias recebemos os nomes em envelopes fechados, que depois são distribuídos pelos vários colectores`
+### Panel 2
+ALICE está com um ar impressionado
 
-Alice ri-se
+D:
+> UAU! Isso é espectacular e explica muita coisa. Podes-me mostrar?
 
-`ALICE: Envelopes, a sério?`
+### Panel 3
+Vista de trás da cabeça de D vendo-se um tipo sentado sozinho num banco
 
-`D: Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais`
+D:
+> Olha para aquele tipo ali sentado
 
-`D: Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.`
+### Panel 4
+Plano aproximado do homem a olhar para o lado
 
-`ALICE: O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias.`
+MULHER: (FORA DE CENA)
+> Olá
 
-`D: Uiii, acreditas nisso? Ias adorar o meu chefe`
+### Panel 5
+Vista de trás da cabeça do homem, vendo-se à frente dele um mulher toda gira, de mini-saia
 
----
+MULHER:
+> Será que se podia sentar ao meu lado para me ajudar com uma coisa?
 
-`ALICE: E tu, não acreditas no que fazes? Isso é triste`
+### Panel 6
+O homem aproxima-se com um grande sorriso
 
-`D: É o que é. Recebo os nomes e mato-os... Simples`
+## PAGE 53
 
-`ALICE: Não pode ser assim tão simples. Por exemplo, quem é que mataste ontem?`
+### Panel 1
+Senta-se ao lado dela, ainda com um grande sorriso. Ela está a sorrir para ele
 
-`D: Começas a aborrecer-me`
+HOMEM:
+> Como posso ajudar?
 
-`Vá lá...`
+### Panel 2
+Grande plano da cara dela com ar chateado
 
----
+MULHER:
+> O que queres ó boi?
 
-D revira os olhos
+### Panel 3
+Homem meio-levantado. Ao lado dele está um indivíduo musculado e grande que olha para ele com ar de mau
 
-`D: Matei um tipo qualquer, matei uma velha qualquer e tentei matar o teu geniozinho`
+MATULÃO:
+> Baza palhaço!
 
-Alice faz um ar inquisitório
+HOMEM:
+> Desculpe, desculpe...
 
-`ALICE: E como os mataste?`
+### Panel 4
+Plano de ALICE a rir-se às gargalhadas. D sorri
 
-D, com um ar relaxado
+ALICE:
+> AHAH! Foi bestial. Não sei o que lhe mostraste, mas pelo ar de jingão com que se aproximou imagino que fosse bastante mais interessante do que aquele matulão
 
-`D: Fiz um polícia disparar no primeiro tipo. Fritei a velha fazendo-a pensar que estava a pegar num dos gatos dela na banheira quando o que lá estava era de facto um secador ligado à corrente`
+### Panel 5
+Grande plano de ALICE, que já parou de rir
 
-`D: Agora que penso nisso, até foi um dia mais original que o costume. Acho que me deixei levar pelo C.`
+ALICE:
+> E quem decide as pessoas que são mortas?
 
-Alice faz um ar chocado
+D: (FORA DE PLANO)
+> Honestamente não sei. Todos os dias recebemos os nomes por fax, que depois são distribuídos em envelopes fechados pelos vários colectores
 
-`ALICE: Isso foi horrível... Ou seja, além de matares o tipo ainda estragaste a vida ao polícia?`
+### Panel 6
+Plano de ambos
 
-`ALICE: E a velhota? Com um bocado de sorte vivia sozinha e os gatinhos vão morrer à fome`
+ALICE:
+> Fax e envelopes? A sério?
 
-D olha para o lado
+D:
+> Pois. Bem-vinda à tecnologia de topo do departamento de acidentes pessoais
 
-`D: Já estou arrependido por te ter contado`
+D:
+> Quanto à lista em si, é totalmente aleatória. Homem, mulher, novo, velho, branco, preto, amarelo. Completamente não discriminatório.
 
----
+## PAGE 54
 
-`ALICE: Um dia destes vou-te acompanhar num dia de trabalho`
+### Panel 1
+Vista de ALICE
 
-Aproxima-se dele e diz meio a rir ao ouvido
+ALICE:
+> O nosso processo é parecido. No entanto eu não acredito que as escolhas sejam aleatórias.
 
-`ALICE: Como vou invisível podes imaginar que sou a voz da tua consciência`
+D: (FORA DE CENA)
+> Uiii, acreditas nisso? Ias adorar o meu chefe
 
-D, com um ar aborrecido enquanto coloca o chapéu
+### Panel 2
+Perfil de ambos
 
-`D: Santa Paciência... Quem me dera poder utilizar os meus poderes em mim próprio para deixar de te ouvir`
+ALICE:
+> E tu, não acreditas no que fazes? Isso é triste
 
----
+D:
+> É o que é. Recebo os nomes e mato-os... Simples
 
-### [SCENE] Entrada do Arquivo
+ALICE:
+> Não pode ser assim tão simples. Por exemplo, quem é que mataste ontem?
 
-Já está a anoitecer
+D:
+> Começas a aborrecer-me
 
-`NARRADOR (ALICE): Tens a certeza que não vamos ter problemas a entrar?`
+ALICE:
+> Vá lá
 
-Vista do balcão onde está o segurança colector
+### Panel 3
+D com um ar seco
 
-`NARRADOR (D): Durante a noite a segurança é feita por guardiões. No entanto durante o dia é assegurada por Colectores. Parece algo parvo mas é feito por motivos disciplinares`
+D:
+> Matei um tipo qualquer, matei uma velha qualquer e tentei matar o teu geniozinho
 
-Vista de um painel junto do segurança
+ALICE: (FORA DE CENA)
+> E como os mataste?
 
-`NARRADOR (D): O maior problema não é a entrada, porque a isso eu tenho acesso. O problema são os alarmes e sensores biométricos para entrar nas salas de arquivo`
+D:
+> Fiz um polícia disparar no primeiro tipo. Fritei a velha fazendo-a pensar que estava a pegar num dos gatos dela na banheira quando o que lá estava era de facto um secador ligado à corrente
 
-Vista de D a conversar com o segurança enquanto Alice carrrega num botão
+### Panel 4
+Plano de D com a mão na cara e ar pensativo
 
-`NARRADOR (D): Motivo pela qual a minha amiga invisível vai desligar o alarme da sala #7 enquanto eu distraio o meu colega Colector`
+D:
+> Até foi um dia mais original que o costume. Isto são as más influências do C
 
-Entram na sala de arquivo. É uma sala gigantesca com várias filas de arquivos, todas paralelas
+### Panel 5
+ALICE com ar chateado
 
-D caminha pelos arquivos
+ALICE:
+> Isso foi horrível... Ou seja, além de matares o tipo ainda estragaste a vida ao polícia?
 
-`D: 7354, 7355, 7356... 7357. Aqui está`
+ALICE:
+> E a velhota? Com um bocado de sorte vivia sozinha e os gatinhos vão morrer à fome
 
-Enquanto D pega na pasta ouve-se uma voz por trás deles
+D: (FORA DE CENA)
+> Já estou arrependido de te ter contado
 
-`ANCIÃO: Sejam bem-vindos. Estava à vossa espera`
+### Panel 6
+Plano de ALICE a falar ao ouvido de D que está de braços cruzados a olhar para o outro lado
 
----
+ALICE:
+> Um dia destes vou-te acompanhar num dia de trabalho
 
-Vê-se um homem bem vestido, com um ar muito arranjado, com um guardião de cada lado
+ALICE:
+> Como vou invisível podes imaginar que sou a voz da tua consciência
 
-Alice fica invisível
+D:
+> Santa paciência...
 
-`ANCIÃO: Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo`
+## PAGE 55
 
-`D: Quem... é você?`
+### Panel 1
+Vista de fora do edifício do Arquivo. 
 
-`ANCIÃO: Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos`
+### Panel 2
+D e ALICE já dentro do edifício, junto da entrada
 
-D faz um ar perplexo
+NARRADOR: (ALICE)
+> Tens a certeza que não vamos ter problemas a entrar?
 
-`D: Como?`
+### Panel 3
+D aproxima-se do segurança
 
-`ANCIÃO: Imagino que tenham imensas perguntas. Não é fácil explicar-vos quem somos, mas vou tentar simplificar`
+NARRADOR: (D)  
+> Durante a noite a segurança é feita por guardiões. No entanto durante o dia é assegurada por Colectores. Neste caso é uma vantagem
 
-Imagem com gradiente entre luz e escuridão
+### Panel 4
 
-`ANCIÃO: Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte`
+D a acenar ao segurança e ALICE a dirigir-se para o outro lado
 
----
+NARRADOR: (D)
+> O maior problema não é a entrada, porque a isso eu tenho acesso. O problema são os alarmes e sensores biométricos para entrar nas salas de arquivo
 
-`ANCIÃO: Nós somos responsáveis por manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se a si próprio e aos outros nós intervimos para ajudar a alcançar um balanço.`
+### Panel 5
 
-Grande plano de Alice
+Vista em grande plano de ALICE a carregar num botão num painél enquanto D fala com o segurança de forma entretida
 
-`ANCIÃO: Por vezes protegemos`
+NARRADOR: (D)
+> Motivo pela qual a minha amiga invisível vai desligar o alarme da sala \#7 enquanto eu distraio o meu colega Colector
 
+### Panel 6
+
+D e ALICE a entrarem numa zona que diz "Arquivos - Acesso restrito"
+
+## PAGE 56
+> 
+### Panel 1
+Plano aberto de D e ALICE estão a caminhar pela sala de arquivo. É uma sala gigantesca, do género de uma biblioteca com vários corredores paralelos com documentos
+
+### Panel 2
+Perfil de ambos a caminharem enquanto D olha para os índices
+
+D:
+7354, 7355, 7356
+
+### Panel 3
+D a encontrar o ficheiro
+
+D:
+> Bingo!
+
+### Panel 4
+
+Plano frontal de ambos com um ar surpreendido
+
+ANCIÃO: (FORA DE CENA)
+> Sejam bem-vindos. Estava à vossa espera
+
+## PAGE 57
+
+### Panel 1
+Plano completo de 3 homens. O do meio muito bem vestido e os das pontas vestidos como seguranças.
+
+### Panel 2
+Imagem de D e ALICE. Esta aparece translucente, para mostrar que ficou invisível
+
+### Panel 3
+ANCIÃO:
+> Menina, pode aparecer. À semelhança destes meus amigos guardiões os vossos poderes não funcionam comigo
+
+### Panel 4
+Grande plano de D, ainda com um ar surpreso
+
+D:
+> Quem... é você?
+
+### Panel 5
+Plano de perfil do ANCIÃO
+
+ANCIÃO:
+> Não há um termo certo para nos definir, mas alguns chamam-nos de Anciãos
+
+D: (FORA DE CENA)
+> Como?
+
+ANCIÃO:
+> Imagino que tenham imensas perguntas. Não é fácil explicar-vos quem somos, mas vou tentar simplificar
+
+### Panel 6
+ANCIÃO a olhar para cima, onde se vê um grandiente entre branco e preto
+
+ANCIÃO:
+> Tudo na existência se baseia numa dualidade, onde dois polos se complementam por forma a definir um conceito: a luz e a escuridão, o calor e o frio, a ordem e o caos... a vida e a morte
+
+## PAGE 58
+
+### Panel 1
+Grande plano do ANCIÃO
+
+ANCIÃO:
+> Nós somos responsáveis por manter este equilíbrio, particularmente no que toca ao conceito de vida. Embora o ser humano seja exímio em matar-se a si próprio e aos outros nós intervimos para ajudar a alcançar um balanço.
+
+### Panel 2
+Grande plano de ALICE
+
+ANCIÃO: (FORA DE CENA)
+> Por vezes protegemos
+
+### Panel 3
 Grande plano de D
 
-`ANCIÃO: Por outras colectamos`
+ANCIÃO: (FORA DE CENA)
+> Por outras colectamos
 
-Plano de D e Alice a olharem um para o outro
+### Panel 4
+Plano médio do ANCIÃO
 
-`ANCIÃO: Para tal definimos um modelo bastante complicado onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos.`
+ANCIÃO:
+> Para tal definimos um modelo bastante complicado onde selecionamos as pessoas que deverão ser... ajustadas. É difícil explicar a causa-consequência das escolhas que fazemos.
 
-`ANCIÃO: Não obstante, como em qualquer modelo complexo, também se cometem erros`
+ANCIÃO:
+> Não obstante, como em qualquer modelo complexo, também se cometem erros
 
----
+### Panel 5
 
-`ANCIÃO: Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda`
+Plano muito próximo dos olhos do ANCIÃO
 
-`ANCIÃO: Estamos aqui hoje devido a um único factor: o vosso estimado cliente`
+ANCIÃO:
+> Podem-se estar a questionar quanto ao motivo pelo qual vos estou a contar isto. A verdade é que precisamos da vossa ajuda
 
-`ANCIÃO: O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos. Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável`
+ANCIÃO:
+> Estamos aqui hoje devido a um único factor: o vosso estimado cliente
 
-`ANCIÃO: Por um lado poderá ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis`
+### Panel 6
+Imagem que mostra uma cidade espectacular de um lado e uma cidade toda destruída doutro
 
-`ANCIÃO: Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.`
+NARRADOR: (ANCIÃO)
+> O nosso modelo detectou o que chamamos de singularidade: um evento especial capaz de alterar a civilização como a conhecemos.
 
----
+## PAGE 59
+### Panel 1
+Imagem de um cientista a espreitar por um microscópio
 
-`ANCIÃO: Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode destruir irremediavelmente o ténue equilíbrio que temos conseguido manter`
+NARRADOR: (ANCIÃO)
+> Nomeadamente, o vosso cliente está à beira de fazer uma descoberta no campo da nanotecnologia com um potencial inacreditável
+ 
+### Panel 2
+Imagem de uma pessoa sentada numa cama de Hospital abraçada a uma pessoa \(a tentar transmitir que está feliz e a receber uma notícia boa\)
 
-`ANCIÃO: Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos`
+NARRADOR: (ANCIÃO)
+> Por um lado poderá ter uma grande aplicabilidade na medicina, fazendo com que algumas das doenças fatais da actualidade sejam facilmente tratáveis.
 
-`ANCIÃO: Não conseguindo chegar a consenso optámos por uma nova estratégia sem precedentes: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto`
+### Panel 3
+Imagem de desolação, com imensa gente morta no chão
 
-`ANCIÃO: No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector`
+NARRADOR: (ANCIÃO)
+> Por outro, pode ter um potencial militar aterrador, elevando as armas químicas a um patamar nunca antes visto. Esta tecnologia aplicada a um agente patológico pode ser facilmente utilizada para exterminar milhões, sendo inclusive muito fácil perder o controlo dela, o que poderia ter efeitos catastróficos.
 
----
+### Panel 4
+Imagem de vários Anciãos numa mesa redonda a discutir
 
-`ANCIÃO: Admitimos que a estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito`
+NARRADOR: (ANCIÃO)
+> Alguns de nós acham que, independemente da utilização para o bem ou mal, a civilização humana ainda não está preparada para esta descoberta, dado que pode destruir irremediavelmente o ténue equilíbrio que temos conseguido manter
 
-`ANCIÃO: A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam`
+### Panel 5
 
-D olha com um ar desconfiado
+Grande plano num dos Anciãos, com os dedos cruzados e ar mau
 
-`D: Ou seja, estão basicamente a sacudir a água do capote e a livrar-se da responsabilidade. Muito civilizado sim senhor...`
+NARRADOR: (ANCIÃO)
+> Outros porém, acham que não temos o direito de impedi-la. Pode-nos dar inclusive alguma margem de manobra para alguns ajustes de população mais... drásticos
 
-Alice diz, de braços cruzados
+### Panel 6
 
-`ALICE: Não sei se vai ser fácil chegarmos a acordo`
+ANCIÃO com duas cartas. Uma em cada mão
 
-D coça o queixo
+NARRADOR: (ANCIÃO)
+> Não conseguindo chegar a consenso optámos por uma nova estratégia sem precedentes: enviar uma ordem simultânea de colecta e de protecção, deixando que o destino resolvesse o assunto
 
-`D: Pois, quanto a isso, tenho boas notícias`
+### Panel 7
 
-Alice olha com ar desconfiado
+Plano de D e ALICE a olharem um para o outro
 
-`D: A boa notícia é que já não precisamos de chegar a um consenso`
+ANCIÃO: (FORA DE CENA)
+> No entanto o desenrolar dos acontecimentos foi bastante peculiar e seguiu um rumo que não antecipámos: um colector a trabalhar em conjunto com um protector
 
-D sorri e vira-se para Alice. O Ancião também está com ar surpreendido
 
-Flashback de quando D estava de costas para Alice no Hospital.
+## PAGE 60
 
-`NARRADOR (D): Lembras-te de estares à espera que eu decidisse ajudar-te no Hospital?`
+### Panel 1
+Grande plano do ANCIÃO
 
-Continuação do flashback, desta vez com D visto de frente. D está com os olhos vermelhos e a olhar para o lado
+ANCIÃO:
+> Admitimos que a estratégia original deixou de fazer sentido. Queremos agora uma solução mais civilizada: precisamos que vocês cheguem a acordo relativamente ao que deve ser feito
 
-`NARRADOR (D): Acho que não reparaste que eu tinha ângulo de visão para o quarto. É possível que eu tenha feito a enfermeira dar uma dose de cavalo de morfina ao teu geniozinho`
+ANCIÃO:
+> A decisão é totalmente vossa. Nós iremos respeitar o que quer que decidam e façam
 
-D a sair com Alice, enquanto ela olha para trás, vendo o geniozinho a dormir tranquilamente
+### Panel 2
+Grande plano de D a franzir o sobrolho
 
-`NARRADOR (D): O efeito não terá sido imediato, pelo que precisava de te tirar de lá antes que percebesses o que tinha feito, ou que percebesses a vulnerabilidade da situação.`
+D:
+> Ou seja, estão basicamente a sacudir a água do capote e a livrar-se da responsabilidade. Muito civilizado sim senhor
 
-Fim do flashback. Alice está com um ar irritado. O Ancião está de olhos muito abertos
+ANCIÃO: (FORA DE CENA)
+> Têm de compreender que isto também é novo para...
 
-`ALICE: Tu fizeste o quê???`
+### Panel 3
+Plano de ALICE, de braços cruzados
 
-Alice aponta o dedo a D
+ALICE:
+> Não sei porque acham que vamos conseguir chegar a um acordo. Eu não vou deixar que aconteça o que seja ao LUÍS, e a besta do meu "amigo" deve ter uma ideia diferente
 
-`ALICE: Mas... isto não faz sentido... tu ajudaste-me, fomos preencher o arquivo, viemos aqui...`
+### Panel 4
+Perfil de D e ALICE. D coça o queixo enquanto ALICE olha para ele
 
-D coça a cabeça
+D:
+> Pois, quanto a isso, tenho boas notícias
 
-`D: Há quem me considere ligeiramente obsessivo. A ideia de deixar um trabalho por terminar não era concebível. No entanto, a curiosidade que sentia por perceber o que se passava neste caso também era forte`
+### Panel 5
+ALICE e o ANCIÃO estão com um ar surpreso
 
-D sorri com ar malandro
+D: (FORA DE CENA)
+> A boa notícia é que já não precisamos de chegar a um consenso
 
-`D: Porque não conseguir as duas coisas?`
 
-Alice com ar desesperado
 
-`ALICE: Mas não percebo. Porque me levaste ao teu trabalho para alterar o processo?`
+> 
 
-D ri-se
+## PAGE 61
 
-`D: O que te disse das certidões de óbito era falso. Achas mesmo que nós precisamos de relatórios médicos e afins para validar uma morte? Basicamente entregaste o relatório que tinha pendente da morte do geniozinho, que eu tinha acabado de matar, mas a dizer que tinha sido no dia anterior. Caso contrário corria o risco de não receber o bónus de productividade` 
+### Panel 1
+Imagem igual a quando D estava de costas para ALICE
 
-Alice com ar abatido...
+NARRADOR: (D)
+> Lembras-te de estares à espera que eu decidisse ajudar-te no Hospital?
 
-`ALICE: Mas tu trouxeste-me aqui...`
+### Panel 2
+Imagem de D, desta vez frontal, onde se vê D com os olhos vermelhos a olhar para o lado
 
-`D: Bem, na verdade precisava da tua ajuda para entrar`
+NARRADOR: (D)
+> Acho que não reparaste que eu tinha ângulo de visão para o quarto. É possível que eu tenha feito a enfermeira dar uma dose de cavalo de morfina ao teu geniozinho
 
-Alice grita:
+### Panel 3
 
-`Alice: tu estiveste literalmente 1 minuto de costas para mim. É impossível teres pensado nisso tudo num minuto. Por favor diz-me que estás a brincar...`
+D e ALICE a conversarem, ainda dentro do Hospital
 
-D responde-lhe com um ar calmo.
+NARRADOR: (FORA DE CENA)
+> O efeito não terá sido imediato, pelo que precisava de te tirar de lá antes que percebesses o que tinha feito, ou que percebesses a vulnerabilidade da situação.
 
-`D: Literalmente foram só 47 segundos, mas sim, é mesmo verdade. O geniozinho está a fazer tijolo`
+### Panel 4
+Grande plano de ALICE e do ANCIÃO. Ambos de boca aberta
 
-Alice vira costas e vai-se embora irritada
+### Panel 5
+ALICE com ar irritado
 
-`D: Precisas dos horários do comboio?`
+ALICE:
+> Tu fizeste o quê?!?!
 
-Alice, ainda de costas, faz um manguito
+ALICE:
+> Mas... isto não faz sentido... tu ajudaste-me, fomos preencher o arquivo, viemos aqui...
 
-D vira-se para o Ancião, que ainda olha com um ar perplexo para ele, e tira o chapéu:
+### Panel 6
+Perfil de D
 
-`D: Uma boa noite para os senhores`
+D:
+> Há quem me considere ligeiramente obsessivo. A ideia de deixar um trabalho por terminar estava-me a deixar doido.
 
----
+D:
+> No entanto, a curiosidade sobre este caso também era muito forte.
 
-### [SCENE] Epílogo
+### Panel 7
+Grande plano de D com riso malandro
 
-D entra na casa da velhota que matou
+D:
+> Porque não conseguir as duas coisas?
 
-Do lado do telefone ouve-se o telefone
+## PAGE 62
 
-`OPERADOR: 112. Qual é a emergência?`
+### Panel 1
+ALICE, ainda com os olhos muito abertos
 
-`D: Boa noite. Queria reportar um acidente`
+ALICE:
+> Mas não percebo. Porque me levaste ao teu trabalho para alterar o processo?
 
-Pouco depois vê-se a abrir o saco que trazia e a tirar de lá comida de gato.
+### Panel 2
+Plano médio de D
 
-Deixa comida nos gatos e sai, deixando a porta semi-aberta, vendo-se o gato a comer
+D:
+> O que te disse das certidões de óbito era falso. Achas mesmo que nós precisamos de relatórios médicos e afins para validar uma morte? Basicamente entregaste o relatório que tinha pendente da morte do geniozinho, que eu tinha acabado de matar, mas a dizer que tinha sido no dia anterior. Caso contrário corria o risco de não receber o bónus de productividade
+
+### Panel 3
+Plano de ALICE a apontar o dedo a D com ar chateado
+
+ALICE:
+> Tu estiveste literalmente 5 minutos de costas para mim. É impossível teres pensado nisso tudo num minuto. Por favor diz-me que estás a brincar...
+> 
+D:
+> Literalmente foram só 2:37. Mas sim, o geniozinho está a fazer tijolo.
+
+### Panel 4
+Plano de ALICE a afastar-se enqunto faz um manguito. D está em grande plano
+
+D:
+> Precisas dos horário do comboio?
+
+### Panel 5
+Plano de D a tirar o chapéu enquanto o ANCIÃO e os dois guardiões olham para ele com um ar surpreso
+
+D:
+> Uma boa noite para os senhores
+
+
+## PAGE 63
+
+### Panel 1
+Porta da casa de ROSA a abrir
+
+### Panel 2
+Plano de perfil de D. Este trás um saco na mão
+
+### Panel 3
+Plano dos pés deste, a passar ao lado do Pantufa
+
+### Panel 4
+Plano da parte de baixo de D. Vê-se que pegou no telefone e vê-se o gato com as patas em cima dele
+
+TELEFONE: (FORA DE CENA)
+> 112. Qual é a emergência?
+
+D: (FORA DE CENA)
+> Boa noite. Queria reportar um acidente
+
+### Panel 5
+Grande plano das mãos de D a tirar um frasco de comida de gato no saco
+
+### Panel 6
+Grande plano do gato a comer e D a sair ao longe pela porte
+
+
+> 
+
+
+
+> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> 
+
+> 
+
+
+
+
+
+
+
+
