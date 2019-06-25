@@ -2,7 +2,7 @@
 
 - Um mini-twist seria D querer salvar o homem e Alice a querer matá-lo
 
-- No final, quando voltam, ele ter aproveitado a situação para o matar (de forma meio indirecta, tipo fazendo um enfermeiro ter guardado mal a medicação)
+- ~No final, quando voltam, ele ter aproveitado a situação para o matar (de forma meio indirecta, tipo fazendo um enfermeiro ter guardado mal a medicação)~
 
 - Potencialmente, depois de salvarem o gajo, ele estar de facto a fazer uma arma química. Terminar por exemplo com ele a vender a arma a terroristas ou militares
 
@@ -24,6 +24,8 @@
 
 ### Ideias para discussões parvas
 
-- Muralha da cima ser visível do espaço
+- Muralha da China ser visível do espaço
+
+- Mantém os teus amigos próximos e os teus inimigos ainda mais próximos -> atribuição a Machiavel
 
 - ~Ninjas só se vestiam de preto~
